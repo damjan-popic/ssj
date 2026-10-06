@@ -2,7 +2,7 @@
 
 **Učno gradivo za 1. letnik dodiplomskega študija**  
 Damjan Popič  
-**Različica 1.0**
+**Različica 1.1**
 
 ## Kako delamo s pravopisom
 
@@ -2771,7 +2771,6 @@ Podčrtajte vse pravilne zapise pri vseh parih.
 
 13. Borštnikov/borštnikov prstan
 
-14. Švab/švab (slabšalno poimenovanje za Nemca) Primorski/primorski Slovenec kavboj/Kavboj avstrijska/Avstrijska Koroška stari Grki/Stari Grki indijanec/Indijanec Borštnikov/borštnikov prstan - Zlato vegovo priznanje/zlato Vegovo priznanje/zlato vegovo priznanje
 
 #### Z11. Začetnica
 
@@ -2803,9 +2802,8 @@ Podčrtajte vse pravilne različice pri vseh parih.
 
 6. Sv. pismo/Sv. Pismo/sv. Pismo/sv. pismo/sv. Birma/sv. birma/Sv. birma
 
-7. Na steni imam rembrandta/Rembrandta. (sliko) Lužiški/lužiški Srb beneški Slovenec/Beneški Slovenec/koroški Slovenec/Koroški Slovenec) zvezda severnica/zvezda Severnica/Zvezda severnica/severnica/Severnica Sv. pismo/Sv. Pismo/sv. Pismo/sv. pismo/sv. Birma/sv. birma/Sv. birma
+7. beneški Slovenec/Beneški Slovenec/koroški Slovenec/Koroški Slovenec)
 
-8. beneški Slovenec/Beneški Slovenec/koroški Slovenec/Koroški Slovenec)
 
 #### Z13. Začetnica
 
@@ -2845,21 +2843,22 @@ Podčrtajte vse pravilne različice pri vseh kombinacijah.
 
 11. Božiček/božiček/božič/Božič/božičevanje
 
-12. -! Južna Tirolska/tirolska je avtonomna regija v Severni/severni Italiji. -! Vsak dan je Valentinovo/valentinovo. - ! Ludvik Šestnajsti/Ludvik šestnajsti/Ludvik XVI./Ludvik XVI -! Sir Alex Ferguson/sir Alex Ferguson
+12. Toyota/toyota
 
-13. Toyota/toyota
+13. Republika Srbska/srbska (del BiH)
 
-14. Republika Srbska/srbska (del BiH)
+14. sv. Duh/Sv. Duh/sv. Duh/Sv. duh
 
-15. sv. Duh/Sv. Duh/sv. Duh/Sv. duh
+15. Rdeča kapica/Rdeča Kapica/rdeča Kapica/rdeča kapica
 
-16. Rdeča kapica/Rdeča Kapica/rdeča Kapica/rdeča kapica
+16. Mestni Log/Mestni log
 
-17. Mestni Log/Mestni log
+17. Združeni arabski emirati/Združeni arabski Emirati/Združeni Arabski Emirati
 
-18. Združeni arabski emirati/Združeni arabski Emirati/Združeni Arabski Emirati Dunajski kongres/dunajski kongres Facebook/facebook
+18. Dunajski kongres/dunajski kongres
 
-19. Združeni arabski emirati/Združeni arabski Emirati/Združeni Arabski Emirati -‐ Dunajski kongres/dunajski kongres -‐ Facebook/facebook
+19. Facebook/facebook
+
 
 #### Z15. Začetnica
 
@@ -3253,59 +3252,69 @@ Popravite začetnico, kjer je to potrebno.
 
 Popravite neustrezno veliko/malo začetnico.
 
-jasmina je stopila v salon in pogledala naokoli. hm, nikjer nikogar. le kam so vsi izginili? stopila je do pregradne stene. »mogoče je kdo za njo, pa me ne sliši, ker je radio tako na glas,« je zašepetala. tedaj se je pred njo znašel mark. huh, pravi lepotec! le kje se je skrival do sedaj … kako to, da ga nisem nikoli opazila, je pomislila. v geslu »tujega nočemo, svojega ne damo« je izraženo naše stališče do teh vprašanj. pregovori kdor ne dela, naj ne je, kogar je kača pičila, se boji zvite vrvi, kdor laže, tudi krade se vsi začenjajo z oziralnimi zaimki.
+jasmina je stopila v salon in pogledala naokoli. hm, nikjer nikogar. le kam so vsi izginili? stopila je do pregradne stene. »mogoče je kdo za njo, pa me ne sliši, ker je radio tako na glas,« je zašepetala. tedaj se je pred njo znašel mark. huh, pravi lepotec! le kje se je skrival do sedaj … kako to, da ga nisem nikoli opazila, je pomislila.
+
+v geslu »tujega nočemo, svojega ne damo« je izraženo naše stališče do teh vprašanj.
+
+pregovori *kdor ne dela, naj ne je*, *kogar je kača pičila, se boji zvite vrvi*, *kdor laže, tudi krade* se vsi začenjajo z oziralnimi zaimki.
 
 #### Z23. Začetnica
 
 Zapišite pravilno in utemeljite izbiro.
 
-1. rdeči križ slovenije	bela hiša	zdravniška zbornica
+1. rdeči križ slovenije
 
-2. ljutomersko-ormoške gorice	washington	peti bataljon
+2. bela hiša
 
-3. sueški prekop	friderik s praznim žepom	neoangin
+3. zdravniška zbornica
 
-4. nova vas pri lescah	slovenska slovnica	afričan
+4. ljutomersko-ormoške gorice
 
-5. enciklopedija slovenije	mestna občina celje	libijska puščava
+5. washington
 
-6. dan žena	urad za delo rs	gigi d'agostino
+6. peti bataljon
 
-7. Pripadniki islama verujejo v boga alaha.
+7. sueški prekop
 
-8. In bog je naredil iz rebra ženo in jo privedel k možu.
+8. friderik s praznim žepom
 
-9. Vulkan cumbre vieja na kanarskem otoku palma bi  lahko sprožil velikansko povodenj. Kot prvi bi se potopili kanarski otoki v atlantiku.
+9. neoangin
 
-10. Na kongresu se je zbralo tudi veliko neslovencev.
+10. nova vas pri lescah
 
-11. Okoljski ministri sedemindvajsetih držav članic unije so včeraj v luxembourgu razpravljali o podnebnih spremembah.
+11. slovenska slovnica
 
-12. Na bližnjem vzhodu so dokaj hladno sprejeli predlog ameriškega predsednika georgea busha.
+12. afričan
 
-13. Znani slovenski pesnik anton gradnik se je rodil v brdih.
+13. enciklopedija slovenije
 
-14. Med evropejci vlada strah pred priseljenci z vzhoda.
+14. mestna občina celje
 
-15. Študiram na ekonomski fakulteti.
+15. libijska puščava
 
-16. zdravniška zbornica
+16. dan žena
 
-17. washington
+17. urad za delo rs
 
-18. peti bataljon
+18. gigi d'agostino
 
-19. neoangin
+19. Pripadniki islama verujejo v boga alaha.
 
-20. mestna občina celje
+20. In bog je naredil iz rebra ženo in jo privedel k možu.
 
-21. libijska puščava
+21. Vulkan cumbre vieja na kanarskem otoku palma bi  lahko sprožil velikansko povodenj. Kot prvi bi se potopili kanarski otoki v atlantiku.
 
-22. dan žena
+22. Na kongresu se je zbralo tudi veliko neslovencev.
 
-23. urad za delo rs
+23. Okoljski ministri sedemindvajsetih držav članic unije so včeraj v luxembourgu razpravljali o podnebnih spremembah.
 
-24. gigi d'agostino
+24. Na bližnjem vzhodu so dokaj hladno sprejeli predlog ameriškega predsednika georgea busha.
+
+25. Znani slovenski pesnik anton gradnik se je rodil v brdih.
+
+26. Med evropejci vlada strah pred priseljenci z vzhoda.
+
+27. Študiram na ekonomski fakulteti.
 
 #### Z24. Začetnica
 
@@ -3695,7 +3704,7 @@ Dodatna naloga: označite presledke.
 
 2. 5'10''
 
-3. 800kg/m3
+3. 800kg/m³
 
 4. 100N
 
@@ -3799,7 +3808,7 @@ Popravite stavo ločil, kjer je to potrebno.
 
 3. Firefox 57.0 naj bi bil povsem prenovljen, zato starejši dodatki zanj ne bodo več združljivi.
 
-4. Izračunaj kot produkt: X2 - 16 = _______
+4. Izračunaj kot produkt: X² - 16 = _______
 
 #### L14. Ločila in zapis
 
@@ -3884,17 +3893,17 @@ Kako naštete kratice sklanjamo?
 
 Označite presledke.
 
-18kg
-20°C
-50%
-30x40 cm
-ø1,5mm
-5'10''
-§290
-45°
-800kg/m3
-300€
-100N
+1. 18kg
+2. 20°C
+3. 50%
+4. 30x40 cm
+5. ø1,5mm
+6. 5'10''
+7. §290
+8. 45°
+9. 800kg/m³
+10. 300€
+11. 100N
 
 ### Vejica
 
@@ -4680,13 +4689,13 @@ Popravite stavo vejic v naslednjih primerih, kjer je to potrebno.
 
 Označite vse primere pravilno stavljene vejice.
 
-Šole se v tej prenovi oziroma bolje rečeno nenehnem prenavljanju programov slabo znajdejo.
-Šole se v tej prenovi, oziroma, bolje rečeno, nenehnem prenavljanju programov slabo znajdejo.
-Šole se v tej prenovi, oziroma, bolje rečeno, nenehnem prenavljanju programov, slabo znajdejo.
-Šole se v tej prenovi, oziroma bolje rečeno, nenehnem prenavljanju programov slabo znajdejo.
-Šole se v tej prenovi, oziroma bolje rečeno nenehnem prenavljanju programov slabo znajdejo.
-Šole se v tej prenovi, oziroma bolje rečeno nenehnem prenavljanju programov, slabo znajdejo.
-Šole se v tej prenovi, oziroma, bolje rečeno nenehnem prenavljanju programov, slabo znajdejo.
+1. Šole se v tej prenovi oziroma bolje rečeno nenehnem prenavljanju programov slabo znajdejo.
+2. Šole se v tej prenovi, oziroma, bolje rečeno, nenehnem prenavljanju programov slabo znajdejo.
+3. Šole se v tej prenovi, oziroma, bolje rečeno, nenehnem prenavljanju programov, slabo znajdejo.
+4. Šole se v tej prenovi, oziroma bolje rečeno, nenehnem prenavljanju programov slabo znajdejo.
+5. Šole se v tej prenovi, oziroma bolje rečeno nenehnem prenavljanju programov slabo znajdejo.
+6. Šole se v tej prenovi, oziroma bolje rečeno nenehnem prenavljanju programov, slabo znajdejo.
+7. Šole se v tej prenovi, oziroma, bolje rečeno nenehnem prenavljanju programov, slabo znajdejo.
 
 ### Pisanje skupaj, narazen in z vezajem
 
@@ -6507,13 +6516,6 @@ Tvorite rodilnik in pravilno zapišite.
 
 3. Nagy – ________________________
 
-4. Molière
-
-5. – ________________________
-
-6. Flavio Briatore
-
-7. Nagy
 
 #### B26. Tvorjenje in pregibanje
 
@@ -6525,13 +6527,6 @@ Tvorite orodnik in pravilno zapišite.
 
 3. Wolfowitz – z ________________________
 
-4. Smuts
-
-5. – s ________________________
-
-6. München
-
-7. – z ________________________
 
 #### B27. Tvorjenje in pregibanje
 
@@ -6545,13 +6540,6 @@ Tvorite svojilni pridevnik in pravilno zapišite.
 
 4. (Villeneuve) – _____________________
 
-5. (Anderson)
-
-6. – ________________________
-
-7. (Zakrajšek)
-
-8. (Antonio)
 
 #### B28. Tvorjenje in pregibanje
 
@@ -6609,7 +6597,9 @@ Ane Karenine, Ane Karenina, Ana Karenine (rodilnik)
 
 Postavite v ustrezno obliko. Kjer je to nejasno, je spol določen s oznako m za moški spol, drugod so dodana pomenska pojasnila ali slovnična kategorija, ki jo morate tvoriti.
 
-Vsi jazzisti v New Yorku so si želeli igrati s ___________ (Topher Grace); vsi amaterji v _________ (Greenwich svojilni pridevnik) okrožju Langley se radi vidijo v _________ (Godot) vlogi; vse vojake tlači mora pri _________________ (Downing Street).Winnie Penthouse bo režiral veliki _________ (Broadway) spektakel z naslovom Beg iz Jurskega parka. Za glavne vloge se dogovarja s ____________ (Ferdinand de Saussure), _____________ (Ken Watanabe m), _________ (Gerard Depardieu m) in _____________ (Carlos Tevez).Za nekdanjim predsednikom ______________ (Ceausescu) se je izgubila sled. Zadnjič so ga videli na avtocesti pred ___________________ (Aspen), ko je ustrahoval skupino _____________ (janez; nekoliko okoren, neiznajdljiv, preprost fant) z zgodnjimi ____________ (Goya m) slikami. _________ (Tarantino m) dualizem in ___________ (Autler in Townes; ameriška znanstvenika) efekt se omenjata skupaj le v pravopisnih vajah. (Dostojevski) ______________ romani so bili ____________ (Fanny) najljubše branje: rada je recitirala tudi (Koseski) _____________ ode. _________ (Poe) pesmi in (Krleža m) ___________ Gospoda Glembajevi pa ji niso šli od rok.
+Vsi jazzisti v New Yorku so si želeli igrati s ___________ (Topher Grace); vsi amaterji v _________ (Greenwich *svojilni pridevnik*) okrožju Langley se radi vidijo v _________ (Godot) vlogi; vse vojake tlači mora pri _________________ (Downing Street). Winnie Penthouse bo režiral veliki _________ (Broadway) spektakel z naslovom Beg iz Jurskega parka. Za glavne vloge se dogovarja s ____________ (Ferdinand de Saussure), _____________ (Ken Watanabe *m*), _________ (Gerard Depardieu *m*) in _____________ (Carlos Tevez). Za nekdanjim predsednikom ______________ (Ceausescu) se je izgubila sled. Zadnjič so ga videli na avtocesti pred ___________________ (Aspen), ko je ustrahoval skupino _____________ (janez; *nekoliko okoren, neiznajdljiv, preprost fant*) z zgodnjimi ____________ (Goya *m*) slikami. _________ (Tarantino *m*) dualizem in ___________ (Autler in Townes; *ameriška znanstvenika*) efekt se omenjata skupaj le v pravopisnih vajah.
+
+(Dostojevski) ______________ romani so bili ____________ (Fanny) najljubše branje: rada je recitirala tudi (Koseski) _____________ ode. _________ (Poe) pesmi in (Krleža *m*) ___________ Gospoda Glembajevi pa ji niso šli od rok.
 
 #### B33. Tvorjenje in pregibanje
 
@@ -6651,49 +6641,46 @@ Iz naslednjih zemljepisnih lastnih imen tvorite vrstne pridevnike.
 
 10. Cluj (kluž) _____________________________________
 
-11. Thunder Bay [tándəәr bêj] __________________________
+11. Los Angeles _____________________________________
 
-12. Los Angeles _____________________________________
+12. Cannes ____________________________________
 
-13. Cannes ____________________________________
+13. Utah ______________________________________
 
-14. Utah ______________________________________
+14. Nashville _________________________________
 
-15. Nashville _________________________________
+15. Salt Lake City ____________________________________
 
-16. Salt Lake City ____________________________________
+16. Canberra __________________________________________________
 
-17. Canberra __________________________________________________
+17. Karlsruhe [karəlsrue] _____________________________________
 
-18. Karlsruhe [karəәlsrue] _____________________________________
+18. Aix-les-bains [éks-le-bén] ____________________________________
 
-19. Aix-les-bains [éks-le-bén] ____________________________________
+19. Cluj [kluž]______________________________________
 
-20. Cluj [kluž]______________________________________
+20. Monterrey [monterej]_________________________________
 
-21. Monterrey [monterej]_________________________________
+21. Bydgoszcz [bidgošč]____________________________________
 
-22. Bydgoszcz [bidgošč]____________________________________
+22. Trst _____________________________________
 
-23. Trst _____________________________________
+23. Loče ____________________________________
 
-24. Loče ____________________________________
+24. Lož ______________________________________
 
-25. Lož ______________________________________
+25. Utah [juta] _________________________________
 
-26. Utah [juta] _________________________________
+26. Cannes [kan]____________________________________
 
-27. Cannes [kan]____________________________________
+27. Cluj [kluž] ______________________________________
 
-28. Karlsruhe [karəlsrue] _____________________________________
+28. Cortína d'Ampézzo [kortina dampeco] _________________________________
 
-29. Cluj [kluž] ______________________________________
+29. Mont Ventoux [monventu] ___________________________________________
 
-30. Cortína d'Ampézzo [kortina dampeco] _________________________________
+30. Aix-en-Provence [éks-an-prováns] _____________________________________
 
-31. Mont Ventoux [monventu] ___________________________________________
-
-32. Aix-en-Provence [éks-an-prováns] _____________________________________
 
 #### B36. Tvorjenje in pregibanje
 
@@ -6705,7 +6692,7 @@ Piin/Pijin (Pia – svojilni pridevnik)
 
 Postavite v ustrezno obliko. Kjer je to nejasno, je spol določen s oznako m za moški spol, drugod so dodana pomenska pojasnila.
 
-Vsi jazzisti v New Yorku so si želeli igrati s ____________________ (Charlie Barkley m); vsi amaterji v _____________ (München) se radi vidijo v ___________ (Godot) vlogi; vse vojake tlači mora o ______________ (Bordeaux vrstni pridevnik) prikazni. Winnie Penthouse bo režiral veliki ___________________ (Broadway vrstni pridevnik) spektakel z naslovom Beg iz Jurskega parka. Za glavne vloge se dogovarja s _____________________________ (Ferdinand de Saussure), (Charlie Buzz), _____________________ (Gerard Depardieu m) in _______________ (Woody Allen m). Za nekdanjim predsednikom __________________ (Ceausescu) se je izgubila sled. Zadnjič so ga videli na avtocesti pred _______________________ (Garmisch), ko je ustrahoval skupino _________________ (Juš) z zgodnjimi ___________ (bruc svojilni pridevnik) slikami. ___________ (Saussure) dualizem in __________________ (Autler in Townes; ameriška znanstvenika; priredni svojilni pridevnik) efekt se omenjata skupaj le v pravopisnih vajah. (Trubeckoj) _____________ romani so bili ___________ (Mia) najljubše branje: rada je recitirala tudi (Trocki) ___________ govore. ___________ (Joe) pesmi in (Hruščov) _____________ Gospoda Glembajevi pa ji niso šli od rok.
+Vsi jazzisti v New Yorku so si želeli igrati s ____________________ (Charlie Barkley m); vsi amaterji v _____________ (München) se radi vidijo v ___________ (Godot) vlogi; vse vojake tlači mora o ______________ (Bordeaux vrstni pridevnik) prikazni. Winnie Penthouse bo režiral veliki ___________________ (Broadway vrstni pridevnik) spektakel z naslovom Beg iz Jurskega parka. Za glavne vloge se dogovarja s _____________________________ (Ferdinand de Saussure), _____________________ (Charlie Buzz), _____________________ (Gerard Depardieu m) in _______________ (Woody Allen m). Za nekdanjim predsednikom __________________ (Ceausescu) se je izgubila sled. Zadnjič so ga videli na avtocesti pred _______________________ (Garmisch), ko je ustrahoval skupino _________________ (Juš) z zgodnjimi ___________ (bruc svojilni pridevnik) slikami. ___________ (Saussure) dualizem in __________________ (Autler in Townes; ameriška znanstvenika; priredni svojilni pridevnik) efekt se omenjata skupaj le v pravopisnih vajah. (Trubeckoj) _____________ romani so bili ___________ (Mia) najljubše branje: rada je recitirala tudi (Trocki) ___________ govore. ___________ (Joe) pesmi in (Hruščov) _____________ Gospoda Glembajevi pa ji niso šli od rok.
 
 #### B38. Tvorjenje in pregibanje
 
@@ -6751,19 +6738,16 @@ Iz naslednjih lastnih imen tvorite svojilne pridevnike.
 
 14. Lea ______________________________________________________________
 
-15. Mont Ventoux [monvəәntu] (gora v Franciji) ____________________________
+15. Kodály [kódaj] (m. sp.) _____________________________________________
 
-16. de Courtenay [dəәkurtené] (m. sp.) _____________________________________
+16. Nagy [nodž] (m. sp.) _______________________________________________
 
-17. Kodály [kódaj] (m. sp.) _____________________________________________
+17. Lemieux [lemju] (m. sp.) _____________________________________________
 
-18. Nagy [nodž] (m. sp.) _______________________________________________
+18. Melville [melvil] (m. sp.) _____________________________________________
 
-19. Lemieux [lemju] (m. sp.) _____________________________________________
+19. Richelieu [rišeljé] (m. sp.)
 
-20. Melville [melvil] (m. sp.) _____________________________________________
-
-21. Richelieu [rišeljé] (m. sp.)
 
 #### B41. Besedne vrste
 
@@ -6775,13 +6759,18 @@ Katere besedne vrste poznamo v slovenskem jeziku?
 
 Iz naslednjih lastnih imen tvorite svojilne pridevnike. Poševni deli so dodani zaradi informacije o spolu.
 
-1. Baudouin de Courtenay [dəәkurtené] ____________________________ Bill Maher [mar] _________________________________________ Bill O’Reilly [ourajli]_________________________________________ Rush Limbaugh [limbou] ________________________________________ Charles de Secondat
+1. *Baudouin* de Courtenay [dəkurtené] ____________________________
 
-2. baron de Montesquieu [monteskjé] ________________________
+2. *Bill* Maher [mar] _________________________________________
 
-3. Baudouinde Courtenay [dəkurtené] ____________________________ Bill Maher [mar] _________________________________________ George Shaw [šó]_________________________________________ Rush Limbaugh [limbou] ________________________________________ Charles de Secondat
+3. *Bill* O’Reilly [ourajli]_________________________________________
 
-4. Baudouin de Courtenay [dəәkurtené] ____________________________ Bill Maher [mar] _________________________________________ George Shaw [šó]_________________________________________ Rush Limbaugh [limbou] ________________________________________ Charles de Secondat
+4. *Rush* Limbaugh [limbou] ________________________________________
+
+5. *Charles de Secondat, baron* de Montesquieu [monteskjé] ________________________
+
+6. *George* Shaw [šó]_________________________________________
+
 
 #### B43. Tvorjenje in pregibanje
 
@@ -6933,71 +6922,70 @@ Iz naslednjih zemljepisnih lastnih imen tvorite pridevnike na -ski/ški. Zapiši
 
 7. Montmártre [monmartər] ______________________________________________
 
-8. Montmártre [monmartəәr] ______________________________________________
+8. Les Baux-de-Provence [lebo'deprovans] _______________________________
 
-9. Les Baux-de-Provence [lebo'deprovans] _______________________________
+9. Fontvieille [fonvijej] __________________________________________________
 
-10. Fontvieille [fonvijej] __________________________________________________
+10. Giverny _________________________________
 
-11. Giverny _________________________________
+11. Ardennes ________________________________
 
-12. Ardennes ________________________________
+12. Charleville _______________________________
 
-13. Charleville _______________________________
+13. Metz ___________________________________
 
-14. Metz ___________________________________
+14. Marseille ________________________________
 
-15. Marseille ________________________________
+15. Idaho [ajdaho] ___________________________________________
 
-16. Idaho [ajdaho] ___________________________________________
+16. Port-au-Prince [port-o-prens] ________________________________
 
-17. Port-au-Prince [port-o-prens] ________________________________
+17. Pecs [peč] ___________________________________
 
-18. Pecs [peč] ___________________________________
+18. Baden-Baden [badn-badn] ___________________________________
 
-19. Baden-Baden [badn-badn] ___________________________________
+19. La Paz [la pás] ___________________________________________
 
-20. La Paz [la pás] ___________________________________________
+20. Iowa [ajova] ___________________________________________
 
-21. Iowa [ajova] ___________________________________________
+21. Cambridge [kémbridž] ___________________________________
 
-22. Cambridge [kémbridž] ___________________________________
+22. Carmel-by-the-Sea [karməl baj de si]
 
-23. Carmel-by-the-Sea [karməl baj de si]
+23. Greenwich Village [grenič vilidž]
 
-24. Greenwich Village [grenič vilidž]
+24. Arkansas [arkanso]
 
-25. Arkansas [arkanso]
+25. Marseille [marsej]
 
-26. Marseille [marsej]
+26. Canberra [kanberra]
 
-27. Canberra [kanberra]
+27. Chemnitz [kemnic]
 
-28. Chemnitz [kemnic]
+28. Le Havre [le'aver]
 
-29. Le Havre [le'aver]
+29. Des Moines [demojn]
 
-30. Des Moines [demojn]
+30. Calais [kalé]
 
-31. Calais [kalé]
+31. Szombathely [sombatej]
 
-32. Szombathely [sombatej]
+32. Schwyz [švic]
 
-33. Schwyz [švic]
+33. Arles [arl]
 
-34. Arles [arl]
+34. Pecs [peč]
 
-35. Pecs [peč]
+35. Kansas [kanzas]
 
-36. Kansas [kanzas]
+36. Cannes [kan]
 
-37. Cannes [kan]
+37. Aix-en-Provence [eks-en-provans]
 
-38. Aix-en-Provence [eks-en-provans]
+38. Lille [lil]
 
-39. Lille [lil]
+39. Little Rock [litl rok]
 
-40. Little Rock [litl rok]
 
 #### B47. Tvorjenje in pregibanje
 
@@ -7561,7 +7549,35 @@ Pregibanje prevzetih zemljepisnih imen, priponsko obrazilo -ski, tvorjenje imen 
 
 Besede v oklepajih postavite v ustrezno obliko.
 
-Članica ameriškega kongresa Carrie Meek je od ____________________ (Jeb Bush) zahtevala, naj pokliče brata ____________________ (George Bush) v ___________________ (Washington) in od njega zahteva izpustitev ________________ (Haiti) prebežnikov. _________________ (Bush) administracija je skrivaj sprejela poseben sklep o prebežnikih s _________________ (Haiti.) __________________(Florida) guvernerju ___________________ (Jeb Bush) jo je v nepričakovano tesni tekmi z demokratskim izzivalcem ______________________ (Bill McBride) zagodel še zaplet s __________________ (Haiti) begunci. Na zahtevo ________________ (Haag) tožilke ________________ (Carla del Ponte) bodo proti ZR Jugoslaviji uvedene sankcije, če Beograd mednarodnemu tribunalu za vojne zločine ne bo izročil enajstih ________________ (Haag) obtožencev, med njimi tudi vojaškega voditelja bosanskih Srbov, generala ________________ (Ratko Mladić). Ob neuspelih poskusih aretacije generala Mladića je srbski policiji uspelo razkrinkati zločinsko organizacijo, ki je 10. junija pred ________________ (Beograd) hotelom Jugoslavija ubila policijskega generala ________________ (Boško Buha). Na seznam za likvidacijo je srbska policija poleg __________________________________________ (srbski premier Zoran Đinđić) uvrstila še ___________________________ (Čedomir Jovanović), __________________________ (Miroljub Labus) in _______________________ (Vojislav Šešelj). Na današnji dan leta 1848 so za 33. predsednika ZDA izvolili ________________ (Harry Truman), pod predsednikom ________________ (Ahmed Sukarno) pa se je leta 1949 Indonezija odcepila od Nizozemske. »Pri nastanku slike se bom vedno potrudila, pa če bo visela v slaščičarni v ___________________ (Santa Cruz) ali pa v ________________ (Tate Galery).« Boji v polfinalu so bili bolj izenačeni, kot so pričakovali. Presenečenje je bil poraz _____________________ (Daniela Hantuchova) proti ___________________ (Francesca Schiavone). Pri moških omenimo poraz najboljšega slovenskega teniškega igralca ________________ (Marko Tkalec) z Nemcem _________________ (Waske). Znan je največji poraženec uvodnega dela tekmovanja Lige prvakov, ___________ (München – prid.) Bayern. Za uvrstitev v 2. krog so vrata še vedno odprta _______________________ (švicarski Basel), ____________________ (francoski Lens) in ________________ (grški AEK). Tekmovanje umetnostnih drsalcev v Kanadi je zaradi poškodb olimpijskih zmagovalcev _____________________ (Aleksej Jagudin), ________________ (Sarah Hughes), ________________ (Jelena Brežna) in ______________________ (Anton Siharulidze) priložnost za nove obraze. Domači nasprotnik ______________________ (Emanuel Sandhu) je skoraj brezhibno izvedel kratki program in je bil z naskokom najboljši, mesti niže pa sta pripadli ____________________________ (Japonec Takeši Honda) in ___________________ (Francoz Stanick Jeanette). Najzanimivejša sta bila nastopa ____________________________ (Tatjana Tomjaninova) in _______________________ (Maksim Marinin), čeprav je Marinin pri trojnem ________________ (teoloop) padel. Drugouvrščena Kitajca ____________________________________ (Qing Pang in Jian Tong) sta navdušila v kratkem programu. Posrečilo se je tudi tretjeuvrščenima Kanadčanoma _______________________ (Annabelle Langlois) in _______________________ (Patrice Archetto). Po obveznih plesih je najbolje kazalo Ukrajincema ______________________ (Jelena Grušina) in _________________________ (Ruslan Gončarov). Eugène Delacroix je rad obiskoval pariške salone, kjer se je seznanil s ________________ (Stendhal), ________________ (Merimée), ________________ (Hugo), ________________ (Vigny) in ________________ (Nerval) ter se spoprijateljil s pisateljico __________________ (Georges Sand) in skladateljem ________________ (Chopin). Švicar J. H. Füssli je večino življenja prebil v Angliji in tam ilustriral ______________ (Shakespeare) in ____________ (Dante) dela. V Španiji je nekaj dobrih slikarjev romantike izginilo za veliko in samosvojo osebnostjo _______________________________ (Francisco de Goya y Lucientes).
+Članica ameriškega kongresa Carrie Meek je od ____________________ (Jeb Bush) zahtevala, naj pokliče brata ____________________ (George Bush) v ___________________ (Washington) in od njega zahteva izpustitev ________________ (Haiti) prebežnikov.
+
+_________________ (Bush) administracija je skrivaj sprejela poseben sklep o prebežnikih s _________________ (Haiti.)
+
+__________________(Florida) guvernerju ___________________ (Jeb Bush) jo je v nepričakovano tesni tekmi z demokratskim izzivalcem ______________________ (Bill McBride) zagodel še zaplet s __________________ (Haiti) begunci.
+
+Na zahtevo ________________ (Haag) tožilke ________________ (Carla del Ponte) bodo proti ZR Jugoslaviji uvedene sankcije, če Beograd mednarodnemu tribunalu za vojne zločine ne bo izročil enajstih ________________ (Haag) obtožencev, med njimi tudi vojaškega voditelja bosanskih Srbov, generala ________________ (Ratko Mladić).
+
+Ob neuspelih poskusih aretacije generala Mladića je srbski policiji uspelo razkrinkati zločinsko organizacijo, ki je 10. junija pred ________________ (Beograd) hotelom Jugoslavija ubila policijskega generala ________________ (Boško Buha).
+
+Na seznam za likvidacijo je srbska policija poleg __________________________________________ (srbski premier Zoran Đinđić) uvrstila še ___________________________ (Čedomir Jovanović), __________________________ (Miroljub Labus) in _______________________ (Vojislav Šešelj).
+
+Na današnji dan leta 1848 so za 33. predsednika ZDA izvolili ________________ (Harry Truman), pod predsednikom ________________ (Ahmed Sukarno) pa se je leta 1949 Indonezija odcepila od Nizozemske.
+
+»Pri nastanku slike se bom vedno potrudila, pa če bo visela v slaščičarni v ___________________ (Santa Cruz) ali pa v ________________ (Tate Galery).«
+
+Boji v polfinalu so bili bolj izenačeni, kot so pričakovali. Presenečenje je bil poraz _____________________ (Daniela Hantuchova) proti ___________________ (Francesca Schiavone). Pri moških omenimo poraz najboljšega slovenskega teniškega igralca ________________ (Marko Tkalec) z Nemcem _________________ (Waske).
+
+Znan je največji poraženec uvodnega dela tekmovanja Lige prvakov, ___________ (München – prid.) Bayern. Za uvrstitev v 2. krog so vrata še vedno odprta _______________________ (švicarski Basel), ____________________ (francoski Lens) in ________________ (grški AEK).
+
+Tekmovanje umetnostnih drsalcev v Kanadi je zaradi poškodb olimpijskih zmagovalcev _____________________ (Aleksej Jagudin), ________________ (Sarah Hughes), ________________ (Jelena Brežna) in ______________________ (Anton Siharulidze) priložnost za nove obraze. Domači nasprotnik ______________________ (Emanuel Sandhu) je skoraj brezhibno izvedel kratki program in je bil z naskokom najboljši, mesti niže pa sta pripadli ____________________________ (Japonec Takeši Honda) in ___________________ (Francoz Stanick Jeanette).
+
+Najzanimivejša sta bila nastopa ____________________________ (Tatjana Tomjaninova) in _______________________ (Maksim Marinin), čeprav je Marinin pri trojnem ________________ (teoloop) padel. Drugouvrščena Kitajca ____________________________________ (Qing Pang in Jian Tong) sta navdušila v kratkem programu. Posrečilo se je tudi tretjeuvrščenima Kanadčanoma _______________________ (Annabelle Langlois) in _______________________ (Patrice Archetto). Po obveznih plesih je najbolje kazalo Ukrajincema ______________________ (Jelena Grušina) in _________________________ (Ruslan Gončarov).
+
+Eugène Delacroix je rad obiskoval pariške salone, kjer se je seznanil s ________________ (Stendhal), ________________ (Merimée), ________________ (Hugo), ________________ (Vigny) in ________________ (Nerval) ter se spoprijateljil s pisateljico __________________ (Georges Sand) in skladateljem ________________ (Chopin).
+
+Švicar J. H. Füssli je večino življenja prebil v Angliji in tam ilustriral ______________ (Shakespeare) in ____________ (Dante) dela.
+
+V Španiji je nekaj dobrih slikarjev romantike izginilo za veliko in samosvojo osebnostjo _______________________________ (Francisco de Goya y Lucientes).
 
 #### B84. Tvorjenje in pregibanje
 
@@ -7735,7 +7751,25 @@ Postavite v mestnik (kje?) in tvorite pridevnike na -ski.
 
 Besede v oklepajih postavite v ustrezno obliko.
 
-Tokratna komedija ______________ (Ben Stiller) je svarilo vsem tistim, ki (pod pritiskom okolice) dahnejo usodni »da«, preden sploh dobro spoznajo partnerja. /…/ Filmarjem je bil za okvir scenarij _____________ (Neil Simon), ki ga je napisal za film, posnet leta 1982. /…/ Na ____________ (statistični urad slovenije) smo izvedeli, da je bilo v prvem četrtletju letošnjega leta sklenjenih 626 zakonskih zvez, razvez pa je bilo v tem času 600. (vir: Vikend Magazin) — * — * — * — * — * — * — * — * — * — *— * — * — * — * — * — * — * — * — * — * Sijajno sprevrženi um ___________ (Mel Brooks) vam predstavlja tako prebrisano, drzno in vznemirljivo preprosto spletko, da pri njej res ne more iti nič narobe. Prvi korak: začni z ______________ (Broadway – vrstni pridevnik) uspešnico Producenta – novim musicalom ___________ (Mel Brooks), dobitnikom rekordnih 12 nagrad Tony, ki je temeljil na z Oskarjem nagrajenem filmu _______ (Mel Brooks) iz leta 1968 Producenta. Drugi korak: dva velika _________ (studio), Columbia Pictures in Universal Pictures, združita moči, da bi po ___________ (musical) posneli film. Tretji korak: rekrutirajte fenomenalno _______________ (Susan Stroman), dobitnico petih _______ (Tony – nagrada), med drugim za režijo in koreografijo Producentov na _____________ (Broadway), ki bo s filmom debitirala kot režiserka celovečerca. Četrti korak: pripeljete izvirno zasedbo, dobitnika ________ (Tony – nagrada, množina) _________________ (Nathan Lan) in _____________ (Matthew Broderick) in ju obdajte z dvema največjima ___________________ (Hollywood – vrstni prid.) talentoma, nominiranko za ________ (Oskar) ___________________ (Uma Thurman) in komičnim superzvezdnikom/super zveznikom ___________________(Will Ferrell). /…/ Takrat je bilo občinstvo šokirano nad drznostjo zgodbe o odcvetelem gledališkem producentu ______________ (Max Bialystock) (Mostel) in mirnem, nevrotičnem ________________________ (računovodja Leo Bloom) (Wilder), ki skleneta namenoma producirati _________________ (Broadway – vrstni prid.) polomijo, da bi od tistih, ki naj bi predstavo finančno podrli, zmaknila milijone dolarjev. Film je postal klasika. (vir: www.kolosej.si)
+Tokratna komedija ______________ (Ben Stiller) je svarilo vsem tistim, ki (pod pritiskom okolice) dahnejo usodni »da«, preden sploh dobro spoznajo partnerja. /…/ Filmarjem je bil za okvir scenarij _____________ (Neil Simon), ki ga je napisal za film, posnet leta 1982. /…/ Na ____________ (statistični urad slovenije) smo izvedeli, da je bilo v prvem četrtletju letošnjega leta sklenjenih 626 zakonskih zvez, razvez pa je bilo v tem času 600.
+
+(vir: Vikend Magazin)
+
+---
+
+Sijajno sprevrženi um ___________ (Mel Brooks) vam predstavlja tako prebrisano, drzno in vznemirljivo preprosto spletko, da pri njej res ne more iti nič narobe.
+
+Prvi korak: začni z ______________ (Broadway – vrstni pridevnik) uspešnico Producenta – novim musicalom ___________ (Mel Brooks), dobitnikom rekordnih 12 nagrad Tony, ki je temeljil na z Oskarjem nagrajenem filmu _______ (Mel Brooks) iz leta 1968 Producenta.
+
+Drugi korak: dva velika _________ (studio), Columbia Pictures in Universal Pictures, združita moči, da bi po ___________ (musical) posneli film.
+
+Tretji korak: rekrutirajte fenomenalno _______________ (Susan Stroman), dobitnico petih _______ (Tony – nagrada), med drugim za režijo in koreografijo Producentov na _____________ (Broadway), ki bo s filmom debitirala kot režiserka celovečerca.
+
+Četrti korak: pripeljete izvirno zasedbo, dobitnika ________ (Tony – nagrada, množina) _________________ (Nathan Lan) in _____________ (Matthew Broderick) in ju obdajte z dvema največjima ___________________ (Hollywood – vrstni prid.) talentoma, nominiranko za ________ (Oskar) ___________________ (Uma Thurman) in komičnim superzvezdnikom/super zveznikom ___________________(Will Ferrell). /…/
+
+Takrat je bilo občinstvo šokirano nad drznostjo zgodbe o odcvetelem gledališkem producentu ______________ (Max Bialystock) (Mostel) in mirnem, nevrotičnem ________________________ (računovodja Leo Bloom) (Wilder), ki skleneta namenoma producirati _________________ (Broadway – vrstni prid.) polomijo, da bi od tistih, ki naj bi predstavo finančno podrli, zmaknila milijone dolarjev. Film je postal klasika.
+
+(vir: www.kolosej.si)
 
 #### B91. Tvorjenje in pregibanje
 
@@ -7807,7 +7841,11 @@ Tvorite rodilnik in svojilni pridevnik:
 
 Postavite v ustrezno obliko.
 
-Vsi jazzisti v New Yorku so si želeli igrati s _____________ (Charlie Parker); vsi amaterji v _____________ (Bloomington in Eton) se radi vidijo v _____________ (Shakespeare) vlogah; vse vojake tlači mora pri ___________ (Waterloo). Winnie Penthouse bo režiral veliki _____________ (Broadway) musical z naslovom Beg iz Jurskega parka. Za glavne vloge se dogovarja s _____________ (Tom Waits), _____________ (Brian Ferry), _____________ (Gérard Depardieu) in _____________ (Woody Allen). S scenaristom _____________ (Michael Chrichton) je režiser za izhodišče vzel _____________ (Herder) misel, da sta za prepir potrebna dva. Z a nekdanjim predsednikom _____________ (Bush) se je izgubila sled. Zadnjič so ga videli na avtocesti pred _____________ (Garmisch), ko sta s pokojnim kolegom _____________ (Nixon) ustrahovala skupino nemških _____________ (bruc) z zgodnjimi _____________ (Goya) slikami. _____________ (Marshall) načrt, _____________ (Descartes) dualizem in _____________ (Tyndall) efekt se omenjajo skupaj le v pravopisnih vajah. (Dostojevski) _____________ romani so bili _____________ (Fanny) najljubše branje: rada je recitirala tudi (Koseski) _____________ ode. _____________ (Poe) pesmi in (Krleža) _____________ Gospoda Glembajevi pa ji niso šli od rok.
+Vsi jazzisti v New Yorku so si želeli igrati s _____________ (Charlie Parker); vsi amaterji v _____________ (Bloomington in Eton) se radi vidijo v _____________ (Shakespeare) vlogah; vse vojake tlači mora pri ___________ (Waterloo). Winnie Penthouse bo režiral veliki _____________ (Broadway) musical z naslovom Beg iz Jurskega parka. Za glavne vloge se dogovarja s _____________ (Tom Waits), _____________ (Brian Ferry), _____________ (Gérard Depardieu) in _____________ (Woody Allen). S scenaristom _____________ (Michael Chrichton) je režiser za izhodišče vzel _____________ (Herder) misel, da sta za prepir potrebna dva. Z a nekdanjim predsednikom _____________ (Bush) se je izgubila sled. Zadnjič so ga videli na avtocesti pred _____________ (Garmisch), ko sta s pokojnim kolegom _____________ (Nixon) ustrahovala skupino nemških _____________ (bruc) z zgodnjimi _____________ (Goya) slikami.
+
+_____________ (Marshall) načrt, _____________ (Descartes) dualizem in _____________ (Tyndall) efekt se omenjajo skupaj le v pravopisnih vajah.
+
+(Dostojevski) _____________ romani so bili _____________ (Fanny) najljubše branje: rada je recitirala tudi (Koseski) _____________ ode. _____________ (Poe) pesmi in (Krleža) _____________ Gospoda Glembajevi pa ji niso šli od rok.
 
 #### B93. Tvorjenje in pregibanje
 
@@ -8523,59 +8561,23 @@ Pri Netflix-u, počasi » obnavljajo « njihovo mojstrovino Hiša Iz Kart – se
 
 Pravopisno popravite besedilo:
 
-Republikanci znova zavzeli Predstavniški dom Kongresa 
-Ameriški Republikanci so na torkovih volitvah po pričakovanjih prevzeli večino v 
-Predstavniškem domu ameriškega Kongresa, da so pravzaprav pometli z Demokrati, 
-pa je bilo manj pričakovano. Prav tako so Demokratom odščipnili najmanj 10 
-guvernerskih mest in okrepili položaj v Senatu, kjer pa še ni znano, če jim je uspelo 
-prevzeti večino. To je jasen znak Obami, da mora spremeniti njegovo politiko. 
-V torek so ameriški volivci izbirali vseh 435 članov Predstavniškega doma, spodnjega doma ameriškega Kongresa, 37 članov sicer sto-članskega zgornjega doma 
-Kongresa, Senata, in guvernerje v 37 zveznih državah. Republikanci so slavili na več 
-frontah. Kot navaja ameriška tiskovna agencija AP so zabeležili največjo zmago od 
-leta 1938 in Demokratom po vsega štirih letih odvzeli večino v Predstavniškem domu. 
-Razlog za tako hudi poraz Demokratov, ki so imeli doslej v Predstavniškem domu 
-večino dvesto petinpetdeset proti sto oseminsedemdeset, tiči predvsem v velikem 
-razočaranju volilcev nad demokratskim predsednikom Barackom Obamo, ker po dveh 
-letih njegovega predsedovanja gospodarska kriza ter visoka stopnja nezaposlenosti ne pojenjata. Poleg tega se je močno prebudil konzervativen tabor in drugi 
-aktivisti, na primer t.i. gibanje čajanke (t.j. gibanje za ohranitev Ameriškosti) ki 
-nasprotujejo Obamini zdravstveni reformi in zahtevajo zmanjšanje proračunske 
-porabe. 
-Glede na predsedniške volitve leta 2008, so si Republikanci tokrat povrnili veliko 
-"ozemlja". V okrožjih, kjer je takrat zmagal Republikanski predsedniški kandidat 
-John McCain, so si zdaj povrnili 36 mest, deset pa so jih dobili tudi v Indiani, Ohiu, 
-Pensilvaniji, Illinoisu in Michiganu, kjer je pred dvemi leti slavil Barack Obama. Prav 
-tako so Republikanci razbili "monopol" Demokratov v newyorški enoti in 
-novoangleških državah, saj so dobili sedež na Staten Islandu in v New Hampshireu. 
-Zaenkrat Demokratom v Senatu še dobro kaže; Republikanci bi za prevzem večine 
-morali prevzeti 10 mest, vendar pa bodo Demokrati glede na doslej preštete glasove v 
-100 članskem Senatu obdržali 51 mest skupaj z dvema neodvisnima senatorjema, 
-Republikanci pa jih imajo zagotovljenih 46. Toda tri mesta so še neodločena - aljaško, 
-koloradovsko in washingtonsko. 
-So pa Republikanci dosegli tudi pomembno zmago v tekmi za guvernerska mesta, 
-kjer so Demokratom "odščipnili" najmanj 10 guvernerskih mest. Še posebej uspešni 
-so bili republikanski kandidati v industrijskem osrčju ZDA - v Pensilvaniji, Ohiu in 
-Michiganu, ki so jih sedaj vodili Demokratski guvernerji. Enako se je zgodilo tudi na 
-wisconsinških, iowskih, tennesseeških, kansaških, oklahomskih, novomehiških in 
-wyomingških voliščih. 
- Do sprememb lahko pride še v šestih državah, kjer pa bo zaradi tesnih rezultatov 
-potrebno počakati na končne rezultate. Demokratom tako grozi poraz še v Illinoisu, 
-Oregonu in Maineu, Republikanci pa bi lahko guvernerski položaj izgubili v 
-Connecticutu, Minnesoti in Floridi. 
+**Republikanci znova zavzeli Predstavniški dom Kongresa**
 
+Ameriški Republikanci so na torkovih volitvah po pričakovanjih prevzeli večino v Predstavniškem domu ameriškega Kongresa, da so pravzaprav pometli z Demokrati, pa je bilo manj pričakovano. Prav tako so Demokratom odščipnili najmanj 10 guvernerskih mest in okrepili položaj v Senatu, kjer pa še ni znano, če jim je uspelo prevzeti večino. To je jasen znak Obami, da mora spremeniti njegovo politiko.
 
+V torek so ameriški volivci izbirali vseh 435 članov Predstavniškega doma, spodnjega doma ameriškega Kongresa, 37 članov sicer sto-članskega zgornjega doma Kongresa, Senata, in guvernerje v 37 zveznih državah. Republikanci so slavili na več frontah. Kot navaja ameriška tiskovna agencija AP so zabeležili največjo zmago od leta 1938 in Demokratom po vsega štirih letih odvzeli večino v Predstavniškem domu.
 
-Prav tako je med hujšimi udarci Richardsonov poraz v Novi Mehiki, kjer ga je 
-premagala 
-republikanka 
-Susana 
-Martinez, 
-ki 
-bo 
-postala 
-prva 
-ženska 
-latinskoameriškega porekla na položaju voditelja kake ameriške zvezno-državne 
-enote.
+Razlog za tako hudi poraz Demokratov, ki so imeli doslej v Predstavniškem domu večino dvesto petinpetdeset proti sto oseminsedemdeset, tiči predvsem v velikem razočaranju volilcev nad demokratskim predsednikom Barackom Obamo, ker po dveh letih njegovega predsedovanja gospodarska kriza ter visoka stopnja nezaposlenosti ne pojenjata. Poleg tega se je močno prebudil konzervativen tabor in drugi aktivisti, na primer t.i. gibanje čajanke (t.j. gibanje za ohranitev Ameriškosti) ki nasprotujejo Obamini zdravstveni reformi in zahtevajo zmanjšanje proračunske porabe.
+
+Glede na predsedniške volitve leta 2008, so si Republikanci tokrat povrnili veliko "ozemlja". V okrožjih, kjer je takrat zmagal Republikanski predsedniški kandidat John McCain, so si zdaj povrnili 36 mest, deset pa so jih dobili tudi v Indiani, Ohiu, Pensilvaniji, Illinoisu in Michiganu, kjer je pred dvemi leti slavil Barack Obama. Prav tako so Republikanci razbili "monopol" Demokratov v newyorški enoti in novoangleških državah, saj so dobili sedež na Staten Islandu in v New Hampshireu.
+
+Zaenkrat Demokratom v Senatu še dobro kaže; Republikanci bi za prevzem večine morali prevzeti 10 mest, vendar pa bodo Demokrati glede na doslej preštete glasove v 100 članskem Senatu obdržali 51 mest skupaj z dvema neodvisnima senatorjema, Republikanci pa jih imajo zagotovljenih 46. Toda tri mesta so še neodločena - aljaško, koloradovsko in washingtonsko.
+
+So pa Republikanci dosegli tudi pomembno zmago v tekmi za guvernerska mesta, kjer so Demokratom "odščipnili" najmanj 10 guvernerskih mest. Še posebej uspešni so bili republikanski kandidati v industrijskem osrčju ZDA - v Pensilvaniji, Ohiu in Michiganu, ki so jih sedaj vodili Demokratski guvernerji. Enako se je zgodilo tudi na wisconsinških, iowskih, tennesseeških, kansaških, oklahomskih, novomehiških in wyomingških voliščih.
+
+Do sprememb lahko pride še v šestih državah, kjer pa bo zaradi tesnih rezultatov potrebno počakati na končne rezultate. Demokratom tako grozi poraz še v Illinoisu, Oregonu in Maineu, Republikanci pa bi lahko guvernerski položaj izgubili v Connecticutu, Minnesoti in Floridi.
+
+Prav tako je med hujšimi udarci Richardsonov poraz v Novi Mehiki, kjer ga je premagala republikanka Susana Martinez, ki bo postala prva ženska latinskoameriškega porekla na položaju voditelja kake ameriške zvezno-državne enote.
 
 #### M45. Pravopisna ureditev povedi
 
@@ -8599,65 +8601,52 @@ Pravopisno popravite naslednje povedi, kjer je to potrebno:
 
 9. Pusti kar tako kot je.
 
-10. Izberite pravilen zapis (lahko sta pravilna tudi oba ali nobeden od zapisov):
+Izberite pravilen zapis (lahko sta pravilna tudi oba ali nobeden od zapisov):
 
-11. katerikoli
+| Primer | a) | b) |
+|---|---|---|
+| 1 | katerikoli | kateri koli |
+| 2 | čimprej | čim prej |
+| 3 | kralj Matjaž | Kralj Matjaž |
+| 4 | okvirja | okvira (v pomenu *priprava iz lesa ali drugega materiala, ki kaj obdaja*) |
+| 5 | Koper/Capodistria | Koper / Capodistria |
+| 6 | A4-format | format A4 |
+| 7 | videii | videoti |
+| 8 | pitagorov izrek | Pitagorov izrek |
 
-12. kateri koli
-
-13. čimprej
-
-14. čim prej
-
-15. kralj Matjaž b) Kralj Matjaž
-
-16. okvirja
-
-17. okvira (v pomenu priprava iz lesa ali drugega materiala, ki kaj obdaja)
-
-18. Koper/Capodistria b) Koper / Capodistria
-
-19. A4-format b) format A4
-
-20. videii
-
-21. videoti
-
-22. pitagorov izrek
-
-23. Pitagorov izrek
-
-24. katerikoli b) kateri koli
-
-25. čimprej b) čim prej
-
-26. okvirja b) okvira (v pomenu priprava iz lesa ali drugega materiala, ki kaj obdaja)
-
-27. videii b) videoti
-
-28. pitagorov izrek b) Pitagorov izrek
 
 #### M46. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo:
 
-Republikanci znova zavzeli Predstavniški dom Kongresa
+**Republikanci znova zavzeli Predstavniški dom Kongresa**
+
 Ameriški Republikanci so na torkovih volitvah po pričakovanjih prevzeli večino v Predstavniškem domu ameriškega Kongresa, da so pravzaprav pometli z Demokrati, pa je bilo manj pričakovano. Prav tako so Demokratom odščipnili najmanj 10 guvernerskih mest in okrepili položaj v Senatu, kjer pa še ni znano, če jim je uspelo prevzeti večino. To je jasen znak Obami, da mora spremeniti njegovo politiko.
+
 V torek so ameriški volivci izbirali vseh 435 članov Predstavniškega doma, spod-njega doma ameriškega Kongresa, 37 članov sicer sto-članskega zgornjega doma Kongresa, Senata, in guvernerje v 37 zveznih državah. Republikanci so slavili na več frontah. Kot navaja ameriška tiskovna agencija AP so zabeležili največjo zmago od leta 1938 in Demokratom po vsega štirih letih odvzeli večino v Predstavniškem domu.
+
 Razlog za tako hudi poraz Demokratov, ki so imeli doslej v Predstavniškem domu večino dvesto petinpetdeset proti sto oseminsedemdeset, tiči predvsem v velikem razočaranju volilcev nad demokratskim predsednikom Barackom Obamo, ker po dveh letih njegovega predsedovanja gospodarska kriza ter visoka stopnja nezapos-     lenosti ne pojenjata. Poleg tega se je močno prebudil konzervativen tabor in drugi aktivisti, na primer t.i. gibanje čajanke (t.j. gibanje za ohranitev Ameriškosti) ki nasprotujejo Obamini zdravstveni reformi in zahtevajo zmanjšanje proračunske porabe.
+
 Glede na predsedniške volitve leta 2008, so si Republikanci tokrat povrnili veliko "ozemlja". V okrožjih, kjer je takrat zmagal Republikanski predsedniški kandidat John McCain, so si zdaj povrnili 36 mest, deset pa so jih dobili tudi v Indiani, Ohiu, Pensilvaniji, Illinoisu in Michiganu, kjer je pred dvemi leti slavil Barack Obama. Prav tako so Republikanci razbili "monopol" Demokratov v newyorški enoti in novoangleških državah, saj so dobili sedež na Staten Islandu in v New Hampshireu.
+
 Zaenkrat Demokratom v Senatu še dobro kaže; Republikanci bi za prevzem večine morali prevzeti 10 mest, vendar pa bodo Demokrati glede na doslej preštete glasove v 100 članskem Senatu obdržali 51 mest skupaj z dvema neodvisnima senatorjema, Republikanci pa jih imajo zagotovljenih 46. Toda tri mesta so še neodločena - aljaško, koloradovsko in washingtonsko.
+
 So pa Republikanci dosegli tudi pomembno zmago v tekmi za guvernerska mesta, kjer so Demokratom "odščipnili" najmanj 10 guvernerskih mest. Še posebej uspešni so bili republikanski kandidati v industrijskem osrčju ZDA - v Pensilvaniji, Ohiu in Michiganu, ki so jih sedaj vodili Demokratski guvernerji. Enako se je zgodilo tudi na wisconsinških, iowskih, tennesseeških, kansaških, oklahomskih, novomehiških in wyomingških voliščih.
- Do sprememb lahko pride še v šestih državah, kjer pa bo zaradi tesnih rezultatov potrebno počakati na končne rezultate. Demokratom tako grozi poraz še v Illinoisu, Oregonu in Maineu, Republikanci pa bi lahko guvernerski položaj izgubili v Connecticutu, Minnesoti in Floridi.
+
+Do sprememb lahko pride še v šestih državah, kjer pa bo zaradi tesnih rezultatov potrebno počakati na končne rezultate. Demokratom tako grozi poraz še v Illinoisu, Oregonu in Maineu, Republikanci pa bi lahko guvernerski položaj izgubili v Connecticutu, Minnesoti in Floridi.
+
 Prav tako je med hujšimi udarci Richardsonov poraz v Novi Mehiki, kjer ga je premagala republikanka Susana Martinez, ki bo postala prva ženska latinskoameriškega porekla na položaju voditelja kake ameriške zvezno-državne enote.
 
 #### M47. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-MOL z 125. miljoni dolgo-ročnega dolga najbolj zadolžena mestna občina
+**MOL z 125. miljoni dolgo-ročnega dolga najbolj zadolžena mestna občina**
+
 Nova gorica lani z 2, 4-milijonskim presežkom
+
 12.april 2011. ob 13 : 58 ( Ljubljana )
+
 Mestna Občina Ljubljana je lani tekoče prihotke povečala za 12%, znašali so dve sto triinpetdeset milijonov evrov. Prodaja zemljišč in nakup stadiona, ter dvorane v Stožicah sta močno preoblikovala proračun MOLa. Županu Zoranu Jankoviću je, sicer, uspelo zmanjšati občinski primankljaj, ki pa je ob koncu leta vseeno presegel 29.3 milijonov evrov.
 
 Tudi koperski župan Popovič je lani močno povečal proračunski primankljaj. Presegel je 2500000000 evrov, to pa je 8, 8 milijona EUR več, kot leta 2009. Občina je lani najela 13.75 milijona evrov novih srednje- in dolgo-ročnih posojil, tako, da skupni dolg občine znaša 38.75 milijona evrov. Preostanek primanjkljaja, je Popovičova občina pokrila z rezerv, ki jih pridela pri-obalni turizem.
@@ -8670,30 +8659,40 @@ Med mestnimi občinami, ki so lani povečale primanjkljaj, je tudi Murska sobota
 
 Pravopisno popravite besedilo.
 
-Škofje-loški Pasijon na UNESCO-v seznam?
+**Škofje-loški Pasijon na UNESCO-v seznam?**
+
 Ministrstvo za Kulturo je skupaj z Škofjo loko pristopilo h pripravi nominacije Škofjeloškega Pasijona za vpis na reprezentativni seznam nesnovne kulturne dediščine človeštva pri UNESCO-u. S tem bi Slovenija prispevala delček k razno-likosti in bogatstvu žive dediščine o kateri priča več kot 200. upisanih praks, tradicij, običajev in izrazov na tem seznamu je zapisano v odgovoru na pisno pobudo državno-zborskega poslanca Samo-ta Bevk-a (Socialni Demokrati). Bevk je, namreč, na Ministrico za kulturo Majdo Širco, tudi iz social-demokratskih vrst, naslovil pobudo naj se čimprej vspostavi državen register.
 
 Kot so še zapisali na Ministrstvu je register žive dediščine formalno vzpostavljen, kot prvo enoto, pa so vanj že decembra, 2008, vpisali Škofje-loški Pasijon. Ko-ordinator za varstvo žive dediščine je od letos Etnografski muzej Slovenije in Julijske krajine. Škofje-lokovski pasijon spada med t.i. "procesijske igre" oziroma med množične spokorniške pasijonske procesije, ki so se razvile iz srednjeveških liturgičnih sprevodov, in so bile že v visokem Srednjem veku znane po vsej Srednji Evropi.
-Osredni del dogajanja v Pasijonu so bile Podobe, žive slike razvrščene v sprevodu tako da so uvodni in sklepni prizori dopolnjevali sveto-pisemsko zgodbo o kristusovem odrešenju. V raju sta Adam in Eva grešila, zato je Bog-oče daroval svojega sina, da bo s trpljenjem zadostil božji pravici in odrešil človeški rod, kar se zgodi ko se trpljenje konča s smrtjo na križu, in s polaganjem v grob. Podobe so bile postavljene bodisi na odrih, bodisi na vozovih, ali pa so jih na določenih mestih še oblikovali. Včasih je z scenarija, ki opisuje število oseb na odru, in število mož, ki nosijo odre težko razbrati odersko razsežnost, kjer bi se igralci lahko sprostili. Denimo podoba Raj, ki je verjetno ostanek igre Hoja za paradižem, saj v konjenici pekla eden od hudičev nosi drevo - bistveni scenski element te igre. Ob drevesu naj bi se zvrstilo 7. igralcev. Prav tako je pri treh središčnih Podobah: Krvavi pot, Bičanje, Kronanje, ki jih nosi po šestnajst mož, na odru je dva-krat po šest igralcev, enkrat pa celo osem. Najboljše se godi Hieronimu v osmi Podobi, ki ga nosi desettisočeri mož. 
+
+Osredni del dogajanja v Pasijonu so bile Podobe, žive slike razvrščene v sprevodu tako da so uvodni in sklepni prizori dopolnjevali sveto-pisemsko zgodbo o kristusovem odrešenju. V raju sta Adam in Eva grešila, zato je Bog-oče daroval svojega sina, da bo s trpljenjem zadostil božji pravici in odrešil človeški rod, kar se zgodi ko se trpljenje konča s smrtjo na križu, in s polaganjem v grob. Podobe so bile postavljene bodisi na odrih, bodisi na vozovih, ali pa so jih na določenih mestih še oblikovali. Včasih je z scenarija, ki opisuje število oseb na odru, in število mož, ki nosijo odre težko razbrati odersko razsežnost, kjer bi se igralci lahko sprostili. Denimo podoba Raj, ki je verjetno ostanek igre Hoja za paradižem, saj v konjenici pekla eden od hudičev nosi drevo - bistveni scenski element te igre. Ob drevesu naj bi se zvrstilo 7. igralcev. Prav tako je pri treh središčnih Podobah: Krvavi pot, Bičanje, Kronanje, ki jih nosi po šestnajst mož, na odru je dva-krat po šest igralcev, enkrat pa celo osem. Najboljše se godi Hieronimu v osmi Podobi, ki ga nosi desettisočeri mož.
+
 Škofje-loški Pasijon se odvija v obliki procesije, ki je razdeljena na prizore iz sv. Pisma (Biblija), ki se zaustavljajo na določenih zanimivih točkah v slikovitem srednje-veškem mestu. Procesija predstavlja črno-belo zgodbo človeštva od Adamovega in Evinega padca preko alegorije smrti do kristusovega trpljenja. Prizori se na prenosnih odrih, vozovih, konjih ter peš pomikajo po ulicah in trgih Škofje loke.
 
 #### M49. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Končno nov krog pogajanj za Koroške slovence
+**Končno nov krog pogajanj za Koroške slovence**
+
 Celovec / Klagenfurt, 21.aprila, 8. 00 ( Slovenska Tiskovna Agencija ) - Tri politične organizacije Slovencev na Avstrijskem Koroškem so v dneh pred naslednim krogom pogajanj o bi-lingvalnih napisih, ki bo prihodnji torek uskladile svoja stališča in definirale podrobnosti. Predsednik Narodnega Sveta Koroških Slovencev ( NSKSja ) Valentin Inzko, je optimističen da "je to poglavje zaključeno in, da se začenja novo poglavje''.
+
 NSKS - Zveza slovenjskih organizacij (Zso) in Skupnost Koroških Slovencev in Slovenk (SKS) so svoja usklajena izhodišča poslali Državnem Sekretarju v Uradu avstrijskega Kanzlerja Josefu Ostermayjerju ter deželnemu Glavarju Avstrijske Koroške Gerhardu Freyju. Po pričakovanjih naj bi bil pogajalski krog o dvo-jezičnih napisih in spremljajočemu svežnu ukrepov prihodnji torek v Celovec-u / Klagenfurt-u obenem zaključni.
+
 Predsednik SKS Sadovnik pa je kot poročata primorski Dnevnik in državen radijo ORF, napovedal, da naj bi njegova organizacija, še danes objavila izid povpraševanja med člani SKSja glede predloga o 17.5 odstotnim pragom za postavitev dvo-jezičnih napisov na Avstrijskem koroškem. Kot še poroča častnik je bila v usklajevanje memorandoma o stališčih manjšinskih organizacij vključena tudi Enotna Lista, edina stranka Koroških Slovencev.
+
 Glede uradnega jezika sta se najbolj upirali občini Dobrla Vas – Poljane in Škocjan ob Klopinjskemu Jezeru, medtem, ko so vasi Prazna miza, Dolnja težka voda, Žabje selce, Železne dveri in Pusti vrh, neopredeljene. Avstrijska stran se je, končno sprijaznila tudi z dejstvom, da ima Slovenska Republika na dvo-everskemu kovancu podobo Knežjega kamena.
 
 #### M50. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-MOL z 125. miljoni dolgo-ronega dolga najbolj zadolžena mestna občina
+**MOL z 125. miljoni dolgo-ronega dolga najbolj zadolžena mestna občina**
+
 Nova gorica lani z 2, 4-milijonskim presežkom
+
 12.april 2011. ob 13 : 58 ( Ljubljana )
+
 Mestna Občina Ljubljana je lani tekoče prihotke povečala za 12%, znašali so dve sto triinpetdeset milijonov evrov. Prodaja zemljišč in nakup stadiona, ter dvorane v Stožicah sta močno preoblikovala proračun MOLa. Županu Zoranu Jankoviću je, sicer, uspelo zmanjšati občinski primankljaj, ki pa je ob koncu leta vseeno presegel 29.3 milijonov evrov.
 
 Tudi koperski župan Popovič je lani močno povečal proračunski primankljaj. Presegel je 2500000000 evrov, to pa je 8, 8 milijona EUR več, kot leta 2009. Občina je lani najela 13.75 milijona evrov novih srednje- in dolgo-ročnih posojil, tako, da skupni dolg občine znaša 38.75 milijona evrov. Preostanek primanjkljaja, je Popovičova občina pokrila z rezerv, ki jih pridela pri-obalni turizem.
@@ -8706,56 +8705,56 @@ Primanjkljaj je zmanjšala tudi Murska sobota,  v Slovenj gradcu so prodali dr. 
 
 Pravopisno popravite spodnje besedilo.
 
-Končno nov krog pogajanj za Koroške slovence
+**Končno nov krog pogajanj za Koroške slovence**
+
 Celovec / Klagenfurt, 21.aprila, 8. 00 ( Slovenska Tiskovna Agencija ) - Tri politične organizacije Slovencev na Avstrijskem Koroškem so v dneh pred naslednim krogom pogajanj o bi-lingvalnih napisih, ki bo prihodnji torek uskladile svoja stališča in definirale podrobnosti. Predsednik Narodnega Sveta Koroških Slovencev ( NSKSja ) Valentin Inzko, je optimističen da "je to poglavje zaključeno in, da se začenja novo poglavje''.
+
 NSKS - Zveza slovenjskih organizacij (Zso) in Skupnost Koroških Slovencev in Slovenk (SKS) so svoja usklajena izhodišča poslali Državnem Sekretarju v Uradu avstrijskega Kanzlerja Josefu Ostermayjerju ter deželnemu Glavarju Avstrijske Koroške Gerhardu Freyju. Po pričakovanjih naj bi bil pogajalski krog o dvo-jezičnih napisih in spremljajočemu svežnu ukrepov prihodnji torek v Celovec-u / Klagenfurt-u obenem zaključni.
+
 Predsednik SKS Sadovnik pa je kot poročata primorski Dnevnik in državen radijo ORF, napovedal, da naj bi njegova organizacija, še danes objavila izid povpraševanja med člani SKSja glede predloga o 17.5 odstotnim pragom za postavitev dvo-jezičnih napisov na Avstrijskem koroškem. Kot še poroča častnik je bila v usklajevanje memorandoma o stališčih manjšinskih organizacij vključena tudi Enotna Lista, edina stranka Koroških Slovencev.
+
 Glede uradnega jezika sta se najbolj upirali občini Dobrla Vas – Poljane in Škocjan ob Klopinjskemu Jezeru, medtem, ko so vasi Prazna miza, Žabje selce, Železne dveri in Pusti vrh, neopredeljene. Avstrijska stran se je, končno sprijaznila tudi z dejstvom, da ima Slovenska Republika na dvo-everskemu kovancu podobo Knežjega kamena.
 
 #### M52. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Končno Koroški Slovenci s vsklajenimi stališči v nov krog pogajanj 
-Celovec / Klagenfurt, 21.aprila, 8. 00 ( Slovenska Tiskovna Agencija ) - Tri politične 
-organizacije Slovencev na Avstrijskem Koroškem so v dneh pred naslednim krogom pogajanj 
-o bi-lingvalnih napisih, ki bo prihodnji torek uskladile svoja stališča in definirale podrobnosti. 
-Predsednik Narodnega Sveta Koroških Slovencev (NSKSja) Valentin Inzko, je optimističen, 
-da "je to poglavje zaključeno in, da se začenja novo poglavje''. 
-NSKS - Zveza slovenskih organizacij (Zso) in Skupnost Koroških Slovencev in Slovenk 
-(SKS) so svoja usklajena izhodišča poslali Državnemu Sekretarju v Uradu avstrijskega 
-Kanzlerja Josefu Ostermayjerju ter deželnemu Glavarju Avstrijske Koroške Gerhardu Freyju. 
-Po pričakovanjih naj bi bil pogajalski krog o dvojezičnih napisih in spremljajočemu svežnu 
-ukrepov prihodnji torek v Celovecu / Klagenfurt-u obenem zaključni. 
-Predsednik SKS Sadovnik pa je kot poročata Primorski Dnevnik in državen radijo ORF, 
-napovedal, da naj bi njegova organizacija, še danes objavila izid povpraševanja med člani 
-SKSja glede predloga o 17.5 odstotnim pragom za postavitev dvo-jezičnih napisov na 
-Avstrijskem koroškem. Kot še poroča častnik je bila v usklajevanje memorandoma o stališčih 
-manjšinskih organizacij vključena tudi Enotna Lista, edina stranka Koroških Slovencev. 
-Glede uradnega jezika sta se najbolj upirali občini Dobrla Vas – Poljane in Škocjan ob 
-Klopinjskem Jezeru, medtem ko so vasi Prazna miza, Žabje selce, Železne dveri in Pusti vrh 
-neopredeljene. Avstrijska stran se je, končno sprijaznila tudi z dejstvom, da ima Slovenska 
-Republika na dvo-everskemu kovancu podobo Knežjega kamena.
+**Končno Koroški Slovenci s vsklajenimi stališči v nov krog pogajanj**
+
+Celovec / Klagenfurt, 21.aprila, 8. 00 ( Slovenska Tiskovna Agencija ) - Tri politične organizacije Slovencev na Avstrijskem Koroškem so v dneh pred naslednim krogom pogajanj o bi-lingvalnih napisih, ki bo prihodnji torek uskladile svoja stališča in definirale podrobnosti. Predsednik Narodnega Sveta Koroških Slovencev (NSKSja) Valentin Inzko, je optimističen, da "je to poglavje zaključeno in, da se začenja novo poglavje''.
+
+NSKS - Zveza slovenskih organizacij (Zso) in Skupnost Koroških Slovencev in Slovenk (SKS) so svoja usklajena izhodišča poslali Državnemu Sekretarju v Uradu avstrijskega Kanzlerja Josefu Ostermayjerju ter deželnemu Glavarju Avstrijske Koroške Gerhardu Freyju. Po pričakovanjih naj bi bil pogajalski krog o dvojezičnih napisih in spremljajočemu svežnu ukrepov prihodnji torek v Celovecu / Klagenfurt-u obenem zaključni.
+
+Predsednik SKS Sadovnik pa je kot poročata Primorski Dnevnik in državen radijo ORF, napovedal, da naj bi njegova organizacija, še danes objavila izid povpraševanja med člani SKSja glede predloga o 17.5 odstotnim pragom za postavitev dvo-jezičnih napisov na Avstrijskem koroškem. Kot še poroča častnik je bila v usklajevanje memorandoma o stališčih manjšinskih organizacij vključena tudi Enotna Lista, edina stranka Koroških Slovencev.
+
+Glede uradnega jezika sta se najbolj upirali občini Dobrla Vas – Poljane in Škocjan ob Klopinjskem Jezeru, medtem ko so vasi Prazna miza, Žabje selce, Železne dveri in Pusti vrh neopredeljene. Avstrijska stran se je, končno sprijaznila tudi z dejstvom, da ima Slovenska Republika na dvo-everskemu kovancu podobo Knežjega kamena.
 
 #### M53. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Kdo bo dal novih 250 miljonov za NLB-ja?
+**Kdo bo dal novih 250 miljonov za NLB-ja?**
+
 Po treh mesecih ko je država s skoraj 250 miljoni Evrov dokapitalizirala NLBja, ta nujno potrebuje še eno finančno inekcijo. Kako bodo razsodili še ni znano, bo pa predvidoma znano, danes. Danes, se sestanejo nadzorniki in delničarji največje Slovenske banke in glavna točka dnevnega reda seje nadzornega sveta je načrt Uprave na kakšen način bo banka izpovnila zahtevo Banke Slovenije, po povečanju kapitalske ustreznosti, itd..
+
 Do svežega kapitala, so mogoče tri poti – da denar ponovno prispeva država, da NLB tokrat dokapitalizira drugi velik lastnik KBC, ali da po vzoru dokapitalizacije NKBM-ja delnice prodajo na Borzi. Država si želi, da bi v drugi dokapitalizaciji sodelovali zasebni partnerji saj zelene luči Bruselja za novo državno dokapitalizacijo verjetno, ne bi dobila. Križanič pa je poudaril, da si pri tako pomembni banki "ne moremo privoščiti, da dokapitalizacija, če je zahtevana, ne bi uspela.'' Višina druge dokapitalizacije bi sicer lahko bila nižja od 250 milijonov evrov, če bi banki uspelo prodati 57 odstotni lastniški delež v banki Celje. A pregled celjske banke je opravila le Francoska skupina Societe Generale, ki ima v Sloveniji v lasti SKB banko, ni pa še jasno ali bo oddala zavezujočo ponudbo.
+
 Pestri dneven red imajo tudi delničarji Nlbja, ki bodo odločali o razrešnici Upravi in Nadzornemu svetu, in o plačilu nadzornikom, v Nadzorni svet banke naj bi namesto Jana Russella, imenovali Dirka Rompuyja. Po poročanju Radia Slovenija, pa naj bi se na skupščini pripravljalo presenečenje Agencije za upravljanje kapitalskih naložb. Ta naj bi, namreč pripravljala zamenjavo v vrhu Nadzornega sveta.
 
 #### M54. Pravopisna ureditev besedila
 
 Popravite naslednje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Škofje-loški Pasijon na UNESCO-v seznam?
+**Škofje-loški Pasijon na UNESCO-v seznam?**
+
 12.april 2011. ob 13 : 58 ( Ljubljana )
+
 Ministrstvo za Kulturo je skupaj z Škofjo loko pristopilo h pripravi nominacije Škofje-loškega Pasijona za vpis na reprezentativni seznam ne-snovne kulturne dediščine človeštva pri UNESCO. S tem bi Slovenija prispevala delček k razno-likosti in bogatstvu žive dediščine o kateri priča več kot 200. upisanih praks, tradicij, običajev in izrazov na tem seznamu je zapisano v odgovoru na pisno pobudo državno-zborskega poslanca Samo-ta Bevk-a (Socialni Demokrati). Bevk je, namreč, na Ministrico za kulturo Majdo Širco, tudi iz social-demokratskih vrst naslovil pobudo naj se čimprej vspostavi državen spomeniškovarstveni register.
 
 Kot so še zapisali na Ministrstvu je register žive dediščine formalno vspostavljen, kot prvo enoto, pa so vanj že decembra, 2008, vpisali Škofje-loški Pasijon. Ko-ordinator za varstvo žive dediščine je od letos Etnografski Muzej Slovenije in Julijske Krajine. Škofje-lokovski pasijon spada med t.i. "procesijske igre ", t.j. med množične spokorniške pasijonske procesije, ki so se razvile iz srednje‑veških liturgičnih sprevodov, in so bile že v času Starih Grkov znane po vsej Osrednji Evropi.
+
 Osredni del dogajanja v Pasijonu so bile Podobe, žive slike razvrščene v sprevodu tako da so uvodni in sklepni prizori dopolnjevali Sveto-pisemsko zgodbo o kristusovem odrešenju. V raju sta Adam in Eva grešila, zato je Bog-oče daroval svojega sina, da bo s trpljenjem zadostil božji pravici in odrešil človeški rod, kar se zgodi ko se trpljenje konča s smrtjo na križu, in s polaganjem v grob. Podobe so bile postavljene bodisi na odrih, bodisi na vozovih, ali pa so jih na določenih mestih še oblikovali. Ob drevesu naj bi se zvrstilo 7. igralcev. Prav tako je pri treh središčnih Podobah: Krvavi pot, Bičanje, Kronanje, ki jih nosi po šestnajst mož, na odru je dva-krat po šest igralcev, enkrat pa celo osem. Najboljše se godi Hieronimu v osmi Podobi, ki ga nosi desettisočeri mož, in se v hvaležnosti spominja tantalovih muk in feniksovega leta. V Egiptovski Mitologiji je Feniks ptica posvečena bogu ozirisu, ki na petsto-letna obdobja zažge njegovo gnezdo.
+
 Škofje-loški Pasijon se odvija v obliki procesije, ki je razdeljena na prizore iz sv. Pisma (Biblija), ki se zaustavljajo na določenih zanimivih točkah v slikovitem srednje-veškem mestu. Procesija predstavlja črno-belo posvetno-religiozno zgodbo človeštva od Adamovega in Evinega padca preko alegorije smrti do kristusovega trpljenja. Prizori se na prenosnih odrih pomikajo po ulicah in trgih Škofje loke, Zgornjega Dražen Vrha, Šmarjeških toplic, Stare nove vasi, Vremskega britofa, Nove gorice, Zaloga pod Sveto trojico, Loga Čezsoškega, Dolenjega medvedjega sela in občine Gorenja Vas – Poljane.
 
 #### M55. Pravopisna ureditev povedi
@@ -8776,49 +8775,36 @@ Pravopisno popravite, kjer je to potrebno.
 
 Popravite naslednje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Škofje-loški Pasijon na UNESCO-v seznam? 
-12.april 2011. ob 13 : 58 ( Ljubljana ) 
-Ministrstvo za Kulturo je skupaj z Škofjo loko pristopilo h pripravi nominacije Škofje-loškega 
-Pasijona za vpis na reprezentativni seznam ne-snovne kulturne dediščine človeštva pri UNESCO. S 
-tem bi Slovenija prispevala delček k razno-likosti in bogatstvu žive dediščine o kateri priča več kot 
-200. upisanih praks, tradicij, običajev in izrazov na tem seznamu je zapisano v odgovoru na pisno 
-pobudo državno-zborskega poslanca Samo-ta Bevk-a (Socialni Demokrati). Bevk je, namreč, na 
-Ministrico za kulturo Majdo Širco, tudi iz social-demokratskih vrst naslovil pobudo naj se čimprej 
-vspostavi državen spomeniškovarstveni register. 
- 
-Kot so še zapisali na Ministrstvu je register žive dediščine formalno vspostavljen, kot prvo enoto, pa 
-so vanj že decembra, 2008, vpisali Škofje-loški Pasijon. Ko-ordinator za varstvo žive dediščine je od 
-letos Etnografski Muzej Slovenije in Julijske Krajine. Škofje-lokovski pasijon spada med t.i. 
-"procesijske igre ", t.j. med množične spokorniške pasijonske procesije, ki so se razvile iz 
-srednje-veških liturgičnih sprevodov, in so bile že v času Starih Grkov znane po vsej Osrednji Evropi. 
-Osredni del dogajanja v Pasijonu so bile Podobe, žive slike razvrščene v sprevodu tako da so uvodni in 
-sklepni prizori dopolnjevali Sveto-pisemsko zgodbo o kristusovem odrešenju. V raju sta Adam in Eva 
-grešila, zato je Bog-oče daroval svojega sina, da bo s trpljenjem zadostil božji pravici in odrešil 
-človeški rod, kar se zgodi ko se trpljenje konča s smrtjo na križu, in s polaganjem v grob. Podobe so 
-bile postavljene bodisi na odrih, bodisi na vozovih, ali pa so jih na določenih mestih še oblikovali. Ob 
-drevesu naj bi se zvrstilo 7. igralcev. Prav tako je pri treh središčnih Podobah: Krvavi pot, Bičanje, 
-Kronanje, ki jih nosi po šestnajst mož, na odru je dva-krat po šest igralcev, enkrat pa celo osem. 
-Najboljše se godi Hieronimu v osmi Podobi, ki ga nosi desettisočeri mož, in se v hvaležnosti spominja 
-tantalovih muk in feniksovega leta. V Egiptovski Mitologiji je Feniks ptica posvečena bogu ozirisu, ki 
-na petsto-letna obdobja zažge njegovo gnezdo. 
-Škofje-loški Pasijon se odvija v obliki procesije, ki je razdeljena na prizore iz sv. Pisma (Biblija), ki se 
-zaustavljajo na določenih zanimivih točkah v slikovitem srednje-veškem mestu. Procesija predstavlja 
-črno-belo posvetno-religiozno zgodbo človeštva od Adamovega in Evinega padca preko alegorije 
-smrti do kristusovega trpljenja. Prizori se na prenosnih odrih pomikajo po ulicah in trgih Škofje loke, 
-Zgornjega Dražen Vrha, Šmarjeških toplic, Stare nove vasi, Vremskega britofa, Nove gorice, Zaloga 
-pod Sveto trojico, Loga Čezsoškega, Dolenjega medvedjega sela in občine Gorenja Vas – Poljane.
+**Škofje-loški Pasijon na UNESCO-v seznam?**
+
+12.april 2011. ob 13 : 58 ( Ljubljana )
+
+Ministrstvo za Kulturo je skupaj z Škofjo loko pristopilo h pripravi nominacije Škofje-loškega Pasijona za vpis na reprezentativni seznam ne-snovne kulturne dediščine človeštva pri UNESCO. S tem bi Slovenija prispevala delček k razno-likosti in bogatstvu žive dediščine o kateri priča več kot 200. upisanih praks, tradicij, običajev in izrazov na tem seznamu je zapisano v odgovoru na pisno pobudo državno-zborskega poslanca Samo-ta Bevk-a (Socialni Demokrati). Bevk je, namreč, na Ministrico za kulturo Majdo Širco, tudi iz social-demokratskih vrst naslovil pobudo naj se čimprej vspostavi državen spomeniškovarstveni register.
+
+Kot so še zapisali na Ministrstvu je register žive dediščine formalno vspostavljen, kot prvo enoto, pa so vanj že decembra, 2008, vpisali Škofje-loški Pasijon. Ko-ordinator za varstvo žive dediščine je od letos Etnografski Muzej Slovenije in Julijske Krajine. Škofje-lokovski pasijon spada med t.i. "procesijske igre ", t.j. med množične spokorniške pasijonske procesije, ki so se razvile iz srednje-veških liturgičnih sprevodov, in so bile že v času Starih Grkov znane po vsej Osrednji Evropi.
+
+Osredni del dogajanja v Pasijonu so bile Podobe, žive slike razvrščene v sprevodu tako da so uvodni in sklepni prizori dopolnjevali Sveto-pisemsko zgodbo o kristusovem odrešenju. V raju sta Adam in Eva grešila, zato je Bog-oče daroval svojega sina, da bo s trpljenjem zadostil božji pravici in odrešil človeški rod, kar se zgodi ko se trpljenje konča s smrtjo na križu, in s polaganjem v grob. Podobe so bile postavljene bodisi na odrih, bodisi na vozovih, ali pa so jih na določenih mestih še oblikovali. Ob drevesu naj bi se zvrstilo 7. igralcev. Prav tako je pri treh središčnih Podobah: Krvavi pot, Bičanje, Kronanje, ki jih nosi po šestnajst mož, na odru je dva-krat po šest igralcev, enkrat pa celo osem. Najboljše se godi Hieronimu v osmi Podobi, ki ga nosi desettisočeri mož, in se v hvaležnosti spominja tantalovih muk in feniksovega leta. V Egiptovski Mitologiji je Feniks ptica posvečena bogu ozirisu, ki na petsto-letna obdobja zažge njegovo gnezdo.
+
+Škofje-loški Pasijon se odvija v obliki procesije, ki je razdeljena na prizore iz sv. Pisma (Biblija), ki se zaustavljajo na določenih zanimivih točkah v slikovitem srednje-veškem mestu. Procesija predstavlja črno-belo posvetno-religiozno zgodbo človeštva od Adamovega in Evinega padca preko alegorije smrti do kristusovega trpljenja. Prizori se na prenosnih odrih pomikajo po ulicah in trgih Škofje loke, Zgornjega Dražen Vrha, Šmarjeških toplic, Stare nove vasi, Vremskega britofa, Nove gorice, Zaloga pod Sveto trojico, Loga Čezsoškega, Dolenjega medvedjega sela in občine Gorenja Vas – Poljane.
 
 #### M57. Pravopisna ureditev besedila
 
 Pravopisno popravite naslednje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Četrtstoletje od katastrofe ameriškega raketo-plana challenger			
+**Četrtstoletje od katastrofe ameriškega raketo-plana challenger**
+
 Američani bodo v petek počastili spomin na sedmerico astronautov, ki so 28. Januarja 1986. umrli v eksploziji raketo-plana challenger le šestotriinsedemdeset sekund po izstrelitvi iz Capea Canaverala iz Floride. Umrla je tudi 37 letna Floridčanka irskoškotskega porekla, Christa McAuliffe - ta naj bi postala prva učitelica v Vesolju. Ironično je, da si je kupila čisto nov dodge challenger preden je odšla na misijo.
+
 McAuliffeova, ki je učila Pravo, Zgodovino in Ekonomijo na eni od illinosskih (chicaških) srednih šol je bila izbrana med 11,000 prijavljenimi kandidati. Njena prva rezerva Barbara Morgan, kljub tragični nesreči ni izgubila poguma in je leta 2007 z raketo-planom endeavor odletela proti Rimski cesti.
+
 Po katastrofi challengerja je sledila preiskava, razkrivajoča da je bilo glavni krivec za tragedijo mrzlo vreme, da vzrok ni bila človeška napaka, in da človek katastrofe tudi ne bi mogel preprečiti. Misijo challengerja so večkrat preložili zaradi manših tehničnih nevšečnosti, dan pred določeno izstrelitvijo pa so Miamisko območje zajele zelo niske temperature. Program raketo-planov se je potem ustavil za tri leta in šele Septembra leta 1988. je na novo misijo poletel discovery.
+
 Takrat je ob istrelitvi del zaščitne obloge zunanjega tanka za gorivo zadel ob toplotno oblogo raketo-plana, in jo tako poškodoval, da ob vračanju na zemljo ni prenesla ekstremnih temperatur ob vstopanju v atmosfero. Na seznam junakov NASA-e so vpisali sedem imen umrlih astronautov: Georga McClanea, Dana Kayea, Petra Thorpea, Andrewa Mayja, Martina McCluskya, Stevena Reyja in Edwarda Whitea II..
+
 Nasa bo ob 25-obletnici tragedije challengerja pripravila tri spominske slovesnosti. Spomnili se bodo tako posatk challengerja in columbie, kot tudi misije apollota 1, ki se je zaradi požara končala s smrtjo treh astronautov med preizkušanjem kapsule 27. januarja 1967. leta.
+
 Nasa se bo medtem posvečala drugim programom; med drugim načrtuje napotitev vesoljskih sond na luno, Mars in druge planete ter asteroide. S prejšnjim predsednikom ZDA Georgem Bushom je zaživel program Constellation, po katerem bi vnovič poslali človeka na luno in razvili novo plovilo Orion, ki bi nadomestilo raketo-plane. Potem ko je Nasa za to namenila 9.000,000.000,00 ameriških Dolarjev, je Bushov naslednik Barack Obama oziroma Obamin predstavnik zaradi krize prižgal rdečo luč.
+
 Zaenkrat še ni jasno s katero posadko in kam se bo najprej odpravila NASA - ni znano ali se bodo najprej odpravili Asteroid Ceres ali kam drugam. Načrtovano je, da odkrijejo ali obstajajo marsovci nekje do leta 2030. Sicer pa ima Nasa druge ambiciozne načrte. Že februarja naj bi se sonda Stardust-NExT na 200 kilometrov približala kometu Temperance, kamor so že 2005. leta treščili sondo Deep Impact.
 
 #### M58. Pravopisna ureditev povedi
@@ -8907,107 +8893,135 @@ Obkrožite črko pred pravilnim zapisom (ali vsemi pravilnimi zapisi) in obrazlo
 
 Popravite naslednje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-44. mrtvih v nesreči ruskega letala Tu-134
-21. Junij 2011 ob 07 : 18
+**44. mrtvih v nesreči ruskega letala Tu-134**
+
+21\. Junij 2011 ob 07 : 18
+
 V bližini letališča v mestu Petrozavodsk v Rusiji se je zgodila nesreča tupoljeva 134. Umrlo je 44 ljudi, 8. preživelih pa je v kritičnem stanju v bolnišnici.
+
 Tupoljev 134 je letalo Ruske letalske družbe RusAir, ki je z moskovškega letališča Domodedovo proti 640km-oddaljenemu Petrozavodsku v Pokrajini Karelija na Severo-zahodu Rusije poletelo v ponedeljek ob 22,30 po krajevnemu času. Slabo uro po vzletu, je padlo na avto-cesto približno dva kilometra stran od letališča. Letalo naj bi se med pristajanjem prelomilo, nato pa, je izbruhnil ogenj.
+
 Vzrok nesreče še ni znan, uvodna poročila govorijo o slabih vremenjskih razmerah, nesreča pa, naj bi se zgodila zaradi goste megle. Reševalcem je uspelo iz razbitin letala odstraniti Črno skrinjico, tako, da bodo lahko ugotovili, kaj natančno je pouzročilo nesrečo. Preizkava že poteka, preiskovalci pa so povedali, da preiskujejo morebitno zanemarjanje zračno-prometnih pravil.
+
 Osem ljudi še vedno v kritičnem stanju. V letalu je bilo 52 potnikov in članov posatke. Predstavnica ruskega ministrstva za nujne zadeve Oksana Semjonova je povedala, da je v nesreči umrlo 44 ljudi, osem pa jih je nesrečo preživelo, med njimi tudi desetletni deček, vendar so vsi še vedno v kritičnem stanju. Med žrtvami naj bi bili le ruski državljani, ruski mediji pa poročajo, da je bil med žrtvami tudi državljan Švedske.
-Letalska drušba RusAir je zasebno podjetje s sedežem v Moskvi, ki leti predvsem na čarterskih linijah v Zahodni Rusiji in Vzhodni Evropi. Uradne izjave še niso podali. Ruski Predsednik Dmitrij Medvedjev je že večkrat kritiziral Ruska letala, da naj bi bila, slabo izdelana. Ena od najodmevnejših nesreč s tupoljevi se je zgodila lani v bližini Smolenska kjer je umrl poljski Predsednik Lech Kaczynski in številni poljski državniki. Kaczynskija so pokopali 
+
+Letalska drušba RusAir je zasebno podjetje s sedežem v Moskvi, ki leti predvsem na čarterskih linijah v Zahodni Rusiji in Vzhodni Evropi. Uradne izjave še niso podali. Ruski Predsednik Dmitrij Medvedjev je že večkrat kritiziral Ruska letala, da naj bi bila, slabo izdelana. Ena od najodmevnejših nesreč s tupoljevi se je zgodila lani v bližini Smolenska kjer je umrl poljski Predsednik Lech Kaczynski in številni poljski državniki. Kaczynskija so pokopali
+
 Kaczynski in njegova soproga Maria sta skupaj s številnimi visokimi predstavniki namreč umrla v letalski nesreči 10. aprila na poti v Katin, kjer se je pokojni predsednik nameraval udeležiti spominske slovesnosti ob 70. obletnici pokola poljskih časnikov.
+
 Zaprti krsti s posmrtnimi ostanki predsedniškega para sta v soboto od 17. ure ležali v katedrali sv. Janeza v starem delu Varšave, v kateri je potekala žalna maša, ki ji je sledilo bedenje. Krsti sta sicer od torka ležali v predsedniški palači, pred njima pa se je vse dni vila kilometrska vrsta.
 
 #### M61. Pravopisna ureditev besedila
 
 Popravite naslednje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-44. mrtvih v nesreči Ruskega letala Tu-134
-21. Junij 2011 ob 07 : 18
+**44. mrtvih v nesreči Ruskega letala Tu-134**
+
+21\. Junij 2011 ob 07 : 18
+
 V bližini letališča v mestu Petrozavodsk v Rusiji se je zgodila nesreča tupoljeva 134. Umrlo je 44 ljudi, 8. preživelih pa je v kritičnem stanju v bolnišnici.
+
 Tupoljev (t.j. 134) je letalo Ruske letalske družbe RusAir, ki je z moskovškega letališča Domodedovo proti 640km-oddaljenemu Petrozavodsku v Pokrajini Karelija na Severo-zahodu Rusije poletelo v ponedeljek ob 22,30 po krajevnemu času. Slabo uro po vzletu, je padlo na avto-cesto približno 2km stran od letališča. Letalo naj bi se med pristajanjem prelomilo, nato pa, je izbruhnil ogenj.
+
 Vzrok nesreče še ni znan, uvodna poročila govorijo o slabih vremenjskih razmerah, nesreča pa, naj bi se zgodila zaradi goste megle. Reševalcem je uspelo iz razbitin letala odstraniti Črno skrinjico, tako, da bodo lahko ugotovili, kaj natančno je pouzročilo nesrečo. Preizkava že poteka, preiskovalci pa so povedali, da preiskujejo morebitno zanemarjanje zračno-prometnih pravil.
+
 Osem ljudi je še vedno v kritičnem stanju. V letalu je bilo 52 potnikov in članov posatke. Predstavnica Ruskega ministrstva za nujne zadeve Oksana Semjonova je povedala, da je v nesreči umrlo 44. ljudi, osem pa jih je nesrečo preživelo, med njimi tudi desetletni deček, vendar so vsi še vedno v kritičnem stanju. Med žrtvami naj bi bili le ruski državljani, ruski mediji, pa poročajo, da je bil med žrtvami tudi državljan švedske in dva norveška priseljenca.
+
 Letalska drušba RusAir je zasebno podjetje s sedežem v Moskvi, ki leti predvsem na čarterskih linijah v Zahodni Rusiji in Vzhodni Evropi. Uradne izjave še niso podali. Ruski Predsednik Dmitrij Medvedjev je že večkrat kritiziral Ruska letala, da naj bi bila, slabo izdelana. Ena od najodmevnejših nesreč s tupoljevi se je zgodila lani v bližini Smolenska v katerem je umrl poljski Predsednik Lech Kaczynski in številni poljski državniki. Kaczynskija so pokopali z državniškimi častemi.
+
 Kaczynski in njegova soproga Maria sta, skupaj s številnimi visokimi predstavniki namreč umrla v letalski nesreči 10 aprila na poti v Katin, kjer se je pokojni predcednik nameraval udeležiti spominjske slovesnosti ob 70.-letnici pokola poljskih časnikov.
+
 Zaprti krsti s posmrtnimi ostanki predsedniškega para sta v soboto od 17,00 ležali v Katedrali Sv. Janeza v starem delu Varšave, v kateri je potekala Žalna maša, ki ji je sledilo Bedenje. Krsti sta sicer od torka ležali v predsedniški palači, pred njima pa se je vse dni vila 4-kilometerska vrsta. V cerkvi so se ob krsti, pokriti z belo-rdečo poljsko zastavo, poleg edinke Marte in predsednikovega brata dvojčka Jaroslawa Kaczynskija zbrali številni poljski politiki, in tuji voditeli.
 
 #### M62. Pravopisna ureditev besedila
 
 Pravopisno opravite naslednje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Slovo Ameriškega slikarja Cyja Twomblya
+**Slovo Ameriškega slikarja Cyja Twomblya**
+
 1\. Julij 2011 ob 9,41
+
 "Veliki ameriški slikar, ki je globoko ljubil Staro Evropo nas je, ravno kar zapustil", je v izjavi povedal francoski kolturni minister Frederic Mitterand.
+
 Twombly je bil znan po abstraktnih delih v katerih je združeval slikarske in risarske tehnike. Pogosto ga povezujejo z legendarnima ameriškima umetnikoma Smokeyem in Robertom Cavanaugh-om, ki ga je v zgodnjih 50. letih spoznal med študijem Literature v Langleyu.
+
 Dasiravno, je priznanje za svoja dela dobil šele pozno v karieri - pogosto so ga zasenčili slavni kolegi, med njimi omenjena Johns in Rauschenberg -, je prav Twombly postal tisti umetnik, ki mu je kot 2. za Georgesom Braqueom pripadla čast, da je poslikal strop muzeja Louvre v Parizu. Pod podobna projekta v Louvreju, sta se v letih 2007 in 2010 podpisala tudi Anselm Kiefer in Francois Morellet: Prvi je na steno Muzeja naslikal akt moškega, drugi, pa je ustvaril instalacijo oken na stopnišču.
+
 Umetnik je leta 2002 z delom brez naslova postavil svoj dražbeni rekord - za sliko je kupec odštel kar 5.6 milijona eurov - in podrl svoj rekord z leta 1990, potem, ko je nekdo za njegovo sliko na tabli z leta 1971 odštel 5.5 milijonov dolarjev.
+
 Na Twomblyeva platna so se njegovi oboževalci strastno odzivali. Leta 2007, so v Franciji aretirali neko žensko, ker je poljubila popolnoma belo platno, ki ga je naslikal, vredno okrog, dva miljona Dolarjev. Restavratorji so z dela le s težavo odstranili sledi šminke, prestopnica, pa je morala lasniku in galeriji plačati na stotine dolarjev - Twomblyu pa le 1.5 Dolarja.
-Dobitnik Umetniške nobelove nagrade
+
+**Dobitnik Umetniške nobelove nagrade**
+
 Twombly je za svoje delo prejel številne nagrade, postal je tudi Vitez francoske legije Časti. Naslov so mu podelili na odkritju slike na louvrejemskem stropu. Leta 1998 je dobil najvišje in najuglednejše japonsko umetniško priznanje, nagrado Praemium imperiale, namenjeno področjim na katerih ne podeljujejo nobelovih nagrad. Leta 2001 je dobil uglednega Zlatega leva na beneškem bi-enalu.
+
 Istega leta so odprli njegovo prvo večjo kiparsko razstavo v washingtonški narodni galeriji umetnosti, ki je spet sprožila razprave o tem ali je to, kar ustvarja Twombly, resnično umetnost, in ali je resnično nadarjen. Za nekatere so bila namreč razstavljena dela bolj kot umetninam podobna ostružkom z mizarske delavnice, za druge pa so bila zgovorni opomniki na Sredozemlje, kakršno, je bilo nekdaj…
 
 #### M63. Pravopisna ureditev besedila
 
 Pravopisno opravite naslednje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Slovo Ameriškega slikarja Cyja Twomblya
+**Slovo Ameriškega slikarja Cyja Twomblya**
 
 1\. Julij 2011 ob 9,41
 
 "Veliki ameriški slikar, ki je globoko ljubil Staro Evropo nas je, ravno kar zapustil", je v izjavi povedal francoski kolturni minister Frederic Mitterand.
+
 Twombly je bil znan po abstraktnih delih v katerih je združeval slikarske in risarske tehnike. Pogosto ga povezujejo z legendarnima ameriškima umetnikoma Smokeyem in Robertom Cavanaugh-om, ki ga je v zgodnjih 50. letih spoznal med študijem Literature v New York-u.
 
 Čeprav, je priznanje za svoja dela dobil šele pozno v karieri - pogosto so ga zasenčili slavni kolegi, med njimi omenjena Johns in Rauschenberg -, je prav Twombly postal tisti umetnik, ki mu je kot 2.    za Georgesom Braqueom pripadla čast, da je poslikal strop muzeja Louvre v Parizu. Pod podobna projekta v Louvreju sta se v letih 2007 in 2010 podpisala tudi Anselm Kiefer in Francois Morellet: Prvi je na steno Muzeja naslikal akt moškega, drugi, pa je ustvaril instalacijo oken na stopnišču.
+
 Za to Louvre je izbral nekaj preprostega: modro ozadje, na njem pa bele lebdeče diske in zapisana imena kiparjev iz antične Grčije, kar je zelo ustrezno za strop galerije bronastih kipov. "Na stara leta sem se vrgel v nekaj novega," je povedal o zanj nenavadni izbiri barv.
+
 Umetnik je leta 2002 z delom brez naslova postavil svoj dražbeni rekord - za sliko je kupec odštel kar 5,6 milijona evrov - in podrl svoj rekord iz leta 1990, ko je nekdo za njegovo sliko na tabli iz leta 1971 odštel 5,5 milijona dolarjev.
+
 Na Twomblyjeva platna so se njegovi oboževalci strastno odzivali. Leta 2007 so v Franciji aretirali neko žensko, ker je poljubila popolnoma belo platno, ki ga je naslikal, vredno okrog dva milijona dolarjev. Restavratorji so z dela le s težavo odstranili sledi šminke, prestopnica pa je morala lastniku in galeriji plačati na stotine dolarjev - Twomblyju pa le 1,5 dolarja.
-Dobitnik "umetniške Nobelove nagrade"
+
+**Dobitnik "umetniške Nobelove nagrade"**
+
 Twombly je za svoje delo prejel številne nagrade, postal je tudi vitez francoske legije Časti. Naslov so mu podelili na odkritju slike na louvrejemskem stropu. Leta 1998 je dobil najvišje in najuglednejše japonsko umetniško priznanje, nagrado praemium imperiale, namenjeno področjem, na katerih ne podeljujejo Nobelovih nagrad. Leta 2001 je dobil uglednega zlatega leva na beneškem bienalu.
+
 Istega leta so odprli njegovo prvo večjo kiparsko razstavo v Narodni galeriji umetnosti v Washingtonu, ki je spet sprožila razprave o tem, ali je to, kar ustvarja Twombly, resnično umetnost in ali je resnično nadarjen. Za nekatere so bila namreč razstavljena dela bolj kot umetninam podobna ostružkom z mizarske delavnice, za druge pa so bila zgovorni opomniki na Sredozemlje, kakršno je bilo pred davnimi leti ...
+
 A Twombly je, kot je v izjavi spomnil tudi Mitterand, vedno ohranjal razdaljo do velikih sporov, ki so razburjali umetniško prizorišče v 20. stoletju.
 
 #### M64. Pravopisna ureditev besedila
 
 Pravopisno popravite naslednje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Pred 20. leti razglasili rezultate Plebiscita
+**Pred 20. leti razglasili rezultate Plebiscita**
+
 Danes praznujemo Dan samostojnosti in enotnosti v spomin na razglasitev rezultatov Plebiscita pred 20. leti. Takorekoč soglasna odločitev volilcev za samostojno državo je politikom omogočila pred-priprave na razglasitev samostojnosti poltretje leto kasneje, medtem, ko je Premier Borut Pahor v slavnostnem govoru povdaril, da smo s Plebiscitom postali gospodar svoje usode, in da je malo takšnih zgodb kot je naša.
+
 Na vprašanje ali naj Slovenija postane samostojno-neodvisna država je od 93.2% udeleženih volivcev, okoli 95% odgovorilo pritrdilno, kar je 88.5% vseh volilcev.
-Plebiscitno odločitev smo Slovenci udejanjili z razglasitvijo samostojne države - republike Slovenije 25. junija 1991. Na decemberski osredni proslavi ob jutrijšnem prazniku je Predsednik vlade Republike Slovenije Pahor izpostavil tudi vlogo demosa na čelu s pokojnim Jožetom Pučnikom, ki je v odločilnem času prvič povezalo demokracijo in državno samostojnost Slovenije. 
+
+Plebiscitno odločitev smo Slovenci udejanjili z razglasitvijo samostojne države - republike Slovenije 25. junija 1991. Na decemberski osredni proslavi ob jutrijšnem prazniku je Predsednik vlade Republike Slovenije Pahor izpostavil tudi vlogo demosa na čelu s pokojnim Jožetom Pučnikom, ki je v odločilnem času prvič povezalo demokracijo in državno samostojnost Slovenije.
+
 Predsednik državnega Zbora Pavel Gantar pa je na slavnostni seji DZSPS-ja istega dne dejal, da je Plebiscit pomenil točko po kateri ni bilo več vrnitve, in ki je zavezala tudi generacije, ki prihajajo, da ji sledijo.
+
 Ljubljanski nadškof Metropolit je v Ljubljanski stolnici daroval mašo za domovino, mariborski škof dr. Kramberger pa je maševal na Starem Trgu v Zgornjem Kašlju. Na primorskem in ob obali pa bodo praznik obeležili tudi v okviru pobude Evropske Unije – Stopimo Skupaj.
 
 #### M65. Pravopisna ureditev besedila
 
 Pravopisno popravite naslednje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Pred 20. leti razglasili rezultate Plebiscita 
-Danes praznujemo Dan samostojnosti in enotnosti v spomin na razglasitev rezultatov 
-Plebiscita pred 20. leti. Takorekoč soglasna odločitev volilcev za samostojno državo 
-je politikom omogočila pred-priprave na razglasitev samostojnosti polletje kasneje, 
-medtem, ko je Premier Borut Pahor v slavnostnem govoru povdaril, da smo s 
-Plebiscitom postali gospodar svoje usode, in da je malo takšnih zgodb kot je naša. 
-Na vprašanje ali naj Slovenija postane samostojno-neodvisna država je od 93.2% 
-udeleženih volivcev, okoli 95% odgovorilo pritrdilno, kar je 88.5% vseh volilcev. 
-Plebiscitno odločitev smo Slovenci udejanjili z razglasitvijo samostojne države - 
-republike Slovenije 25. junija 1991. Na decemberski osredni proslavi ob jutrijšnem 
-prazniku je Predsednik vlade Republike Slovenije Pahor izpostavil tudi vlogo demosa 
-na čelu s pokojnim Jožetom Pučnikom, ki je v odločilnem času prvič povezalo 
-demokracijo in državno samostojnost Slovenije.  
-Predsednik državnega Zbora Pavel Gantar pa je na slavnostni seji DZ istega dne dejal, 
-da je Plebiscit pomenil točko po kateri ni bilo več vrnitve in ki je zavezala tudi 
-generacije, ki prihajajo, da ji sledijo. 
-Ljubljanski nadškof Metropolit je v Ljubljanski stolnici daroval mašo za domovino, 
-mariborski škof dr. Kramberger pa je maševal na Starem Trgu v Zgornjem Kašlju. Na 
-primorskem in ob obali pa bodo praznik obeležili tudi v okviru pobude Evropske 
-Unije – Stopimo Skupaj.
+**Pred 20. leti razglasili rezultate Plebiscita**
+
+Danes praznujemo Dan samostojnosti in enotnosti v spomin na razglasitev rezultatov Plebiscita pred 20. leti. Takorekoč soglasna odločitev volilcev za samostojno državo je politikom omogočila pred-priprave na razglasitev samostojnosti polletje kasneje, medtem, ko je Premier Borut Pahor v slavnostnem govoru povdaril, da smo s Plebiscitom postali gospodar svoje usode, in da je malo takšnih zgodb kot je naša.
+
+Na vprašanje ali naj Slovenija postane samostojno-neodvisna država je od 93.2% udeleženih volivcev, okoli 95% odgovorilo pritrdilno, kar je 88.5% vseh volilcev.
+
+Plebiscitno odločitev smo Slovenci udejanjili z razglasitvijo samostojne države - republike Slovenije 25. junija 1991. Na decemberski osredni proslavi ob jutrijšnem prazniku je Predsednik vlade Republike Slovenije Pahor izpostavil tudi vlogo demosa na čelu s pokojnim Jožetom Pučnikom, ki je v odločilnem času prvič povezalo demokracijo in državno samostojnost Slovenije.
+
+Predsednik državnega Zbora Pavel Gantar pa je na slavnostni seji DZ istega dne dejal, da je Plebiscit pomenil točko po kateri ni bilo več vrnitve in ki je zavezala tudi generacije, ki prihajajo, da ji sledijo.
+
+Ljubljanski nadškof Metropolit je v Ljubljanski stolnici daroval mašo za domovino, mariborski škof dr. Kramberger pa je maševal na Starem Trgu v Zgornjem Kašlju. Na primorskem in ob obali pa bodo praznik obeležili tudi v okviru pobude Evropske Unije – Stopimo Skupaj.
 
 #### M66. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo:
 
-ZDA zaključila bojne operacije v Iraku in začele Novo zoro
-
+**ZDA zaključila bojne operacije v Iraku in začele Novo zoro**
 
 Washington/Baghdad, 1. septembra (STA) - Ameriški predsednik Barack Obama je v torek zvečer z nagovorom Američanom, Otočanom in svetu iz Ovalne pisarne Bele hiše uradno končal ameriške bojne operacije oziroma Ameriško vojno v Iraku. Pri tem sicer ni razglasil zmage, a izrekel pohvale predhodniku Georgu Bushu. Danes je v Baghdadu že sledil slovesen začetek operacije Nova zora.
 
@@ -9021,231 +9035,193 @@ Bush je sicer vojno Marca 2003 začel najprej zaradi domnevnega iraškega ogrož
 
 Popravite naslednje povedi, kjer je to potrebno:
 
-1. Daj mi štefan Mariborčana. Na kateri avtobus čakaš? -- Na bežigrajčana. Pod pokrovom se skriva 6-litrski, 24-ventilski dvanajstvaljnik. Odprto 4 8 h To zmore skupno delo 12. ljudi.
+1. Daj mi štefan Mariborčana.
 
-2. Daj mi štefan Mariborčana.
+2. Na kateri avtobus čakaš? -- Na bežigrajčana.
 
-3. Na kateri avtobus čakaš? -- Na bežigrajčana.
+3. Pod pokrovom se skriva 6-litrski, 24-ventilski dvanajstvaljnik.
 
-4. Pod pokrovom se skriva 6-litrski, 24-ventilski dvanajstvaljnik.
+4. Odprto 4 – 8 h
 
 5. To zmore skupno delo 12. ljudi.
+
 
 #### M68. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Canberrskim Aboriginom naj bi le priznali status Staroselcov
-20. Januar 2012., ob 13 h ; Canberra, Australija
+**Canberrskim Aboriginom naj bi le priznali status Staroselcov**
+
+20\. Januar 2012., ob 13 h ; Canberra, Australija
+
 Avstralci bodo na Referendomu odločali o spremembi Ustave s katero bi Aboriginom priznali status staro-selcev, prav tako, pa bi iz veljavne Ustave izločili diskriminatorne Zakone. Ustava sprejeta konec 19. st., Aborigine in prebivalce v Ožini Torres omenja le bežno saj, predvideva da je bilo to območje pred prihodom Belcev ne-naseljeno. V tem kontekstu ni presenetlivo, ali pač, da ustava še vedno vsebuje člene, ki omogočajo sprejemanje diskriminatornih zakonov do določenih Ras - med drugim, jim lahko prepovedo udeležbo na volitvah, ipd..
+
 '' Prav je, da rečemo, 'da' razumevanju naše zgodovine, da rečemo 'da' amandma-jem Ustave in da rečem, 'da' prihodnosti, ki mora biti enotna in složnejša '', so bile besede premiera McKinleya. Spod-budne besede so še, kako na mestu, če vemo da so Avstralski volilci leta 1999 na Referendomu zavrnili predlog spremembe pre-ambule, vsebujoče priznanje Aboriginov in prebivalcev Torresovske ožine,kot Staroselcev.
+
 Na pobudo premiera je 19–članska Komisija med katerimi so bili tudi Staro-selci, in so jo sestavlali melbourneski akademiki,napisala 300-strani dolgo poročilo.Staroselci, ki jih je v 23-miljonski Australiji pol milijona (500,000), torej okoli 2%, so niže izobraženi, večinoma živijo na pragu revščine v nabiralniško-lovskih pol-nomadskih skupinah, pa tudi njihova življenjska doba je krajša kot je veljalo včasih. Aboriginška vera uči, da so zemljo in vse na njej, ustvarili duhovi prednikov. Aboriginške umetnine so ene prvih umetnin na svetu. Imajo tudi Svete kraje kot je npr. dežela Sonca in personalizirane Bogove kot je, denimo Veter iz Sanj.
 
 #### M69. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Canberrskim Aboriginom naj bi le priznali status Staroselcov 
-20. Januar 2012., ob 13 h ; Canberra, Australija 
-Avstralci bodo na Referendomu odločali o spremembi Ustave s katero bi Aboriginom priznali 
-status staro-selcev, prav tako, pa bi iz veljavne Ustave izločili diskriminatorne Zakone. Ustava 
-sprejeta konec 19. st., Aborigine in prebivalce v Ožini Torres omenja le bežno saj, predvideva 
-da je bilo to območje pred prihodom Belcev ne-naseljeno. V tem kontekstu ni presenetlivo, 
-ali pač, da ustava še vedno vsebuje člene, ki omogočajo sprejemanje diskriminatornih 
-zakonov do določenih Ras - med drugim, jim lahko prepovedo udeležbo na volitvah, ipd.. 
-'' Prav je, da rečemo, 'da' razumevanju naše zgodovine, da rečemo 'da' amandma-jem 
-Ustave in da rečem, 'da' prihodnosti, ki mora biti enotna in složnejša '', so bile besede 
-premiera McKinleya. Spod-budne besede so še, kako na mestu, če vemo da so Avstralski 
-volilci leta 1999 na Referendomu zavrnili predlog spremembe pre-ambule, vsebujoče 
-priznanje Aboriginov in prebivalcev Torresovske ožine,kot Staroselcev. 
- 
-Na pobudo premiera je 19–članska Komisija med katerimi so bili tudi Staro-selci, in so jo 
-sestavlali melbourneski akademiki,napisala 300-strani dolgo poročilo.Staroselci, ki jih je v 23-miljonski Australiji pol milijona (500,000), torej okoli 2%, so niže izobraženi, večinoma živijo 
-na pragu revščine v nabiralniško-lovskih pol-nomadskih skupinah, pa tudi njihova življenjska 
-doba je krajša kot je veljalo včasih. Aboriginška vera uči, da so zemljo in vse na njej, ustvarili 
-duhovi prednikov. Aboriginške umetnine so ene prvih umetnin na svetu. Imajo tudi Svete 
-kraje kot je npr. dežela Sonca in personalizirane Bogove kot je, denimo Veter iz Sanj. 
+**Canberrskim Aboriginom naj bi le priznali status Staroselcov**
 
+20\. Januar 2012., ob 13 h ; Canberra, Australija
 
+Avstralci bodo na Referendomu odločali o spremembi Ustave s katero bi Aboriginom priznali status staro-selcev, prav tako, pa bi iz veljavne Ustave izločili diskriminatorne Zakone. Ustava sprejeta konec 19. st., Aborigine in prebivalce v Ožini Torres omenja le bežno saj, predvideva da je bilo to območje pred prihodom Belcev ne-naseljeno. V tem kontekstu ni presenetlivo, ali pač, da ustava še vedno vsebuje člene, ki omogočajo sprejemanje diskriminatornih zakonov do določenih Ras - med drugim, jim lahko prepovedo udeležbo na volitvah, ipd..
 
-Izpit B 
- 
-23. 1. 2012
+'' Prav je, da rečemo, 'da' razumevanju naše zgodovine, da rečemo 'da' amandma-jem Ustave in da rečem, 'da' prihodnosti, ki mora biti enotna in složnejša '', so bile besede premiera McKinleya. Spod-budne besede so še, kako na mestu, če vemo da so Avstralski volilci leta 1999 na Referendomu zavrnili predlog spremembe pre-ambule, vsebujoče priznanje Aboriginov in prebivalcev Torresovske ožine,kot Staroselcev.
+
+Na pobudo premiera je 19–članska Komisija med katerimi so bili tudi Staro-selci, in so jo sestavlali melbourneski akademiki,napisala 300-strani dolgo poročilo.Staroselci, ki jih je v 23-miljonski Australiji pol milijona (500,000), torej okoli 2%, so niže izobraženi, večinoma živijo na pragu revščine v nabiralniško-lovskih pol-nomadskih skupinah, pa tudi njihova življenjska doba je krajša kot je veljalo včasih. Aboriginška vera uči, da so zemljo in vse na njej, ustvarili duhovi prednikov. Aboriginške umetnine so ene prvih umetnin na svetu. Imajo tudi Svete kraje kot je npr. dežela Sonca in personalizirane Bogove kot je, denimo Veter iz Sanj. Izpit B  23. 1. 2012
 
 #### M70. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Je Hollandeov Marseilleski imidž to kar Francozi potrebujejo po Sarkozy-u?
+**Je Hollandeov Marseilleski imidž to kar Francozi potrebujejo po Sarkozy-u?**
+
 François Hollande, uglajen in izobražen mož imenovan tudi » Gospod Normalni « bi bil lahko točno to kar Francoski volilci potrebujejo po hiper-aktivnemu, in pozornosti željnemu Sarkozyu. Na volitvah Socialistov, ki se jih je udeležilo več kot 2.8 miljonov privržencev socialistične stranke je Hollande s 57.4 odstotki premagal Predsednico stranke, t. j. Martine Aubry. Aubryeva je Hollandeu, takoj čestitala, in mu ponudila njeno podporo v boju proti Predsedniku. Dodala je, da bo vso njeno energijo usmerila v to da postane nov francoski Predsednik in, da se z sosednjimi Otočani sklene novo gospodarskokulturno zavezništvo.
+
 François Hollande je, človek, ki rad govori a ne o sebi in, ki je duhovit, lepo vzgojen, in malo dolgo časen. Kot dolgo-letni Socialist in protiameričan, je opravljal vse najpomembnejše naloge a pri tem ostal v ozadju, letos pa se je v ospredje prebil šele, po tem ko se je s predsedniške bitke zaradi upletenosti v newyorkški (broadwayski) spolni škandal, umaknil nekdanji direktor Mednarodnega Denarnega Sklada (MDS) Dominique Strauss-Kahn. Zdaj ima go. Normalni tako Martinino, kot tudi Dominiqueovo podporo.
+
 Hollande je v svoji karjeri, opravljal pomembna a dolgočasna dela. Bil je član nanteskega Računskega sodišča, bil je parizovski mestni svetnik, in kasneje pod-sekretar socialistične stranke. Zavzema se za odpravo 50 miljardnih davčnih olajšav, napovedal je, da bo v javnih šolah ponovno zaposlil 60,000 učiteljev, ki jih je v času svojega predsedovanja odpustil Sarkozy ter da bo za izobraževanje namenil več denarja. Osrednja točka njegovega volivnega programa, pa je znižanje javno-finančnega primankljaja, česar si želijo tudi volilci.
 
 #### M71. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Je Hollandeov Marseilleski imidž to kar Francozi potrebujejo po Sarkozy-u? 
- 
-François Hollande, uglajen in izobražen mož imenovan tudi » Gospod Normalni « bi bil lahko točno to 
-kar Francoski volilci potrebujejo po hiper-aktivnemu, in pozornosti željnemu Sarkozyu. Na volitvah 
-Socialistov, ki se jih je udeležilo več kot 2.8 miljonov privržencev socialistične stranke je Hollande s 
-57.4 odstotki premagal Predsednico stranke, t. j. Martine Aubry. Aubryeva je Hollandeu, takoj 
-čestitala, in mu ponudila njeno podporo v boju proti Predsedniku. Dodala je, da bo vso njeno energijo 
-usmerila v to da postane nov francoski Predsednik in, da se z sosednjimi Otočani sklene novo 
-gospodarskokulturno zavezništvo. 
-François Hollande je, človek, ki rad govori a ne o sebi in, ki je duhovit, lepo vzgojen, in malo dolgo 
-časen. Kot dolgo-letni Socialist in protiameričan, je opravljal vse najpomembnejše naloge a pri tem 
-ostal v ozadju, letos pa se je v ospredje prebil šele, po tem ko se je s predsedniške bitke zaradi 
-upletenosti v newyorkški (broadwayski) spolni škandal, umaknil nekdanji direktor Mednarodnega 
-Denarnega Sklada (MDS) Dominique Strauss-Kahn. Zdaj ima go. Normalni tako Martinino, kot tudi 
-Dominiqueovo podporo. 
-Hollande je v svoji karjeri, opravljal pomembna a dolgočasna dela. Bil je član nanteskega Računskega 
-sodišča, bil je parizovski mestni svetnik, in kasneje pod-sekretar socialistične stranke. Zavzema se za 
-odpravo 50 miljardnih davčnih olajšav, napovedal je, da bo v javnih šolah ponovno zaposlil 60,000 
-učiteljev, ki jih je v času svojega predsedovanja odpustil Sarkozy ter da bo za izobraževanje namenil 
-več denarja. Osrednja točka njegovega volivnega programa, pa je znižanje javno-finančnega 
-primankljaja, česar si želijo tudi volilci. 
+**Je Hollandeov Marseilleski imidž to kar Francozi potrebujejo po Sarkozy-u?**
 
+François Hollande, uglajen in izobražen mož imenovan tudi » Gospod Normalni « bi bil lahko točno to kar Francoski volilci potrebujejo po hiper-aktivnemu, in pozornosti željnemu Sarkozyu. Na volitvah Socialistov, ki se jih je udeležilo več kot 2.8 miljonov privržencev socialistične stranke je Hollande s 57.4 odstotki premagal Predsednico stranke, t. j. Martine Aubry. Aubryeva je Hollandeu, takoj čestitala, in mu ponudila njeno podporo v boju proti Predsedniku. Dodala je, da bo vso njeno energijo usmerila v to da postane nov francoski Predsednik in, da se z sosednjimi Otočani sklene novo gospodarskokulturno zavezništvo.
 
+François Hollande je, človek, ki rad govori a ne o sebi in, ki je duhovit, lepo vzgojen, in malo dolgo časen. Kot dolgo-letni Socialist in protiameričan, je opravljal vse najpomembnejše naloge a pri tem ostal v ozadju, letos pa se je v ospredje prebil šele, po tem ko se je s predsedniške bitke zaradi upletenosti v newyorkški (broadwayski) spolni škandal, umaknil nekdanji direktor Mednarodnega Denarnega Sklada (MDS) Dominique Strauss-Kahn. Zdaj ima go. Normalni tako Martinino, kot tudi Dominiqueovo podporo.
 
-Izpit A 
- 
-23. 1. 2012
+Hollande je v svoji karjeri, opravljal pomembna a dolgočasna dela. Bil je član nanteskega Računskega sodišča, bil je parizovski mestni svetnik, in kasneje pod-sekretar socialistične stranke. Zavzema se za odpravo 50 miljardnih davčnih olajšav, napovedal je, da bo v javnih šolah ponovno zaposlil 60,000 učiteljev, ki jih je v času svojega predsedovanja odpustil Sarkozy ter da bo za izobraževanje namenil več denarja. Osrednja točka njegovega volivnega programa, pa je znižanje javno-finančnega primankljaja, česar si želijo tudi volilci.
 
 #### M72. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Hollande: Sarkozy 5:0 
-5.5.2012 ob 6 h 
-Tako je zadnji dan predvolivnega boja marseilleski častnik Le Monde, na svoji  Spletni strani 
-opisal ozračje pred volitvami kot ga slikajo javno-mnenjske raziskave. Če ankete dobro 
-merijo razpoloženje med ljudmi, potem se bodo Francozi na nedeljskemu referendumu, 
-odločili za Francoisja Hollandea, ali še bolje predvsem, proti Sarkozyu. Da ne kaže, prehitro 
-sklepati je dan po edinem predvolivnem soočenju na TV-Francija dal vedeti tudi Hollande. 
-Dejal je, da se "zaveda, da volitev še ni konec in da so napovedi samo to." Ker se v zadnjih 
-dneh veliko govori o Paktu z Združenim Kraljestvom, je očitno, da sprememba, ki bi jo za 
-dinamiko soočanja s krizo prinesel socijalistični predsednik v elizejski palači ne bi smela biti 
-prevelika. TV obračun v sredo je pokazal, da je tudi Hollande očitno pretkani političen lisjak. 
-Sarkozyju se je zoperstavil s priseganjem na francoskonemški vlak. 
-Skoraj 3 urni retorični spopad je bil tokrat prvič v predvolilni kampaniji v znamenju 
-gospodarskih vprašanj. Od Hollandea malo da ne celotna evropska Levica pričakuje, da bo v 
-raspravo o fiskalni vzdržnosti spravil tudi področja socijalne vzdržnosti. Med optimističnimi 
-je tudi vodja Nacionalne Fronte (NF) Jean Marie Le Pen. Predsednik Sarkozy je v četrtek, 
-Lepenove volilce nagovarjal z ustrahovanjem. Dejal je, da odločitev da ne volijo ali, da 
-oddajo prazne lističe koristi zgolj Hollandeu, kar pa bi prineslo noro trošenje. Bayrou je s 
-svojimi 9% podpore iz prvega kroga, dal vedeti, da bo podprl Hollanda. Sarkozyjevi so dejali, 
-da se je predsednik v prvem krogu boril z 9. tekmeci, tokrat pa, da bo to boj 1. na 1..
+**Hollande: Sarkozy 5:0**
+
+5.5.2012 ob 6 h
+
+Tako je zadnji dan predvolivnega boja marseilleski častnik Le Monde, na svoji  Spletni strani opisal ozračje pred volitvami kot ga slikajo javno-mnenjske raziskave. Če ankete dobro merijo razpoloženje med ljudmi, potem se bodo Francozi na nedeljskemu referendumu, odločili za Francoisja Hollandea, ali še bolje predvsem, proti Sarkozyu. Da ne kaže, prehitro sklepati je dan po edinem predvolivnem soočenju na TV-Francija dal vedeti tudi Hollande. Dejal je, da se "zaveda, da volitev še ni konec in da so napovedi samo to." Ker se v zadnjih dneh veliko govori o Paktu z Združenim Kraljestvom, je očitno, da sprememba, ki bi jo za dinamiko soočanja s krizo prinesel socijalistični predsednik v elizejski palači ne bi smela biti prevelika. TV obračun v sredo je pokazal, da je tudi Hollande očitno pretkani političen lisjak. Sarkozyju se je zoperstavil s priseganjem na francoskonemški vlak.
+
+Skoraj 3 urni retorični spopad je bil tokrat prvič v predvolilni kampaniji v znamenju gospodarskih vprašanj. Od Hollandea malo da ne celotna evropska Levica pričakuje, da bo v raspravo o fiskalni vzdržnosti spravil tudi področja socijalne vzdržnosti. Med optimističnimi je tudi vodja Nacionalne Fronte (NF) Jean Marie Le Pen. Predsednik Sarkozy je v četrtek, Lepenove volilce nagovarjal z ustrahovanjem. Dejal je, da odločitev da ne volijo ali, da oddajo prazne lističe koristi zgolj Hollandeu, kar pa bi prineslo noro trošenje. Bayrou je s svojimi 9% podpore iz prvega kroga, dal vedeti, da bo podprl Hollanda. Sarkozyjevi so dejali, da se je predsednik v prvem krogu boril z 9. tekmeci, tokrat pa, da bo to boj 1. na 1..
 
 #### M73. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-V požaru stanovanskega bloka ena oseba poškodovana, škode za 50 000 evrov
+**V požaru stanovanskega bloka ena oseba poškodovana, škode za 50 000 evrov**
 
 ponedeljek, 10.09.2012 15 : 43
+
 Na Beblerjevemu Trgu v Novih jaršah je danes okoli 8 ure dopoldan zagorel stanovanski blok. Po podatkih policije je požar že pogašen, gasilci so morali evakuirati prebivalce, 14. ljudi so odpeljali v bolnišnico.  Tiskovni predstavnik PU Ljubljana, je za Dnevnik dejal, da je požar, ki je izbruhnil v kleti že pogašen a so morali gasilci zaradi nevarnosti pred zastrupitvijo s dimom evakuirati prebivalce. Reševalci so 14 ljudi odpeljali z rešilnem avtom, med njimi so štiri otroci in en policist. Vsi, ki so jih prepeljali v Univerzitetni Klinični Center (UKC) Ljubljana so, oziroma bodo še danes odpuščeni z bolnišnice so zapisali v UKC. Po podatkih Policijske Uprave Ljubljana, je bila ena oseba huje poškodovana saj je v času požara optičala v dvigalu in so jo pozneje rešili. Na kraju dogodka so sicer prvo pomoč skupaj nudili 44. ljudem.
+
 Prebivalka stanovanskega bloka M.K., je našem novinarju povedala, da sta okoli osme ure dopoldan z možem ravno pripravljala zajterk, ko je skozi okno njunega stanovanja v 7.-nadstropju “butnil gost dim.” Zaprla sta plin, gospa je šla o dimu opozoriti sosede, gospod pa je stekel v nižja nadstropja, preveriti kaj se dogaja. Obtem je naletel na zelo gosti dim, zaradi česar so ga morali reševalci na to prepeljati celo v bolnišnico. Kot je še dodala prebivalka so prebivalci ob požaru ''najprej pomislili, da gre za kak vandalizem,'' saj imajo ''iz preteklih let slabe izkušnje'' - spomnimo, pred leti je, zaradi iztreljenega pirotehničnega sredstva v sosednem bloku zgorelo celotno stanovanje. Kot so sporočili s PU Ljubljana so med ogledom ugotovili, da je zagorelo v eni iz med kleti v stanovanjskemu bloku. Po prvih ocenah, je nastalo za okoli 50 000 evrov škode.
 
 #### M74. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Hollande: Sarkozy 5:0
+**Hollande: Sarkozy 5:0**
+
 5.5.2012 ob 6 h
-Tako je zadnji dan predvolivnega boja marseilleski častnik Le Monde, na svoji Spletni strani opisal ozračje pred volitvami kot ga slikajo javno-mnenjske raziskave. Če predpostavljamo, da ankete dobro merijo razpoloženje med ljudmi, potem bi že lahko rekli, da se bodo Francozi na nedeljskemu referendumu, odločili za Francoisja Hollandea, ali še bolje predvsem, proti Sarkozyu. Da ne kaže, prehitro sklepati je dan po edinem predvolivnem soočenju na Francoski televiziji dal vedeti tudi Hollande. Dejal je, da se "zaveda, da volitev še ni konec in da so napovedi samo to." Ker se v zadnjih dneh veliko govori o paktu za rast, je očitno, da sprememba, ki bi jo za dinamiko soočanja s krizo prinesel socialistični predsednik v elizejski palači ne bi smela biti prevelika. TV obračun v sredo je pokazal, da je tudi Hollande, ne glede na to, da še nikoli ni imel pomembnejše politične vloge v državi, očitno pretkan politični lisjak. Sarkozyju se je zoperstavil z njemu lastnimi pristopi. 
+
+Tako je zadnji dan predvolivnega boja marseilleski častnik Le Monde, na svoji Spletni strani opisal ozračje pred volitvami kot ga slikajo javno-mnenjske raziskave. Če predpostavljamo, da ankete dobro merijo razpoloženje med ljudmi, potem bi že lahko rekli, da se bodo Francozi na nedeljskemu referendumu, odločili za Francoisja Hollandea, ali še bolje predvsem, proti Sarkozyu. Da ne kaže, prehitro sklepati je dan po edinem predvolivnem soočenju na Francoski televiziji dal vedeti tudi Hollande. Dejal je, da se "zaveda, da volitev še ni konec in da so napovedi samo to." Ker se v zadnjih dneh veliko govori o paktu za rast, je očitno, da sprememba, ki bi jo za dinamiko soočanja s krizo prinesel socialistični predsednik v elizejski palači ne bi smela biti prevelika. TV obračun v sredo je pokazal, da je tudi Hollande, ne glede na to, da še nikoli ni imel pomembnejše politične vloge v državi, očitno pretkan politični lisjak. Sarkozyju se je zoperstavil z njemu lastnimi pristopi.
+
 S sarkazmom, žalitvami, ironiziranjem. Skoraj triurni retorični spopad je bil tokrat prvič v predvolilni kampanji v znamenju gospodarskih vprašanj, ki še najbolj tarejo Francoze. V tem pogledu je Sarkozyjeva politika začrtana tudi z reformo upokojevanja in s priseganjem na nemško pot fiskalne vzdržnosti. Od Hollanda malodane celotna evropska levica pričakuje, da bo v razpravo o fiskalni vzdržnosti spravil tudi področja socialne vzdržnosti. Za uresničitev sprememb in reform bodo ključne poletne parlamentarne volitve. Med tistimi, ki računajo na več mest v parlamentu, je tudi vodja Nacionalne fronte Marine Le Pen. Ta je med tednom pričakovano napovedala, da v drugem krogu ne bo podprla nikogar, saj sta oba predstavnika vladajočega kapitalu uslužnega razreda.
+
 Predsednik Sarkozy je v četrtek Lepenine volilce nagovarjal z ustrahovanjem. Dejal je, da bi odločitev, da ne volijo ali, da oddajo prazne lističe koristila zgolj Hollandu, kar pa bi prineslo razpuščenost na področju nezakonitega priseljevanja in noro trošenje. Za nov udarec predsednikovim možnostim je poskrbel tudi sredinski Francois Bayrou, ki je s svojimi devetimi odstotki podpore iz prvega kroga dal vedeti, da bo podprl Hollanda. Iz tabora Sarkozyja so po prvem delu volitev dejali, da se je predsednik v prvem krogu boril z deveterico tekmecev, tokrat pa da bo to boj 1 na 1. Glede na zapisano, bi v tem boju logično zmagal Francois Hollande. A izidi volitev niso nujno logični. Nemara posledica prepiha v denarnicah ali pa čustev.
 
 #### M75. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-Canberrskim Aboriginom naj bi le priznali status Staroselcov
-20. Januar 2012., ob 13 h ; Canberra, Australija
+**Canberrskim Aboriginom naj bi le priznali status Staroselcov**
+
+20\. Januar 2012., ob 13 h ; Canberra, Australija
+
 Avstralci bodo na Referendomu odločali o spremembi Ustave s katero bi Aboriginom priznali status staro-selcev, prav tako, pa bi iz veljavne Ustave izločili diskriminatorne Zakone. Ustava sprejeta konec 19. st., Aborigine in prebivalce v Ožini Torres omenja le bežno saj, predvideva da je bilo to območje pred prihodom Belcev ne-naseljeno. V tem kontekstu ni presenetlivo, ali pač, da ustava še vedno vsebuje člene, ki omogočajo sprejemanje diskriminatornih zakonov do določenih Ras - med drugim, jim lahko prepovedo udeležbo na volitvah, ipd..
+
 '' Prav je, da rečemo, 'da' razumevanju naše zgodovine, da rečemo 'da' amandma-jem Ustave in da rečem, 'da' prihodnosti, ki mora biti enotna in složnejša '', so bile besede premiera McKinleya. Spod-budne besede so še, kako na mestu, če vemo da so Avstralski volilci leta 1999 na Referendomu zavrnili predlog spremembe pre-ambule, vsebujoče priznanje Aboriginov in prebivalcev Torresovske ožine,kot Staroselcev.
+
 Na pobudo premiera je 19–članska Komisija med katerimi so bili tudi Staro-selci, in so jo sestavljali melbourneski akademiki, napisala 300- strani dolgo poročilo. Staroselci, ki jih je v 23-miljonski Australiji pol milijona (500,000), skratka okoli 2 %, so niže izobraženi, večinoma živijo na pragu revščine v nabiralniško-lovskih polnomadskih skupinah, pa tudi njihova življenjska doba je krajša, kot je veljalo včasih. Aboriginška vera uči, da so zemljo in vse na njej, ustvarili duhovi prednikov. Aboriginške umetnine so ene prvih umetnin na svetu. Imajo tudi svete kraje kot npr. deželo Sonca in Bogove kakršen je, denimo Veter iz Sanj.
 
 #### M76. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Kako je Antonin Panenka izumil najslovitejšo 11-metrovko - t.i. Panenko
-26. junij 2012 ob 11 : 43, Ukraina / Poljska
+**Kako je Antonin Panenka izumil najslovitejšo 11-metrovko - t.i. Panenko**
+
+26\. junij 2012 ob 11 : 43, Ukraina / Poljska
+
 Andrea Pirlo je v pol-finalu Eura 2012 iz bele točke z drznostjo šokiral angleže. In, le kdo se ne spomni 11-metrovke Zinedinea Zidanea v finalu Svetovnega prvenstva 2006.? Oba se lahko za ležerni lob zahvalita Antoninu Panenki. Na velikih nogometnih tekmovanjih, so že veliko krat o zmagovalcu odločale enajstmetrovke a redko katero izvajanje strelov iz bele točke je imelo takšen vpliv, kot »loterija« v finalu  Evropskega prvenstva v Novem sadu leta 1976. Na eni strani je bila Svetovna prvakinja zahodna Nemčija, na drugi, pa Češko-Slovaška, ki je povedla z 2:0, a so vstrajni Nemci izenačili v 90 minuti tekme. Po podaljških, so sledile 11 metrovke. Prvih 7. izvajalcev je zadelo, nato pa je Höness zgrešil. Zmaga je bila na nogi Panenke. Takrat 28–letni pragovec je namesto »bombe,« mirno spodkopal žogo, in po sredini ukanil Seppa Maiera, ki se je vrgel na njegovo levo stran. Češko-Slovaška je postala prvak Stare celine, ob tem pa se je proslavil najbolj znan udarec iz 11. metrov. A rojstvo panenke sega nekaj let nazaj v okolje pragovskega kluba Sparta.
+
 »Po vsakemu treningu sva se z vratarjem pomerila kdo bo boljši pri 11 metrovkah. Igrala sva za čokolado, ali pivo. Ker je bil Zdenek Hruška dober vratar, me je ta igra stala preveč. Tako sem razmišljal na kakšen način ga lahko premagam da mu vrnem za moje poraze" se zdaj 63. letni čeh spominja rojstva »panenke.« »Če zakasnim z udarcem in žogo le rahlo spodkopljem bo vratar, ki se vrže v kot nemočen, saj ne bo mogel še enkrat skočiti. Začel sem preizkušati udarec v igrah s Hruško. Zaradi toliko piva in čokolade, sem se začel rediti", se šali Panenka.
 
 #### M77. Pravopisna ureditev besedila
 
 Popravite naslednje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Zdravstvena blagajna bo končala v rdečih številkah
+**Zdravstvena blagajna bo končala v rdečih številkah**
+
 sre, 16.05.2012, 18 h
+
 Po najnovejših izračunih Zakon o varčevalnih ukrepih ne bodo zadostovali za pokritje celotnega, 70-miljonskega, primankljaja Zavoda za Zdravstveno zavarovanje (ZZZS. Na zavodu so izračunali, da bodo z zakonom privarčevali zgolj  64.4 milijonov evrov. Prihodki zavoda bodo zaradi znižanja plač, in znižanja starševskega nadomestila nižji za 10 milijonov evrov. Z 10 odstotnim znižanjem nadomestil za bolniško odsotnost daljšo od 90. dni, bo zdravstvena blagajna prihranila 4093454 evrov. Bo pa zbrala za 0.73 milijona evrov manj prihodkov od prispevkov, kar na letni ravni znaša 1.47 milijona evrov. Zaradi osem odstotnega znižanja plač v Javnem sektorju, bo iz zdravstvene blagajne za plače zaposlenih v zdravstvu šlo letos 48,04 milijona evrov manj (na letni ravni pa 82,35 milijona evrov), a se bo tako letos tudi zbralo za 7,92 milijona evrov prispevkov manj (letno 15,83 milijona evrov), opozarjajo v ZZZS.
+
 Spreminja pa se tudi prispevna stopnja za brezposelne, ki se znižuje za 1%. Ta ukrep bo v javno zdravstveno blagajno letos prinesel 1,35 milijona evrov manj (2,71 milijona evrov letno). Z zmanjševanjem zdravstvenih pravic, bo tako ZZZS letos prihranil 55,93 milijona evrov (117,27 milijona evrov na letni ravni), z ukrepi na področju plač in osebnih prejemkov, pa letos 5,79 milijona evrov (letno 10,43 milijona evrov). 76,25 milijona evrov bo letos namreč šlo za odpravo plačno-nesorazmernih dajatev.
+
 S prostimi sredstvi lahko ZZZS pokrije le primankljaj v višini 20,3 milijona evrov, piše Slovenska Tiskovna Agencija (STA). Zato bo po njihovem mnenju morala Vlada z aneksem k splošnemu dogovoru sprejeti dodatne varčevalne ukrepe na področju zdravstvenega varstva. Vlada je z večino stavkajočih sindikatov Javnega sektorja in Zvezo svobodnih sindikatov Slovenije (ZSSS) ta teden dosegla dogovor o ublažitvi nekaterih varčevalnih ukrepov, tem pa je nato v petek zeleno luč prižgal tudi Državni zbor. Tako je mogoče v kratkem pričakovati nadaljevanje socialnega dialoga o novem Socialnem sporazumu, ki je bil med pogajanji sindikatov in Vlade postavljen nekoliko v ozadje.
 
 #### M78. Pravopisna ureditev besedila
 
 Popravite naslednje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Se obeta nova vesolska tekma, tokrat ZDA : Kitajska ? 
- 
-Čeprav je od njegovega govora v Kennedyevem vesolskem oporišču v Capeu Canaveralu v 
-Floridi - Obama je bil prvi Predsednik po 12. letih, ki se je odločil za to pot –, minil le dobri 
-mesec, se mnenja o novemu ameriškemu vesoljskemu programu še vedno krešejo.Mnoge 
-Obamine so-državljane, pa sta razočarala pred vsem nedoločliva odaljenost začrtane osvojitve 
-Rdečega Planeta in opustitev pristankov na luni – poteza kritizirana predvsem s strani 
-nekdanji astronautov -, ki bo odslej samevala. 
- 
-Obama je v sredini Aprila dejal, da » verjame, da lahko do 2035. leta ljudi pošlemo v 
-marsovo Orbito, in poskrbimo, da se bodo tudi varno vrnili na zemljo.« Njegova vizija 
-vključuje tudi zgraditev novega vesolskega plovila za dolge polete (novega challengerja) do 
-2025.), ki bi omogočila napotitev prvih misij v Vesolje, in dlje od lune, kar pomeni tudi 
-pristanek nekje na Rimski cesti. Temu navkljub, pa natančna destinacija (najverjetneje 
-ozvezdje Severna krona) ostaja skrivnost. Veliko prahu je dvignila tudi začrtana prihodnost 
-NASA-e, ki bo do konca leta » upokojila « vse njene raketo-plane, tudi appollota 13.. 
- 
-Prvi temno-polti predsednik ZDA, je prepričan, da bodo novi ukrepi pomagali pri 
-intenzivnejšemu in boljšemu raziskovanju Vesolja. "Spremembe bodo omogočile hitrejše in 
-pogostejše pristanke v Vesolju, saj bodo naše tehnološke zmožnosti boljše, stroški pa nižji",  
-je dejal ob obisku Monterreyske baze tik ob meji ZDA:Mehika. 
- 
-Ob njegovemu govoru, pa niso ploskali vsi, mnogim je šla v nos predvsem njegova 
-"brezbrižnost" do Lune, saj Američani na temu Zemljinemu satelitu, ne bodo več pristajali. 
-Rob Bishop, sicer koloradovski Republikanec v ameriškemu Senatu je tako dejal, da bo 
-opustitev misij na luno škodovala tudi obrambi ZDA: "Rakete, ki so zgrajene za to, da nas 
-pošljejo na luno, gradijo tisti, ki z raketami skušajo preprečiti severno-korejskim, 
-sierraleonskim dd in iračanskim izstrelkom, ali izstrelkom iz kakšne druge malo-pridne 
-države!". Danes Nasa ne ponuja, niti ne obljublja razburjenja. Ne ponuja napetih izstrelitev, 
-ali razburljivih pristankov temveč le ure in ure raziskav.
+**Se obeta nova vesolska tekma, tokrat ZDA : Kitajska ?**
+
+Čeprav je od njegovega govora v Kennedyevem vesolskem oporišču v Capeu Canaveralu v Floridi - Obama je bil prvi Predsednik po 12. letih, ki se je odločil za to pot –, minil le dobri mesec, se mnenja o novemu ameriškemu vesoljskemu programu še vedno krešejo.Mnoge Obamine so-državljane, pa sta razočarala pred vsem nedoločliva odaljenost začrtane osvojitve Rdečega Planeta in opustitev pristankov na luni – poteza kritizirana predvsem s strani nekdanji astronautov -, ki bo odslej samevala.
+
+Obama je v sredini Aprila dejal, da » verjame, da lahko do 2035. leta ljudi pošlemo v marsovo Orbito, in poskrbimo, da se bodo tudi varno vrnili na zemljo.« Njegova vizija vključuje tudi zgraditev novega vesolskega plovila za dolge polete (novega challengerja) do 2025.), ki bi omogočila napotitev prvih misij v Vesolje, in dlje od lune, kar pomeni tudi pristanek nekje na Rimski cesti. Temu navkljub, pa natančna destinacija (najverjetneje ozvezdje Severna krona) ostaja skrivnost. Veliko prahu je dvignila tudi začrtana prihodnost NASA-e, ki bo do konca leta » upokojila « vse njene raketo-plane, tudi appollota 13..
+
+Prvi temno-polti predsednik ZDA, je prepričan, da bodo novi ukrepi pomagali pri intenzivnejšemu in boljšemu raziskovanju Vesolja. "Spremembe bodo omogočile hitrejše in pogostejše pristanke v Vesolju, saj bodo naše tehnološke zmožnosti boljše, stroški pa nižji", je dejal ob obisku Monterreyske baze tik ob meji ZDA:Mehika.
+
+Ob njegovemu govoru, pa niso ploskali vsi, mnogim je šla v nos predvsem njegova "brezbrižnost" do Lune, saj Američani na temu Zemljinemu satelitu, ne bodo več pristajali. Rob Bishop, sicer koloradovski Republikanec v ameriškemu Senatu je tako dejal, da bo opustitev misij na luno škodovala tudi obrambi ZDA: "Rakete, ki so zgrajene za to, da nas pošljejo na luno, gradijo tisti, ki z raketami skušajo preprečiti severno-korejskim, sierraleonskim dd in iračanskim izstrelkom, ali izstrelkom iz kakšne druge malo-pridne države!". Danes Nasa ne ponuja, niti ne obljublja razburjenja. Ne ponuja napetih izstrelitev, ali razburljivih pristankov temveč le ure in ure raziskav.
 
 #### M79. Pravopisna ureditev besedila
 
 Popravite naslednje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Stanje na računu ZSSS - a: -70 miljonov Euro-v
+**Stanje na računu ZSSS - a: -70 miljonov Euro-v**
+
 sre, 16.05.2012, 18 h
+
 Kot kaže Zakon o varčevalnih ukrepih ne bo zadostoval za pokritje celotnega, 70-miljonskega, primankljaja Zavoda za Zdravstveno zavarovanje (ZZZS-a). Na zavodu so izračunali, da bodo z Zakonom privarčevali zgolj 64.4 milijonov evrov. Prihotki zavoda bodo zaradi znižanja plač, in znižanja starševskega nadomestila nanesli toliko kot je bilo pričakovano, torej 10 miljonov evrov. Z 10 odstotnim znižanjem nadomestil za bolniško odsotnost daljšo od 90. dni, bo zdravstvena blagajna prihranila 4093454 evrov. Bo pa zbrala za 0.73 milijona evrov manj prihodkov kot bo prispevkov, kar na letni ravni znaša 1.47 milijona evrov. Zaradi osem odstotnega znižanja plač v Javnem sektorju, bo iz zdravstvene blagajne za plače zaposlenih v zdravstvu šlo letos 48,04 milijona evrov manj (na letni ravni pa 82,35 milijona evrov), a se bo tako letos tudi zbralo za 7,92 milijona evrov prispevkov manj (letno 15,83 milijona evrov), opozarjajo v šentvidski enoti ZZZS-a in Ministrstvu za delo.
-Spreminja pa se tudi prispevna stopnja za brez poselne, ki se znižuje za 1%. Ta ukrep bo v Proračun letos prinesel 1, 35 milijona evrov manj (2,71 milijona evrov letno). S zmanjševanjem zdravstvenih pravic, bo tako ZZZS letos prihranil 55,93 milijona evrov (117,27 milijona evrov na letni ravni), z ukrepi na infra-strukturnih področjih, pa letos 5,79 milijona evrov (letno 10,43 milijona evrov). 
+
+Spreminja pa se tudi prispevna stopnja za brez poselne, ki se znižuje za 1%. Ta ukrep bo v Proračun letos prinesel 1, 35 milijona evrov manj (2,71 milijona evrov letno). S zmanjševanjem zdravstvenih pravic, bo tako ZZZS letos prihranil 55,93 milijona evrov (117,27 milijona evrov na letni ravni), z ukrepi na infra-strukturnih področjih, pa letos 5,79 milijona evrov (letno 10,43 milijona evrov).
+
 S prostimi sredstvi lahko ZZZS pokrije le primankljaj v višini 20,3 milijonov evrov, piše Slovenska Tiskovna Agencija (STA). Zato bo po njihovem mnenju, morala Vlada z aneksem k splošnemu dogovoru sprejeti dodatne varčevalne ukrepe na področju zdravstvenega varstva. Vlada je z večino stavkajočih sindikatov Javnega sektorja in Zvezo Svobodnih sindikatov Slovenije (ZSSS), ta teden dosegla dogovor o ublažitvi nekaterih varčevalnih ukrepov, tem pa je nato v petek zeleno luč prižgal tudi Državni zbor. Tako je vkratkem pričakovati nadaljevanje dialoga o novemu Socialnemu sporazumu po zgledu Ustave, ki je bil med pogajanji sindikatov in Vlade, postavljen v ozadje.
 
 #### M80. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Slovenija - dežela med Avstrijsko Koroško in Zahodnim Balkanom
+**Slovenija - dežela med Avstrijsko Koroško in Zahodnim Balkanom**
+
 18.06.2012; 07,43; 18ºC; relativna vlažnost: 68-stopinj
+
 "Miš, ki rjove, kot zmaj". S temi besedami, so pri popotniški Bibliji Lonely Planetu opisali Slovenijo o kateri povedo, da je velika komaj za polovico Švice, da pa velikost več, kot nadoknadi z drugimi dobrotami. "Slovenija si je od svoje neodvisnosti leta 1991. pridelala veliko oznak: 'Evropa v malem', 'Sončna stran alp', 'Zelen košček Evrope' i.t.d. in čeprav morda zvenijo, kot reklamne krilatice iz turističnih brošur, vse držijo", piše Lonely Planet. Ob tem vodič ispostavlja plaže, zasnežene gore, z vinogradi porasle griče in prostrana polja sončnic. Pa Cerkev sv. Jakoba, baročne palače, stavbe iz Starega veka in secesijske meščanske hiše ... "Slovenija nudi več raznolikosti, kot kar nekajkrat večje države." Pri Lonelyju menijo, da so med največjimi zakladi Slovenije kar slovenci sami - "gostoljubni, velikodušni, poli-gloti, odprtega duha.". "Kar zadeva njih niti čustveno niti geografsko ne živijo v vzhodni Evropi - njihov dom je v srcu celine".
+
 Pri spletnem opisu Slovenije "znane po Lipicancih, pršutu, Blejskemu jezeru in smučanju," so izpostavljene fotografije Julijskih alp, zmajskega mosta, Plečnikovih križank in Nabrežja Ljubljanice. Ob tem priporočajo trekking po Sloveniji pa pohod po Julijskih Alpah in obisk "svetovno znane" Postonjske jame in t.i. Človeške ribice. Spodaj objavljajo še svoj izbor najboljših 12. destinacij v Sloveniji. Na prvo mesto so postavili Bohinjsko jezero ("Idilično, neokrnjeno Alpsko jezero pod Triglavom"), na drugo Logarsko dolino ("Najlepša alpska dolina s prostranimi livadami obrobljenimi s skalnatimi vrhovi"), na tretje Šempeter z Nekropolo preživelo še iz Antike. Sledijo vas Bogojina s Plečnikovo cerkvijo sv. Duha, Ptuj, Frančiškanski samostan, Kočevski Rog ("Deviški gozd po katerem tavajo medvedi in duhovi Partizanov") in Ljubljanska stolnica. Dvanajsterico zaključujejo Predjamski grad, Škocjanske jame in partizanska bolnica Franja, ki spada tudi v Unescovo spomeniško-varstveno dediščino.
 
 #### M81. Pravopisna ureditev besedila
 
 Popravite naslednje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Breivik-ova obsodba: prišteven, odgovoren, kriv,...
+**Breivik-ova obsodba: prišteven, odgovoren, kriv,...**
+
 Storilec krutega zločina je bil v Oslu spoznan za krivega 77. naklepnih umorov in terorizma ter obsojen na 21-let zapora. Norveški skrajni desničar Anders Behring Breivik bo v ječi preživel vsaj 21 let. Oslovsko sodišče je danes ugotovilo, da je bil v času lanskega morilskega pohoda po norveški Prestolnici, ki je zahteval 77. življenj prišteven. Breivik bo po vsej verjetnosti za zapahi preživel vso življenje saj lahko sodišče sicer najvišjo a vseeno razmeroma blago kazen podaljšuje dokler meni, da obsojenec še vedno ogroža družbo. Skrajni desničar, ki je takoj priznal odgovornost za dvojni napad ne pa tudi krivde, si je takšno sodbo želel. Kot je dejal je hotel s »krutim a nujnim« dejanjem Norveško obvarovati pred invazijo Muslimanov - če bi ga spoznali za psihotičnega (takšno diagnozo so mu postavili v enem od izvedenjskih mnenj), pa, da bi ga »ponižali«.
 
 Večina norvežanov, Breivikov pokol razume kot političen zločin. Storilec, ki po lastnih besedah pripada skupini Vitezov Templarjev, je fanatični sovražnik multi-kulturalizma, še posebej muslimanskih priseljencev, z zločinom pa je hotel sprožiti vse-evropski pogrom nad priseljenci iz tretjih držav, zlasti iz Bližnjega vzhoda. Akcijo je pripravljal več let, pri tem pa se je povezal z različnimi skrajno-desničarskimi skupinami po Evropi. Poleg 77. smrtnih žrtev je ob njegovi krvavi sledi obležalo še 242. ranjenih. Veliko preživelih, se so-oča s hudimi čustvenimi težavami, nekaj mlajših, pa še vedno ne hodi v šolo.
@@ -9256,209 +9232,169 @@ O njegovi krivdi ne dvomi nihče, čeprav je sam ni nikoli priznal, ob neki pril
 
 Popravite naslednje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Breivik-ova obsodba: prišteven, odgovoren, kriv,...
-Storilec krutega zločina je bil v Oslu spoznan za krivega 77. naklepnih umorov in terorizma ter obsojen na 
-21-let zapora. Norveški skrajni desničar Anders Behring Breivik bo v ječi preživel vsaj 21 let. Oslovsko 
-sodišče je danes ugotovilo, da je bil v času lanskega morilskega pohoda po norveški Prestolnici, ki je 
-zahteval 77. življenj prišteven. Breivik bo po vsej verjetnosti za zapahi preživel vso življenje saj lahko 
-sodišče sicer najvišjo a vseeno razmeroma blago kazen podaljšuje dokler meni, da obsojenec še vedno 
-ogroža družbo. Skrajni desničar, ki je takoj priznal odgovornost za dvojni napad ne pa tudi krivde, si je 
-takšno sodbo želel. Kot pravi je hotel s »krutim a nujnim« dejanjem Norveško obvarovati pred invazijo 
-Muslimanov - če bi ga spoznali za psihotičnega (takšno diagnozo so mu postavili v enem od izvedenjskih 
-mnenj), pa, da bi ga »ponižali«.
-Večina norvežanov, Breivikov pokol razume kot političen zločin. Storilec, ki po lastnih besedah pripada 
-skupini Vitezov Templarjev, je fanatični sovražnik multi-kulturalizma, še posebej muslimanskih priseljencev, 
-z zločinom pa je hotel sprožiti vse-evropski pogrom nad priseljenci iz tretjih držav, zlasti iz Bližnjega 
-vzhoda. Akcijo je pripravljal več let, pri tem pa se je povezal z različnimi skrajno-desničarskimi skupinami 
-po Evropi. Poleg 77. smrtnih žrtev je ob njegovi krvavi sledi obležalo še 242. ranjenih. Veliko preživelih, se 
-so-oča s hudimi čustvenimi težavami, nekaj mlajših, pa še vedno ne hodi v šolo.
-O njegovi krivdi ne dvomi nihče, čeprav je sam ni nikoli priznal, ob neki priložnosti pa je celo predlagal naj 
-mu v primeru opsodbe izrečejo smrtno kazen, češ, da bi bila ta pravična zanj. V ospredju sojenja je bila za to 
-večino časa dilema o njegovem duševnem zdravju. Breivik bo kazen služil v isti celici zapora Ila, v kateri je 
-bil zaprt doslej.
+**Breivik-ova obsodba: prišteven, odgovoren, kriv,...**
+
+Storilec krutega zločina je bil v Oslu spoznan za krivega 77. naklepnih umorov in terorizma ter obsojen na 21-let zapora. Norveški skrajni desničar Anders Behring Breivik bo v ječi preživel vsaj 21 let. Oslovsko sodišče je danes ugotovilo, da je bil v času lanskega morilskega pohoda po norveški Prestolnici, ki je zahteval 77. življenj prišteven. Breivik bo po vsej verjetnosti za zapahi preživel vso življenje saj lahko sodišče sicer najvišjo a vseeno razmeroma blago kazen podaljšuje dokler meni, da obsojenec še vedno ogroža družbo. Skrajni desničar, ki je takoj priznal odgovornost za dvojni napad ne pa tudi krivde, si je takšno sodbo želel. Kot pravi je hotel s »krutim a nujnim« dejanjem Norveško obvarovati pred invazijo Muslimanov - če bi ga spoznali za psihotičnega (takšno diagnozo so mu postavili v enem od izvedenjskih mnenj), pa, da bi ga »ponižali«.
+
+Večina norvežanov, Breivikov pokol razume kot političen zločin. Storilec, ki po lastnih besedah pripada skupini Vitezov Templarjev, je fanatični sovražnik multi-kulturalizma, še posebej muslimanskih priseljencev, z zločinom pa je hotel sprožiti vse-evropski pogrom nad priseljenci iz tretjih držav, zlasti iz Bližnjega vzhoda. Akcijo je pripravljal več let, pri tem pa se je povezal z različnimi skrajno-desničarskimi skupinami po Evropi. Poleg 77. smrtnih žrtev je ob njegovi krvavi sledi obležalo še 242. ranjenih. Veliko preživelih, se so-oča s hudimi čustvenimi težavami, nekaj mlajših, pa še vedno ne hodi v šolo.
+
+O njegovi krivdi ne dvomi nihče, čeprav je sam ni nikoli priznal, ob neki priložnosti pa je celo predlagal naj mu v primeru opsodbe izrečejo smrtno kazen, češ, da bi bila ta pravična zanj. V ospredju sojenja je bila za to večino časa dilema o njegovem duševnem zdravju. Breivik bo kazen služil v isti celici zapora Ila, v kateri je bil zaprt doslej.
 
 #### M83. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben ali stilističen popravek šteje kot napaka.
 
-MOL z 125. miljoni dolgo-ročnega dolga najbolj zadolžena mestna občina 
-Nova gorica lani z 2, 4-milijonskim presežkom 
-12.april 2011. ob 13 : 58 ( Ljubljana ) 
-Mestna Občina Ljubljana je lani tekoče prihotke povečala za 12%, znašali so dve sto triinpetdeset 
-milijonov evrov. Prodaja zemljišč in nakup stadiona, ter dvorane v Stožicah sta močno preoblikovala 
-proračun MOLa. Županu Zoranu Jankoviću je, sicer, uspelo zmanjšati občinski primankljaj, ki pa je ob 
-koncu leta vseeno presegel 29.3 milijonov evrov.  Tudi koperski župan Popovič je lani močno povečal 
-proračunski primankljaj. Presegel je 2500000000 evrov, to pa je 8, 8 milijona EUR več, kot leta 2009. 
-Občina je lani najela 13.75 milijona evrov novih srednje- in dolgo-ročnih posojil, tako, da skupni dolg 
-občine znaša 38.75 milijona evrov. Preostanek primanjkljaja, je Popovičova občina pokrila z rezerv, ki 
-jih pridela pri-obalni turizem. 
- 
-Tudi mestna občina Maribor je imela lani manj prihodkov, prodala je, namreč, le TAMa. Odhodke so 
-imeli lani celo nekoliko večje, kot leta 2009. A plače občinskih uslužbencev so se povišale za 8%, 
-investicijski odhodki in transferji, pa so se zmanjšali za 12 odstotkov in lani skupaj dosegli 35, 6 
-milijonski znesek. Primanjkljaj je iz šestih milijonov evrov leta 2009 narasel na nekaj več kot 16 
-miljonov evrov. V krajema Gozd-Martuljek so imeli presežek, kljub temu, da vasi Pri treh hišah, Tri 
-buče, 
-Prazna 
-miza, 
-Poštena 
-vas, 
-Goveji 
-dol 
-in 
-Log 
-Čezsoški 
-porabijo 
-preveč. 
-Primanjkljaj je zmanjšala tudi Murska sobota,  v Slovenj gradcu so prodali dr. Prešernov spomenik, 
-medtem, ko preseške beležijo še v Vrhovem pri Mirni peči, Zgornjem dražen vrhu, Stari novi vasi, 
-Novem Mestu, Šmarjeških toplicah, Dolenjem medvedjem selu, Tolstem vrhu in Račjem selu.
+**MOL z 125. miljoni dolgo-ročnega dolga najbolj zadolžena mestna občina**
+
+Nova gorica lani z 2, 4-milijonskim presežkom
+
+12.april 2011. ob 13 : 58 ( Ljubljana )
+
+Mestna Občina Ljubljana je lani tekoče prihotke povečala za 12%, znašali so dve sto triinpetdeset milijonov evrov. Prodaja zemljišč in nakup stadiona, ter dvorane v Stožicah sta močno preoblikovala proračun MOLa. Županu Zoranu Jankoviću je, sicer, uspelo zmanjšati občinski primankljaj, ki pa je ob koncu leta vseeno presegel 29.3 milijonov evrov.  Tudi koperski župan Popovič je lani močno povečal proračunski primankljaj. Presegel je 2500000000 evrov, to pa je 8, 8 milijona EUR več, kot leta 2009. Občina je lani najela 13.75 milijona evrov novih srednje- in dolgo-ročnih posojil, tako, da skupni dolg občine znaša 38.75 milijona evrov. Preostanek primanjkljaja, je Popovičova občina pokrila z rezerv, ki jih pridela pri-obalni turizem.
+
+Tudi mestna občina Maribor je imela lani manj prihodkov, prodala je, namreč, le TAMa. Odhodke so imeli lani celo nekoliko večje, kot leta 2009. A plače občinskih uslužbencev so se povišale za 8%, investicijski odhodki in transferji, pa so se zmanjšali za 12 odstotkov in lani skupaj dosegli 35, 6 milijonski znesek. Primanjkljaj je iz šestih milijonov evrov leta 2009 narasel na nekaj več kot 16 miljonov evrov. V krajema Gozd-Martuljek so imeli presežek, kljub temu, da vasi Pri treh hišah, Tri buče, Prazna miza, Poštena vas, Goveji dol in Log Čezsoški porabijo preveč. Primanjkljaj je zmanjšala tudi Murska sobota,  v Slovenj gradcu so prodali dr. Prešernov spomenik, medtem, ko preseške beležijo še v Vrhovem pri Mirni peči, Zgornjem dražen vrhu, Stari novi vasi, Novem Mestu, Šmarjeških toplicah, Dolenjem medvedjem selu, Tolstem vrhu in Račjem selu.
 
 #### M84. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Kako je Antonin Panenka izumil najslovitejšo 11 metrovko - t.i. Panenko
-26. junij 2012 ob 11 : 43, Ukraina / Polska
+**Kako je Antonin Panenka izumil najslovitejšo 11 metrovko - t.i. Panenko**
+
+26\. junij 2012 ob 11 : 43, Ukraina / Polska
+
 Andrea Pirlo je v pol-finalu Eura 2012 iz bele točke z drznostjo šokiral angleže. In, le kdo se ne spomni 11 metrovke Zinedinea Zidanea v finalu Svetovnega prvenstva 2006.? Oba se lahko za ležerni lob zahvalita Antoninu Panenki. Na velikih nogometnih tekmovanjih, so že veliko krat o zmagovalcu odločale enajstmetrovke a redko katero izvajanje strelov iz bele točke je imelo takšen vpliv, kot »loterija« v finalu  Evropskega prvenstva v Novem sadu leta 1976. Na eni strani je bila Svetovna prvakinja zahodna Nemčija, na drugi, pa Češko-Slovaška, ki je povedla z 2:0, a so vstrajni Nemci izenačili v 90 minuti tekme. Po podaljških, so sledile 11 metrovke. Prvih 7. izvajalcev je zadelo, nato pa je Höness zgrešil. Zmaga je bila na nogi Panenke. Takrat 28–letni pragovec je namesto »bombe,« mirno spodkopal žogo, in po sredini ukanil Seppa Maiera, ki se je vrgel na njegovo levo stran. Češko-Slovaška je postala prvak Stare celine, ob tem pa se je proslavil najbolj znan udarec iz 11. metrov. A rojstvo panenke sega nekaj let nazaj v okolje pragovskega kluba Sparta kjer je Panenka začel njegovo pot.
+
 »Po vsakemu treningu sva se z vratarjem pomerila kdo bo boljši pri 11 metrovkah. Igrala sva za čokolado, ali pivo. Ker je bil Zdenek Hruška precej dobri vratar, me je ta igra stala preveč. Tako sem razmišljal na kakšen način ga lahko premagam da mu vrnem za moje poraze" se zdaj 63. letni čeh spominja rojstva »panenke.« »Če žogo le rahlo spodkopljem bo vratar, ki se vrže v kot nemočen, saj ne bo mogel še enkrat skočiti. Začel sem preizkušati udarec v igrah s Hruško. Zaradi toliko piva in čokolade, sem se začel rediti", se rad pošali Panenka.
 
 #### M85. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Film o ljubezni pre-predeni s težavami
-V sklopu 66-tega Canneskega filmskega festivala, je TV hiša Perfo premijerno predstavila 
-tudi nov celovečeren film Nejca Gazvode. Na projekciji za festivalske selektorje, je 
-Gazvodin film doživel zelo pozitivne odzive. Kot je povedal producent Aleš Pavlin gre za 
-primerljive občutke, kot pri filmu Izlet pred dvemi leti. Prav v temu festivalskemu sklopu je 
-bil namreč prvič prikazan Gazvodin prvenec kar mu je dalo zagon za poznejšo izjemno 
-uspešno festivalsko pot ovenčano z nagradami, uspešen pa je bil tudi v domačih kino 
-dvoranah z več kot 14,000. gledavci in redno kino distribucijo.
-Film je slovensko–dansko–hrvaška ko-produkcija. Kot je povedal Pavlin je to prvič da smo 
-slovenci dobili Danska sredstva, Dvojina je bila edina ne-Skandinavska ko-produkcija 
-sprejeta na tem razpisu. Pred Slovenskem občinstvu bo film premijerno prikazan v mesecu 
-Avgustu ko prihaja tudi na reden spored tukajšnjih kino dvoran. Zaradi tehničnih težav, 
-letalo z Danske namenjeno v Grčijo, pristane v Sloveniji. Ena izmed potnic je tudi Iben, 
-skrivnostno dekle iz Danske. Iben in druge potnike v hotel odpelje Tina - Ljubljančanka, ki 
-v okvirjih službe opravlja prevoze med letališčem in hotelom. Iben Tino prosi naj jo zapelje 
-na kratki ogled mesta, ta privoli, čeprav se ji prošnja tihega dekleta zdi ne navadna.
-Dvojina je po besedah režiserja, "film o ljubezni, ki se vrti okoli dejstva, da se vsi ljudje, ne 
-glede na življenske okoliščine vedno borijo za preživetje njihove ljubezenske zgodbe." 
-Podobno je z nepričakovano ljubeznijo, ki vscveti med dvemi dekleti - Tino, ki jo je 
-upodobila igralka Nina Rakovec (videli smo jo že v Gazvodinemu Izletu), ter Iben katere 
-vlogo je odigrala Danka Mia Jexen. Skozi pripoved, gledalec občuti bremena, ki jih nosijo 
-današni mladi preden vstopijo v svet odraslih, kjer poskušajo najti njihovo mesto.
+**Film o ljubezni pre-predeni s težavami**
+
+V sklopu 66-tega Canneskega filmskega festivala, je TV hiša Perfo premijerno predstavila tudi nov celovečeren film Nejca Gazvode. Na projekciji za festivalske selektorje, je Gazvodin film doživel zelo pozitivne odzive. Kot je povedal producent Aleš Pavlin gre za primerljive občutke, kot pri filmu Izlet pred dvemi leti. Prav v temu festivalskemu sklopu je bil namreč prvič prikazan Gazvodin prvenec kar mu je dalo zagon za poznejšo izjemno uspešno festivalsko pot ovenčano z nagradami, uspešen pa je bil tudi v domačih kino dvoranah z več kot 14,000. gledavci in redno kino distribucijo.
+
+Film je slovensko–dansko–hrvaška ko-produkcija. Kot je povedal Pavlin je to prvič da smo slovenci dobili Danska sredstva, Dvojina je bila edina ne-Skandinavska ko-produkcija sprejeta na tem razpisu. Pred Slovenskem občinstvu bo film premijerno prikazan v mesecu Avgustu ko prihaja tudi na reden spored tukajšnjih kino dvoran. Zaradi tehničnih težav, letalo z Danske namenjeno v Grčijo, pristane v Sloveniji. Ena izmed potnic je tudi Iben, skrivnostno dekle iz Danske. Iben in druge potnike v hotel odpelje Tina - Ljubljančanka, ki v okvirjih službe opravlja prevoze med letališčem in hotelom. Iben Tino prosi naj jo zapelje na kratki ogled mesta, ta privoli, čeprav se ji prošnja tihega dekleta zdi ne navadna.
+
+Dvojina je po besedah režiserja, "film o ljubezni, ki se vrti okoli dejstva, da se vsi ljudje, ne glede na življenske okoliščine vedno borijo za preživetje njihove ljubezenske zgodbe." Podobno je z nepričakovano ljubeznijo, ki vscveti med dvemi dekleti - Tino, ki jo je upodobila igralka Nina Rakovec (videli smo jo že v Gazvodinemu Izletu), ter Iben katere vlogo je odigrala Danka Mia Jexen. Skozi pripoved, gledalec občuti bremena, ki jih nosijo današni mladi preden vstopijo v svet odraslih, kjer poskušajo najti njihovo mesto.
 
 #### M86. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-"Globoko grlo" Snowden izginil na hongkongških ulicah
+**"Globoko grlo" Snowden izginil na hongkongških ulicah**
+
 Nekdanji uslužbenec CIA-e, ki je razkril sporni nadzor ameriške agencije za nacionalno varnost (NSA), Edward Snowden, je izginil iz hongkongškega hotela kjer je prebival. Nihče ne ve kje je, mediji pa poročajo, da bi naj bil še vedno, v Hongkongu kamor je odpotoval maja, potem, ko je pustil njegovo službo in od koder je stopil v stik z britanskim Timeom.
-Ob razkritju, je Snowden dejal, da ima "dolžnost, da pomaga zatiranim ljudem." Upa da ga ne bodo izročili ZDA sicer pa se zaveda, da verjetno domovine ne bo nikoli več videl, če bo dobil azil v kakšni državi, ki ga ne bo izročila ZDA. Obamina administracija bo kmalu sprožila postopek za Snowdenovo izročitev, v ZDA pa ga čaka sojenje in obsodba na dolgo-letno zaporno kazen zaradi izdaje državnih skrivnosti. "Vsakdo, ki izdaja zaupne podatke, mora biti kaznovan", je dejal predstavnik Republikanca Mikea Rogersa iz Californie. Snowdenova usoda spominja na usodo vojaka Bradley Manninga, ki je WikiLeaks-u izročil štiri sto tisoč pet sto dvaindvajset zaupnih dokumentov, in mu zato sodijo pred haaškim sodiščem a boljšega načrta kot je bil pobeg v Hongkong, ni imel. 
+
+Ob razkritju, je Snowden dejal, da ima "dolžnost, da pomaga zatiranim ljudem." Upa da ga ne bodo izročili ZDA sicer pa se zaveda, da verjetno domovine ne bo nikoli več videl, če bo dobil azil v kakšni državi, ki ga ne bo izročila ZDA. Obamina administracija bo kmalu sprožila postopek za Snowdenovo izročitev, v ZDA pa ga čaka sojenje in obsodba na dolgo-letno zaporno kazen zaradi izdaje državnih skrivnosti. "Vsakdo, ki izdaja zaupne podatke, mora biti kaznovan", je dejal predstavnik Republikanca Mikea Rogersa iz Californie. Snowdenova usoda spominja na usodo vojaka Bradley Manninga, ki je WikiLeaks-u izročil štiri sto tisoč pet sto dvaindvajset zaupnih dokumentov, in mu zato sodijo pred haaškim sodiščem a boljšega načrta kot je bil pobeg v Hongkong, ni imel.
+
 Je pa Snowden dobil ogromno podpore saj se je pod spletno peticijo predsedniku Obami, da ga pomilosti še preden se je sploh začel sodni postopek proti njemu, podpisalo več kot 40,000 ljudi. Ob vsem tem, mediji pišejo, da se programi nadzora nad državljani v imenu vojne proti terorizmu, ne bodo spreminjali. Kopičenje podatkov o ljudeh, vzbuja skrbi tudi na relaciji Bruselj – Moskva, o zbiranju telefonskih podatkov in nadzoru bodo tako govorili na moskovškem ministerskem srečanju, tiskoven predstavnik Angele Merkel Steffen Seibert pa je že napovedal, da bo o tem govor tudi med Obaminim obiskom Berlina 18. Junija. Skupaj z Seibertom so mediji napadali tudi britanskega ministra Williama Hague-a.
 
 #### M87. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Dexter se po 8. sezonah poslavla od majhnih zaslonov
+**Dexter se po 8. sezonah poslavla od majhnih zaslonov**
+
 19.04.2013 ob 19:57
+
 Oboževalci Dextera, serije posnete po romanu Jeffa Lindsaya, ki od napetega konca 7-me sezone dalje čakajo kako se bo njihov najljubši seriski morilec zvlekel iz njegove zanke, so v prvem napovedniku dobili nekaj namigov. Ob enem pa se je treba so-očiti z dejstvom da bo osma sezona, tudi zadnja. Showtimeov predstavnik, je že prejšni mesec povdaril: “osma serije o seriskem morilcu, ki je pravtako forenzik pri Miamiski policiji bo tudi njena zadnja.” Michael C.Hall, glaven igralec, za vsako epizodo – ki si jo povprečno ogleda 453,6 miljonov ljudi–, prejme 250,000 dolarjev. Lindsayeva ideja za roman o morilcu, se je porodila že konec 90. med zlaganimi nasmehi in neiskrenimi vljudnostmi udeležencov nekega občinskega srečanja.
- 
+
 V zadni epizodi sedme sezone, je bila Debra postavljena pred izbiro: Ustreliti je morala, bodisi svojega polbrata, ali pa Mario LaGuerta ki mu je končno prišla na sled. Dexter si je od premijere leta 2006. dalje počasi nabiral tako oboževalce, kot tudi gledanost in kritiško hvalo: poleg nagrade Peabody se lahko pohvali s kar 25. nominacijami za Emmya. Dexter je nanovo definiral pro-tagonista TV serije, ki je ob enem tudi antagonist. Showtime bo sicer Dexterja nadomestil z novo, znanstveno-fantastično serijo Ray Donovan v kateri bo Liev Schreiber igral brez obzirno osebo s poznanstvi, ki losangelskim mogotcom priskrbi katero koli nezakonito stvar ali supstanco, ki si jo pač zaželijo in to preden bi se sploh lahko začeli dolgo-časiti.
 
 #### M88. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Dexter se po 8. sezonah poslavla od majhnih zaslonov
+**Dexter se po 8. sezonah poslavla od majhnih zaslonov**
+
 19.04.2013 ob 19 : 57
+
 Oboževalci Dextera, serije posnete po romanu Jeffa Lindsaya, ki od napetega konca 7-me sezone dalje čakajo kako se bo njihov najljubši seriski morilec zvlekel iz njegove zanke, so v prvem napovedniku dobili nekaj namigov. Ob enem pa se je treba so-očiti z dejstvom da bo osma sezona, tudi zadna. Showtimeov predstavnik, je že prejšni mesec povdaril: “osma serije o seriskem morilcu, ki je pravtako forenzik pri Miamiski policiji bo tudi njena zadnja.” Michael C.Hall, glaven igralec, za vsako epizodo – ki si jo povprečno ogleda 453,6 miljonov ljudi–, prejme 250,000 dolarjev. Lindsayeva ideja za roman o morilcu, se je porodila že konec 90. med zlaganimi nasmehi in neiskrenimi vljudnostmi udeležencov nekega občinskega srečanja.
- 
+
 V zadni epizodi sedme sezone, je bila Debra postavljena pred izbiro: Ustreliti je morala, bodisi svojega polbrata, ali pa Mario LaGuerta ki mu je končno prišla na sled. Dexter si je od premijere leta 2006. dalje počasi nabiral tako oboževalce, kot tudi gledanost in kritiško hvalo: poleg nagrade Peabody se lahko pohvali s kar 25. nominacijami za Emmya. Dexter je nanovo definiral pro-tagonista TV serije, ki je ob enem tudi antagonist. Showtime bo sicer Dexterja nadomestil z novo, znanstveno-fantastično serijo Ray Donovan v kateri bo Liev Schreiber igral brez obzirno osebo s poznanstvi, ki losangelskim mogotcom priskrbi katero koli nezakonito stvar ali supstanco, ki si jo pač zaželijo in to preden bi se sploh lahko začeli dolgo-časiti.
 
 #### M89. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Baje, da bodo Lisičke spet tekmovale v njihovem brlogu
-14. Januar 2013. ob 12:52, Kranjska gora
-Prireditelji 49. Zlate lisice so si odahnili. Nov sneg je prišel pravočasno, in vse kaže, da smučarski praznik pod Pohorjem ni pod vprašajem. Medtem, ko je bilo na progi kjer bodo med 26 in 27 januarjem tekmovale najbolše smučarke sveta, še pred tednom bolj, kot ne, vse zeleno so nižje temperature v zadnjih dneh omogočile zasneževanje s 25. snežnimi topovi. Dobrodošlo je bilo tudi " darilo iz neba " in 20-cm naravnega snega. Očitno, se zdaj ni treba bati, da bi morali tekmovanje tako, kot lani, preseliti na Kranjsko goro. 
+**Baje, da bodo Lisičke spet tekmovale v njihovem brlogu**
+
+14\. Januar 2013. ob 12:52, Kranjska gora
+
+Prireditelji 49. Zlate lisice so si odahnili. Nov sneg je prišel pravočasno, in vse kaže, da smučarski praznik pod Pohorjem ni pod vprašajem. Medtem, ko je bilo na progi kjer bodo med 26 in 27 januarjem tekmovale najbolše smučarke sveta, še pred tednom bolj, kot ne, vse zeleno so nižje temperature v zadnjih dneh omogočile zasneževanje s 25. snežnimi topovi. Dobrodošlo je bilo tudi " darilo iz neba " in 20-cm naravnega snega. Očitno, se zdaj ni treba bati, da bi morali tekmovanje tako, kot lani, preseliti na Kranjsko goro.
+
 Za četrtek je napovedana snežna kontrola namenjena podrobni proučitvi pogojev. »Novo zapadlega naravnega snega je približno 20-centimetrov, koliko je narejenega umetno vam kot ponavadi žal ne morem povedati, še vedno je namreč v kupih in ga moramo še razgrniti. Za enkrat zelo dobro kaže, tudi napovedi za prihodne dni so dobra. Ostajamo pri predvideni trasi, torej, da je cilj, kot doslej na snežnemu stadionu. Nekaj smo razmišlali, da bi progo preselili v zgornji del a ostaja to le rezerven scenari. Vse skozi delamo«, je iz Pohorja sporočil tiskoven predstavnik ŠRC-a Pohorje Iztok Kvas. V soboto, 26. januarja bo na sporedu vele slalom, v nedeljo pa slalom. Ker Tina Maze v tej sezoni blesti, in ker bi lahko postala prva slovenka, ki je dobila obe preizkušnji v enemu letu je pričakovati, veliki obisk Slovenskih navijačev.
+
 Mazejeva je v St. Antonu zmagala 17. v karieri. Ima 12. veleslalomskih zmag, eno smukaško, dve super kombinacijski, slalomsko, in zdaj še to. Na oder za zmagovalke, se je povzpela že 51.. Zbrala je že 1.289 točk, kar je skoraj toliko kot jih imata njeni zasledovalki, skupaj.
 
 #### M90. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-22-kilometerski kolesarski Olimp imenovan Mont Ventoux
+**22-kilometerski kolesarski Olimp imenovan Mont Ventoux**
 
 V pravljični provansalški vasici Roussillon obdane z rdečimi skalnatatimi gmotami ali se v vozite po soteski Gorges de la Nesque, se vam pogled slej ko prej ustavi na Mont Ventouxju. Ta 1,912m visok osamelec, ki kraljuje nad Osrednjo Provanso, se nedvomno uvršča med najbolj legendarne kolesarske cilje. Vzpona nanj je za 22 kilometrov, v dolžino in za dva Vršiča, za 1.600 metrov v višino, na 1912 m.n.v.
+
 Sicer najdaljša a najlažja od trojice cest namenjenih na vrh je tista iz vzhoda, iz Bordeauxja. V 26-kilometrih se nabere 1260m višine, v zadnjih šestih kilometrov se, ko se gozd konča priključi cesti iz Bédoina. Seveda je manj razburljiva kot sta ostali dve, a tistim, ki ne marate gneče ali tistim, ki ste kondicijsko slabše pripravljeni se bo zdela morda prva izbira. Tista prava a tudi najbolj zahtevna pot pa na vrh vodi iz vasice Bédoin. Ko sredi vasi zavijete levo je ravnine konec. Naslednjih 16km vas čaka skoraj 9% strmina. Ta je najhujša prvih 10km, ko se cesta vije skozi gozd, ki pride poleti še kako prav za senco, in še bolj prav za zavetje pred vetrom. Ovinki so redki, serpentin, ki bi lajšale strmino ni. Res, cesta skozi gozd je strma a gozd vas varuje pred znamenitim Mistralom. Baje, da piha 240 dni na leto z več kot 90km/h, na vrhu pa tudi z več kot 300 km / h. Pred seboj v daljavi, zagledate velikanski tele-komunikacijski stolp, ob cesti pa črnorumene kole. Kilometer pred vrhom, se peljete mimo spomenika Toma Whitea, ki se je na dirki po Franciji leta 1967, zaradi izčrpanosti, vročine in preveč zaužitih tablet poplaknjenih z alkoholom zgrudil s kolesa, se zmogel še enkrat pobrati a kmalu ni mogel več in uro zatem je umrl.
 
 #### M91. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-Da bi bili slabi krediti preneseni z državnih bank v vpogled vsem…
+**Da bi bili slabi krediti preneseni z državnih bank v vpogled vsem…**
+
 13.Januar 2014 ob 15 : 24 – Multimedijski Center Radiotelevizije Slovenije
+
 Stranke Koalicije premiejki Alenki Bratušek predlagajo naj postane vsak oseben podatek o kreditih, ki so bili iz državnih bank preneseni na Družbo za Upravljanje Terjatev Bank (DUTB-ja) javno dostopni. Javni bodo, podatki o komitentu, višini kredita, o tem kdo ga je odobril, zavarovanjih, in brutostanju dolga. Dostop do informacij javnega značaja, je zavezan zagotavljati DUTB - ne banka. Izjemi za razkritje sta primera, da bi razkritje osebnega podatka pomenilo kršitev varstva osebnih podatkov, ter kadar bi razkritje podatka škodovalo izvedbi postopka. Vendar pa se dostop do informacije izjemoma dovoli, ko / če gre za podatke povezane z upravljanjem javne funkcije ali delavnega razmerja javnega uslužbenca. V skladu s predlaganim dopolnilom, bo moral DUTB sprejeti interen akt za razkritje pretpisanih informacij v enemu mesecu po uveljavitvi Novele zakona. DUTB je zavezan omogočati dostop do informacij v skladu z zakonom, ki ureja dostop do informacij javnega značaja, in pro-aktivno razkriva javnosti informacije pomembne za njegovo poslovanje kot že velja za javne delniške družbe, t.j. denimo Petrol d.d. Pri slabih kreditih gre za ogromno finančno škodo, ter tudi za dejanja, ki so resno ogrozila slovenski Bančni sistem. Ker bodo slovenski davko-plačevalci plačevali zato, da se bo bančni sistem ponovno vspostavil obstaja javen interes za razkritje podatkov v zvezi s slabimi krediti. Zato je namen »določiti, če so med informacijami tudi podatki iz temelnih dokumentov povezanih s krediti, in če se lahko sodeluje tudi z F.B.I..«
 
 #### M92. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-Tinine Elanke prepočasne za konkurenco zbrano na soških Olimpijskih igrah
+**Tinine Elanke prepočasne za konkurenco zbrano na soških Olimpijskih igrah**
+
 Sochi - 10.02.2014 ob 12 : 49 – Multi medijski Center RTV Slovenija
-Kljub temu, da je Tina Maze imenitno začela Olimpiado v Ruskem Sochiju, v mestu obdanem z gorami in Črnem Morjem, ji je v superkombinaciji na 4 mestu zmankalo do medalje le 0.1 sekunde. Zmagala je Nemka Rieschova - to je njeno 3 olimpijsko zlato -, 2 je bila Nicole Hosp in tretja američanka Mancuseva, ki se je v Slalomu v katerem nima bleščečih rezultatov dobro znašla. To je za takšno šampionko kot je Tina Maze seveda razočaranje saj se je spogledovala z zlatom. Največ slave je seveda požela Rieschova, ki ji manjka še ena zlata medalja preden se izenači z najuspešnejšo smučarko v zgodovini Janico Kostelić. "Po smuku, sem bila nervozna saj je Julia vodila za sekundo", je povedala Nemka. "Na krožniku je 5. medalj" pa je pred začetkom smučarskih bojev razmišljal Andrea Massi. Andreina Ruska pojedina, pa se žal ni začela najbolje, a ni dvoma, da bo Mazejova na nasledni "hod", sredin smuk (začetek ob 8 h), prišla toliko bolj lačna. Maruša Ferk, ki je želela prav v super kombinaciji iztržiti največ je uvrstitev pri vrhu zapravila po Smuku – nabrala je, namreč, kar dve sekunde zaostanka in bila 17., a se je vendarle prebila med deseterico kar je solidni rezultat. Štuhecova, po smuku 11-a, slaloma ni speljala. Četrtem mestu v žargonu rečemo tudi Lesena Medalja, slovenci so jih, do zdaj izbrali šest. Vse se je začelo v Lake-u Placid-u, kjer je Križajov Bojan Veleslalom končal na četrtem mestu. Osem let pozneje je, v Calgaryju tik pod zmagovalnim odrom ostala Mateja Svet.
+
+Kljub temu, da je Tina Maze imenitno začela Olimpiado v Ruskem Sochiju, v mestu obdanem z gorami in Črnem Morjem, ji je v super‑kombinaciji na 4 mestu zmankalo do medalje le 0.1 sekunde. Zmagala je Nemka Riesch‑ova - to je njeno 3 olimpijsko zlato -, 2 je bila Nicole Hosp in tretja američanka Mancuseva, ki se je v Slalomu v katerem nima bleščečih rezultatov dobro znašla. To je za takšno šampionko kot je Tina Maze seveda razočaranje saj se je spogledovala z zlatom. Največ slave je seveda požela Rieschova, ki ji manjka še ena zlata medalja preden se izenači z najuspešnejšo smučarko v zgodovini Janico Kostelić. "Po smuku, sem bila nervozna saj je Julia vodila za sekundo", je povedala Nemka. "Na krožniku je 5. medalj" pa je pred začetkom smučarskih bojev razmišljal Andrea Massi. Andreina Ruska pojedina, pa se žal ni začela najbolje, a ni dvoma, da bo Mazejova na nasledni "hod", sredin smuk (začetek ob 8 h), prišla toliko bolj lačna. Maruša Ferk, ki je želela prav v super kombinaciji iztržiti največ je uvrstitev pri vrhu zapravila po Smuku – nabrala je, namreč, kar dve sekunde zaostanka in bila 17., a se je vendarle prebila med deseterico kar je solidni rezultat. Štuhecova, po smuku 11-a, slaloma ni speljala. Četrtem mestu v žargonu rečemo tudi Lesena Medalja, slovenci so jih, do zdaj izbrali šest. Vse se je začelo v Lake-u Placid-u, kjer je Križajov Bojan Veleslalom končal na četrtem mestu. Osem let pozneje je, v Calgaryju tik pod zmagovalnim odrom ostala Mateja Svet.
 
 #### M93. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Da bi bili slabi krediti preneseni z državnih bank v vpogled vsem…
+**Da bi bili slabi krediti preneseni z državnih bank v vpogled vsem…**
+
 13.Januar 2014 ob 15 : 24 – Multi-medijski Center Radiotelevizije Slovenije
-Stranke Koalicije premiejki Alenki Bratušek predlagajo naj postane vsak oseben podatek o kreditih, ki so bili iz državnih bank preneseni na Družbo za Upravljanje Terjatev Bank (DUTB-ja) javno dostopni. Javni bodo, podatki o komitentu, višini kredita, o tem kdo ga je odobril, zavarovanjih, in brutostanju dolga. Dostop do informacij javnega značaja, je zavezan zagotavljati DUTB - ne banka. Izjemi za razkritje sta primera, da bi razkritje osebnega podatka pomenilo kršitev varstva osebnih podatkov, ter kadar bi razkritje podatka škodovalo izvedbi postopka. Vendar pa se dostop do informacije izjemoma dovoli, ko / če gre za podatke povezane z upravljanjem javne funkcije ali delavnega razmerja javnega uslužbenca. V skladu s predlaganim dopolnilom, bo moral DUTB sprejeti interen akt za razkritje pretpisanih informacij v enemu mesecu po uveljavitvi novele Zakona. 
+
+Stranke Koalicije premiejki Alenki Bratušek predlagajo naj postane vsak oseben podatek o kreditih, ki so bili iz državnih bank preneseni na Družbo za Upravljanje Terjatev Bank (DUTB-ja) javno dostopni. Javni bodo, podatki o komitentu, višini kredita, o tem kdo ga je odobril, zavarovanjih, in brutostanju dolga. Dostop do informacij javnega značaja, je zavezan zagotavljati DUTB - ne banka. Izjemi za razkritje sta primera, da bi razkritje osebnega podatka pomenilo kršitev varstva osebnih podatkov, ter kadar bi razkritje podatka škodovalo izvedbi postopka. Vendar pa se dostop do informacije izjemoma dovoli, ko / če gre za podatke povezane z upravljanjem javne funkcije ali delavnega razmerja javnega uslužbenca. V skladu s predlaganim dopolnilom, bo moral DUTB sprejeti interen akt za razkritje pretpisanih informacij v enemu mesecu po uveljavitvi novele Zakona.
+
 DUTB je zavezan omogočati dostop do informacij v skladu z zakonom, ki ureja dostop do informacij javnega značaja, in pro-aktivno razkriva javnosti informacije pomembne za njegovo poslovanje kot že velja za javne delniške družbe, t.j. denimo Petrol d.d. Pri slabih kreditih gre za ogromno finančno škodo, ter tudi za dejanja, ki so resno ogrozila slovenski Bančni sistem. Ker bodo slovenski davko-plačevalci plačevali zato, da se bo bančni sistem ponovno vspostavil obstaja javen interes za razkritje podatkov v zvezi s slabimi krediti. Zato je namen »določiti, če so med informacijami tudi podatki iz temelnih dokumentov povezanih s krediti, in če se lahko pri tem sodeluje tudi z F.B.I..«
 
 #### M94. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Zadel, molil, zmagal - Tavaresev trenutek karijere
+**Zadel, molil, zmagal - Tavaresev trenutek karijere**
+
 To kar se je zgodilo ko je kapitan Tavares streljal in je žoga zletela pod prečko vratarja glasgowškega gol-mana bo 30 letnega brazilca spremljalo vso življenje saj je spisal Slovensko nogometno zgodovino. Ante Šimundža je pred 15. leti dosegel 1. zadetek Maribora v Ligi Prvakov, tokrat, pa je ekipo s trenerske klopi popeljal v nogometni Raj imenovan liga prvakov. Šimundžina taktika se je obrestovala tudi tokrat. »To je veliki uspeh za vse nas - za klub, za viole, za mestno občino Maribor, za Slovenijo. Pričakovali smo tak Celtic kot smo ga videli. Vedeli smo da bodo začeli previdneje, in poskušali skozi tekmo dvigniti ritem. Celtic park je zahtevno gostovanje za vsako ekipo, zlasti, če gre za veliko tekmo. Temeljito smo se pripravili. Celticu ne ustreza ekipa z igro usmerjeno v napad, zlasti zdaj ko nimajo Findlaya, Georgea in Irvinea. Namen smo dosegli, ohranjali smo posest žoge in tako, prišli do cilja«, je povedal Šimundža.
+
 Veliko delo, sta na sredini igrišča opravila Aleš Mertelj in Željko Filipović. Merteljeve izjave so bile, razumlivo, po dvoboju v Škotski zelo pozitivne. »Zelo smo veseli tega rezultata. Igrati pred 50,000 gledalcev je nekaj posebnega, ampak delovali smo tako kot da igramo vsak dan na takšnih stadionih. To je nova generacija, ki dosega nove mejnike«, so bile Filipovićove besede po tekmi. »Ne vem kako je bilo videti iz tribune, a v 1 pol-času smo na igrišču prevladovali. Ne vem če so sploh imeli kako priložnost. Dobro smo igrali, sicer, nismo zadeli s kake zrele priložnosti ampak iz 'odbijanca'. Dobro se je izšlo, in to je najpomembneje. Dosegamo dobre rezultate, zagotovili smo, da bodo v Ljudskem Vrtu igrale vrhunske ekipe kot sta Schalke in Chelsea. Z Alešom Merteljem sva dobro delovala na sredini, pohvaliti ga mora tako za igro v obrambi, kot v napadu. Kot celota smo bili dobri in ko Maribor dobro deluje, se mu ni treba bati niti Celtica«, je dodal Filipović. Zdaj, sledijo priprave Mourinho-ov Chelsea.
 
 #### M95. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Častni Zlati volan za Kiinega oblikovalca Petra Schreyja
+**Častni Zlati volan za Kiinega oblikovalca Petra Schreyja**
+
 Peter Schrey, glavni oblikovalec skupine Hyundai Kia je za dosežke v avtomobilski industriji prejel častnega Zlatega volana. Bavarec je Vodja Kiinega oblikovanja od leta 2006. Schrey, ki je zadolžen za oblikovanje pri 5-em največjem avtomobilskem proizvajalcu na svetu je šele 2. oblikovalec v 31 letni zgodovini Zlatega volana. »Sem izredno ponosen. To je zame osebno veliki poklon.«, so bile Schreyjeve besede. Preden so ga zvabili v Kiine vrste je bil Schrey odgovoren za oblikovanje modelov kot so Audi TT, Volkswagen Beetle in Volkswagen Passat. Po prihodu h Kii, je razvil oblikovalsko filozofijo utemeljeno na preprostosti in jasnosti kar je v veliki meri vplivalo na uspeh znamke - v zadnjih 5. letih je Kia podvojila svojo prodajo in v letu 2012 prodala več kot 2.7 miljonov vozil. Pod Schreyjevim vodstvom, so Kiini studii v Frankfurtu ustvarili nekaj presenetljivih vozil - ustvarili so, n.p.r. kultni križanec Soul in dinamični športni terenec Sportage. Zlati volan sodi med, najbolj pomembne nagrade na stari celini. Nagrada izbira najbolše nove modele, medtem, ko častni Zlati volan od leta 1983 podeljujejo vodilnim v industriji. Do zdaj, sta prestižno nagrado osvojila tudi dva dirkača: Michael Schumacher 1993. in Lewis Hamilton 2007. leta. V kategoriji vozil, zmagovalce izbirajo nemški bravci avto revij, ali neodvisna 40 članska žirija, ki je sestavljena še preden so kandidati izbrani v posameznih državah.
 
 #### M96. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Častni Zlati volan za Kiinega oblikovalca Petra Schreyja 
- 
-Peter Schreyer, glavni oblikovalec skupine Hyundai Kia je za dosežke v avtomobilski industriji 
-prejel častnega Zlatega volana. Bavarec je Vodja Kiinega oblikovanja od leta 2006. Schrey, ki je 
-zadolžen za oblikovanje pri 5-em največjem avtomobilskem proizvajalcu na svetu je šele 2. 
-oblikovalec v 31 letni zgodovini Zlatega volana. »Sem izredno ponosen. To je zame osebno veliki 
-poklon.«, so bile Schreyjeve besede. Preden so ga zvabili v Kiine vrste je bil Schrey odgovoren za 
-oblikovanje modelov kot so Audi TT, Volkswagen Beetle in Volkswagen Passat. Po prihodu h Kii, 
-je razvil oblikovalsko filozofijo utemeljeno na preprostosti in jasnosti kar je v veliki meri vplivalo 
-na uspeh znamke - v zadnjih 5. letih je Kia podvojila svojo prodajo in v letu 2012 prodala več kot 
-2.7 miljonov vozil. Pod Schreyjevim vodstvom, so Kiini studii v Frankfurtu ustvarili nekaj 
-presenetljivih vozil - ustvarili so, n.p.r. kultni križanec Soul in dinamični športni terenec Sportage. 
-Zlati volan sodi med, najbolj pomembne nagrade na stari celini. Nagrada izbira najbolše nove 
-modele, medtem, ko častni Zlati volan od leta 1983 podeljujejo vodilnim v industriji. Do zdaj, sta 
-prestižno nagrado osvojila tudi dva dirkača: Michael Schumacher 1993. in Lewis Hamilton 2007. 
-leta. V kategoriji vozil, zmagovalce izbirajo nemški bravci avto revij, ali neodvisna 40 članska 
-žirija, ki je sestavljena še preden so kandidati izbrani v posameznih državah.
+**Častni Zlati volan za Kiinega oblikovalca Petra Schreyja**
+
+Peter Schreyer, glavni oblikovalec skupine Hyundai Kia je za dosežke v avtomobilski industriji prejel častnega Zlatega volana. Bavarec je Vodja Kiinega oblikovanja od leta 2006. Schrey, ki je zadolžen za oblikovanje pri 5-em največjem avtomobilskem proizvajalcu na svetu je šele 2. oblikovalec v 31 letni zgodovini Zlatega volana. »Sem izredno ponosen. To je zame osebno veliki poklon.«, so bile Schreyjeve besede. Preden so ga zvabili v Kiine vrste je bil Schrey odgovoren za oblikovanje modelov kot so Audi TT, Volkswagen Beetle in Volkswagen Passat. Po prihodu h Kii, je razvil oblikovalsko filozofijo utemeljeno na preprostosti in jasnosti kar je v veliki meri vplivalo na uspeh znamke - v zadnjih 5. letih je Kia podvojila svojo prodajo in v letu 2012 prodala več kot 2.7 miljonov vozil. Pod Schreyjevim vodstvom, so Kiini studii v Frankfurtu ustvarili nekaj presenetljivih vozil - ustvarili so, n.p.r. kultni križanec Soul in dinamični športni terenec Sportage. Zlati volan sodi med, najbolj pomembne nagrade na stari celini. Nagrada izbira najbolše nove modele, medtem, ko častni Zlati volan od leta 1983 podeljujejo vodilnim v industriji. Do zdaj, sta prestižno nagrado osvojila tudi dva dirkača: Michael Schumacher 1993. in Lewis Hamilton 2007. leta. V kategoriji vozil, zmagovalce izbirajo nemški bravci avto revij, ali neodvisna 40 članska žirija, ki je sestavljena še preden so kandidati izbrani v posameznih državah.
 
 #### M97. Pravopisna ureditev besedila
 
@@ -9482,760 +9418,633 @@ Na Beblerjevemu Trgu v Novih jaršah je danes okoli 8 ure dopoldan zagorel stano
 
 Pravopisno popravite spodnje besedilo.
 
-Po zapletih z inekcijami, v Združenih Državah Amerike izvedli prve usmrtitve
+**Po zapletih z inekcijami, v Združenih Državah Amerike izvedli prve usmrtitve**
+
 V Jefferson Cityu v ameriški Georgii so v torek zvečer, usmrtili 58letnega Marcus-a Wellons-a obsojenega zaradi posilstva in umora 15 letne deklice leta 1989, v kansaski kaznilnici pa so v sredo zjutraj usmrtili 43letnega jetnika obsojenega umora dveh žensk. Zadnji možni pritožbi obeh obsojencev, sta bili pred usmrtitvijo zavrnjeni. Zvečer, naj bi v Floridi usmrtili še enega obsojenca, John-a Henry-a.
+
 Wellons se je v zadnjem trenutku pritožil a je bila njegova pritožba zavrnjena. Kot poročajo tuji mediji naj bi Wellons umrl šele uro po smrtonosni inekciji a o morebitnih zapletih ne poročajo. Ne v Georgii, ne v Misuriju, niso hoteli povedati od kod so dobili sretstva, ki so jih uporabili v smrtonosnih injekcijah, ki običajno vsebujejo pento-barbital. V Floridi uporabljajo kombinacijo treh sredstev. Konec aprila je pri izvrševanju smrtnih kazni v ZDA nastal zaplet saj je takrat kaznjenec obsojen zaradi posilstva in umora zaradi težav s sredstvi, ki jih z injekcijo vbrizgajo obsojenim na smrt v bolečinah trpel skoraj eno uro, nato pa umrl zaradi srčnega napada. Običajno, sicer smrt nastopi po nekaj več, kot 10. minutah. Tokrat, se je Matilda pomudila dlje. Zaplet je nastal zaradi pomankanja ustreznih sredstev saj so Evropski dobavitelji prenehali pošiljati pento barbital za usmrtitve. Omenjen zaplet je bil deležen številnih obtožb, dejanje je obsodila tudi Bela Hiša. Takrat so zaradi proučitve postopkov vse izvedbe smrtnih kazni (bilo jih je devet) preložili, za enkrat se še ne ve kdaj bodo izvedene in ali bo posredovala tudi Obamina Administracija.
 
 #### M101. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-Canberrskim Aboriginom naj bi le priznali status Staroselcov
-20. Januar 2012. ob 13h; Canberra - Novi južni Wales / Australija
+**Canberrskim Aboriginom naj bi le priznali status Staroselcov**
+
+20\. Januar 2012. ob 13h; Canberra - Novi južni Wales / Australija
+
 Avstralci, bodo na Referendomu odločali o spremembi Ustave s katero bi Aboriginom priznali status staro-selcev, prav tako, pa bi iz Ustave izločili diskriminatorne Zakone o tujcih. To kar je pri tem najbolj bizarno je to, da beseda Aborigini sama po sebi označuje Staroselce, in da Ustava sprejeta konec 19. st., Aborigine omenja le bežno saj predvideva da je bilo to območje pred prihodom Belcov, preprosto ne naseljeno. V tem kontekstu, ni presenetlivo, ali pač, da ustava še vedno vsebuje člene, ki omogočajo sprejemanje diskriminatornih zakonov - med drugim, jim lahko prepovedo udeležbo na volitvah, ipd.. »Prav je, da rečemo, 'da' razumevanju naše zgodovine, da rečemo 'da' amandma-jem Ustave, in da rečemo 'da' prihodnosti, ki mora biti enotna in složnejša«, so se glasile besede premiera McKinleya. Spomnimo - Avstralski volilci, so 1999. na Referendomu zavrnili predlog spremembe pre-ambule vezane na priznanje Aboriginov in prebivalcev Torreške Ožine, kot Staroselcev, čeprav niso vedeli kaj sprememba sploh prinaša. Na pobudo premiera, je 19–članska Komisija med katerimi so bili tudi Staro-selci, in so jo sestavljali melbourneski akademiki, napisala 300 stransko poročilo. Staroselci, ki jih je v 23-miljonski Australiji pol milijona (500,000), skratka okoli 2%, so niže izobraženi, večinoma živijo na pragu revščine v okvirjih nabiralniško-lovskih pol-nomadskih skupin, pa tudi njihova življenska doba je krajša kot je bila nekdaj. Aboriginška vera uči, da so zemljo in vse na njej, ustvarili duhovi prednikov. Aboriginške umetnine, so ene prvih umetnin na svetu. Imajo tudi svete kraje, kot so dežela Sonca in tudi bogove kakršen je, denimo Veter iz Sanj.
 
 #### M102. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Upravljalci Velike Planine - biserja Kamniško Savinjskih alp - ne vedo več kako naprej 
- 
-  Zaradi njene kolturne dediščine, kot tudi naravnih lepot, je Velika Planina eden od biserov 
-Predalpskega sveta a se že vrsto let bori z zgubo, in je vreča brez dna za Kamniško Občino. 
-Zaradi 7. zaporednih zelenih zim in dotrajanosti vseh 3. žičniških naprav, so smučarske sezone 
-na Planini z leta v leto slabše. Najprej, so se morali odpovedati smučiščom v Tihi Dolini - zdaj 
-zaradi dotrajanosti, stoji tudi sedežnica. Sprva so jo želeli zamenjati z rabljeno, pa je tudi za 
-to zmankalo denarja saj je lani tod pustošil požled. Kljub hitri sanaciji, je škode veliko.  Zdaj, 
-skuša vodstvo družbe Velika Planina d.o.o. rešiti kar se pač da. Predlagajo prenovo sedežnice 
-saj bi naj bilo to ceneje kot nakup nove, ali rabljene naprave. Odločitev, je v rokah kamniškega 
-Občinskega sveta v katerem se bo o tem razpravljalo. V umesnem času, se v družbi dela: 
-Nabavili so otroško vlečnico Kekec, ob njej pa bi naj bila celo bob-steza. Za starejše, bodo 
-organizirali nočne pohode z baklami pa tudi klasične, vodene zimske izlete. Na spodni postaji 
-nihalke, pa so že začeli posodablati gostišče. V.d. direktora Leon Keder, pravi, da, če bodo 
-gostje prišli v urejeni lokal kjer bodo lahko čakali na gondolo bodo raje iskali lepote skrite v 
-dolini Kamniške Bistrice. V lokalu nameravajo ponujati kakovostno a vseeno poceni hrano. 
-Ti na drobno proučeni načrti, pa so v dolini že vzbudili dvome, češ ali Bistrica res potrebuje 
-še eno gostišče? V znanemu gostišču Pri Planinskemu Orlu pred vhodom v Kamniško Bistrico 
-pravijo da se konkurence ne bojijo, in da je ta pravzaprav zaželena in, da tak lokal lažje uredi 
-občina, kot posameznik. »Pustimo se presenetiti«, pravijo. Mogoče pa se Planini - kljub teškim 
-časom -, le obetajo lepši dnevi prežeti s spominom na pretekle dni polne uspehov.
+**Upravljalci Velike Planine - biserja Kamniško Savinjskih alp - ne vedo več kako naprej**
+
+Zaradi njene kolturne dediščine, kot tudi naravnih lepot, je Velika Planina eden od biserov Predalpskega sveta a se že vrsto let bori z zgubo, in je vreča brez dna za Kamniško Občino. Zaradi 7. zaporednih zelenih zim in dotrajanosti vseh 3. žičniških naprav, so smučarske sezone na Planini z leta v leto slabše. Najprej, so se morali odpovedati smučiščom v Tihi Dolini - zdaj zaradi dotrajanosti, stoji tudi sedežnica. Sprva so jo želeli zamenjati z rabljeno, pa je tudi za to zmankalo denarja saj je lani tod pustošil požled. Kljub hitri sanaciji, je škode veliko.  Zdaj, skuša vodstvo družbe Velika Planina d.o.o. rešiti kar se pač da. Predlagajo prenovo sedežnice saj bi naj bilo to ceneje kot nakup nove, ali rabljene naprave. Odločitev, je v rokah kamniškega Občinskega sveta v katerem se bo o tem razpravljalo. V umesnem času, se v družbi dela: Nabavili so otroško vlečnico Kekec, ob njej pa bi naj bila celo bob-steza. Za starejše, bodo organizirali nočne pohode z baklami pa tudi klasične, vodene zimske izlete. Na spodni postaji nihalke, pa so že začeli posodablati gostišče. V.d. direktora Leon Keder, pravi, da, če bodo gostje prišli v urejeni lokal kjer bodo lahko čakali na gondolo bodo raje iskali lepote skrite v dolini Kamniške Bistrice. V lokalu nameravajo ponujati kakovostno a vseeno poceni hrano. Ti na drobno proučeni načrti, pa so v dolini že vzbudili dvome, češ ali Bistrica res potrebuje še eno gostišče? V znanemu gostišču Pri Planinskemu Orlu pred vhodom v Kamniško Bistrico pravijo da se konkurence ne bojijo, in da je ta pravzaprav zaželena in, da tak lokal lažje uredi občina, kot posameznik. »Pustimo se presenetiti«, pravijo. Mogoče pa se Planini - kljub teškim časom -, le obetajo lepši dnevi prežeti s spominom na pretekle dni polne uspehov.
 
 #### M103. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Novice: Courtois bo počival do osem tednov, Limbersky je predolgo proslavljal gol proti Latviji in se okajen z njegovim Bentleyem zaletel v ograjo
+**Novice: Courtois bo počival do osem tednov, Limbersky je predolgo proslavljal gol proti Latviji in se okajen z njegovim Bentleyem zaletel v ograjo**
+
 Poškodba kolena na sredinemu treningu je za belgijskega nogometnega vratarja Thibaut-a Courtois-a hujša kot je delovalo izprva. Že takoj po pregledu, je Chelseajeva Zdravniška služba potrdila, da bo moral 23 letni reprezentant ispustiti ligaški obračun z Everton-om, zdaj pa diši po še nekoliko bolj črnemu scenariju, saj bi utegnil biti odsoten celo do 8. tednov. Tako, bo priložnost med vratnicami Londonskega kolektiva dobila nova okrepitev, Bosansko-Hercegovski reprezentant Asmir Begović. »Odsoten bo dalj časa. Ne morem vam povedati koliko časa bo manjkal, saj morajo zdravniki podati več informacij. To je za nas veliki udarec, saj se zanašamo na Thibautjevo pomoč«, so se po konferenci glasile Mourinheve besede. — Medtem, pa je češki reprezentant David Limbersky v 3. dneh prehodil pot od Raja do Pekla. Potem, ko je v soboto s kvalifikaciskim golom proti Latviji, potrdil nastop svoje izbrane vrste na euru 2016 v Franciji se je včeraj nekaj po polnoči pod vplivom opojnih hlapov s svojim luksuznim Bentleyem zaletel v ograjo v Pragi. Za nameček, je pragovskim možem postave, ki so ga še pravočasno zasačili, tudi grozil. Prekaljen 31 letni kapitan Viktorie Plzen jo je odnesel brez prask, trpela pa je pločevina na kateri je bilo za 18,500 evrov škode. — Okrepitev Reala - brazilec Danilo -, nove zgodbe ni začel po načrtih, saj si je poškodoval mišično ovojnico v desnem stopalu zaradi česar bo moral nekaj časa - predvidoma štiri tedne - prisilno mirovati. Štiriindvajset letni branilec, ki se je v Madrid za 31,5 milijonov evrov preselil iz Porta bo moral zagotovo izpustiti mestni derbi z Atleticom. Bolj židane volje pa so lahko pri nemškemu prvaku Bayernu, saj se je Španec Javi Martinez vrnil po poškodbi. Kot so sporočili z bavarskega giganta z njegovo vrnitvijo v tekmovalni pogon ne bodo hiteli, saj se želijo izogniti tveganju, da bi se ponovila minula sezona, ko se je po poškodbi vrnil prehitro, a mu je ponagajala ahilova tetiva.
 
 #### M104. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Nocoj, drugi del Tinine penta-logije
+**Nocoj, drugi del Tinine penta-logije**
+
 06.02.2015 ob 11:04, Vail, Beaver Creek - MMC RTV SLO
+
 Drevi, se Tini Maze na koloradovskem prizorišču obetajo velike stvari. Mazejeva je na super vele-slalomu dokazala, da je v super formi; poleg tega, ji je s osvojeno srebrno medaljo iz ramen padlo veliko breme. Od črnjanke kar puhti optimizem in dobra volja, za nameček s progo imenovano Raptor v Beaver Creek-u dihata kot eno. Dodatno, je za velike apetite poskrbel zadnji trening na katerem je bila Mazetova najhitrejša. Boljši čas je sicer dosegla Anna Fenninger a z izpuščenimi vratci. Spoštljivost do zahtevnega terena, je zdaj zamenjalo prijateljstvo. »Mislim da sem zdaj popolnoma osvojila progo. Že včeraj sem rekla, da sem se počutila sproščeno, in da sem razumela to progo. Odnesla me je dol zelo hitro tako, da si želim v petek ponoviti tako vožnjo«, je povedala Olimpiska prvakinja v tej disciplini. Nocoj ob 19 uri, bomo tako priča 2. delu Tinine penta logije, ki ima v scenariju napad na medaljo v vseh 5. disciplinah. Super težka naloga, ki ji na enem svetovnem prvenstvu ni bila kos še nobena smučarka v zgodovini. Mazejeva se bo na progo podala kot 21, tik zanjo bo štartala prva favoritinja Lindsey Vonn. Prav v vseh disciplinah, Mazejeva sodi v krog favoritinj. Ta dosežek je do zdaj uspel Lasse-ju Kjus-u, ki se je s petimi medaljami okitil pred 16. leti, v svojih rosnih 20. letih oz. pri svojih 29. letih, prav v Beaverju Creeku: »Ta dosežek sem videla po TV. Najmanj kar lahko naredim je, da ga poskusim ponoviti. Zame se je SP začel zelo dobro. Kar dva tedna, sem čakala na tak rezultat. V Cortini d'Ampezzo nisem dosegla nič pametnega, v St. Moritzu tik pred SP-om tudi ne. Končno, je uspel preboj«. Na cortinadampeškem slalomu in sanktmoriškem smuku, se je Mazetovi sicer močno poznala utrujenost.
 
 #### M105. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Mazetova v Kühtaiju na progo 5 po vrsti
+**Mazetova v Kühtaiju na progo 5 po vrsti**
+
 27.12.2014 ob 09 : 13
+
 Dunaj / Santa Caterina / Ivanja Reka - MMC RTV SLO
+
 Alpski smučarji in smučarke, so se v nedeljo vrnili v karavano Svetovnega pokala. Moške je čakal smuk (11.30) v Santi Caterini, dekleta pa veleslalom (10.00) v Kühtaju na Avstrijskem Tirolskem. Prvi trening za moške na Progi Deborah Compagnoni, je dobil Nemec Josef Ferstl pred Francozom Briceom Rogerom in Nemcem Christofom Innerhoferjem. Kühtaijska strmina,  je v nedeljo gostila super veleslalom, dan pozneje, pa še slalom namesto Semmeringa. Mazejeva je prek Twittera že prej sporočila, da se veseli tekem na semeringškem »nadomestku.« Tina Maze, je zadnjo tekmo v letu 2014 končala na 6 mestu. Na slalomu v Kühtaiu, je bila po 1. vožnji 2., a je v finalu zmanjkalo energije. V prvi vožnji, je črnjanka na novi strmini Svetovnega pokala, kjer je v nedeljo v vele slalomu zasedla 7 mesto smučala odlično. Na prvih dveh umesnih časih, je bila celo hitrejša od 19letne Shiffrin-ove, na koncu pa v cilju zaostala za 0.15 sekunde. V drugi vožnji v slabši vidljivosti - tudi snežilo je-, ni našla odgovora na napad Šarke Strach-ove, ki je smučala tik pred njo: »Zmankalo mi je energije. Že v prvi vožnji, sem v spodnem delu čutila, da me zmanjkuje. Borila sem se... To sta dobra rezultata glede na to, da nisem povsem pri močeh«, je povedala dva kratna soška olimpijska prvakinja. Za črnjanko, je izredno uspešno leto. Najprej je na Olimpijskih igrah v Sočiju osvojila zlati kolajni v vele slalomu in smuku, sijajno pa je začela tudi to sezono. Po tretjini Svetovnega pokala, je na dobri poti, da 2. zapored osvoji Veliki Kristalni Globus. Tako ima pred Fenningerjevo, ki je bila najboljša lani že 245,5 točk naskoka.
 
 #### M106. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Sto let odkar so Soško fronto stresli prvi boji
+**Sto let odkar so Soško fronto stresli prvi boji**
+
 Natanko sto let mineva odkar je Italija odvrgla plašč nevtralnosti in napovedala vojno Avstroogrski. Z Operacijo Blisk se je odprla šesto kilometrov dolga jugo-zahodna Fronta, in v boje potegnila tudi 90km območja ob Soči, ki jo je v 29. mesecih bojevanja streslo 12. ofenziv. V dneh pred usodno nedeljo, so naslovnice časopisov polnili prispevki v povezavi z pričakovano vojno. Informacije vezane na vojno, so takrat prihajale do ljudi v mestih hitreje kot bi si morda mislili, toda vseeno počasneje, kot danes. Takrat, pa radija in televizije ni bilo in edini zanesljivi vir informacij so bili časopisi. Ob pomembnejših dogodkih, so časopisi izšli tudi v posebnih izdajah - lahko tudi več krat na dan. Skoraj leto dni so že trajali boji Prve svetovne vojne preden so tudi Italjani poprijeli za orožje in sicer na strani Antante. S tajnimi pogajanji v Londonu, si je Italija predtem zagotovila nekatere ozemeljske pridobitve, v glavnem na Vzhodnem Jadranu. Odprtje Soške fronte s Prvo soško bitko je tudi za avstroogrsko mornarico, pomenilo obsežne logistične spremembe. Le nekaj ur po italijanski vojni napovedi, je, še pod zaščito mraka, večina bojnih ladij izplula proti zahodu in zgodaj zjutraj bombardirala presenečene Italijane, ki v marsikaterem primeru niso vedeli kaj točno se dogaja. Napad, je bil osredotočen na Italijanska obalna mesta, vzdolž celotne obale – od beneške na severu do barijske na koncu Škornja. Del mornariških enot je bil iz Boke kotorske, kjer je bilo v tem času drugo najpomembnejše avstroogrsko mornariško oporišče poklican v glavno bazo v Pulj, med njimi tudi Gottfried Banfield, najuspešnejši pilot cesarsko-kraljeve mornarice, pa tudi Gustav Klasing - pilot znan po tem, da je ob začetku vojne, sestrelil italijanski zrako-plov Città di Ferrara. Na tem kraju se je trideset let pozneje, rodila tudi Osvobodilna Fronta (OF).
 
 #### M107. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Spursi pripravljeni na novi Prstan - Ginobili ostaja, Aldridge prihaja
+**Spursi pripravljeni na novi Prstan - Ginobili ostaja, Aldridge prihaja**
+
 Po LaMarcusu Aldridgu, se iz Ohio-a k sanantonievskim Spursom seli še en odlični košarkar, David West. Izkušeni 34 letni krilni center, se je v želji po šampionskemu prstanu odpovedal miljonom. Sprejel je namreč minimalno plačo - torej bo v enem letu zaslužil 1.4 miljona dolarjev. Zadnje štiri leta, je igral za Indiano pri kateri je na leto zaslužil 12.8 milijonov dolarjev. West je pred svojo 13-to NBA sezono. Preden je prišel k Pacersom je bil osem let član neworleanske ekipe. Po Timu Duncanu, pa se je še za eno leto igranja odločil tudi drugi iz velike trojke veteranov, Manu Ginobili. Izvrstni Argentinski branilec, ki bo vkratkem postal 38 letnik, je član San Antonia že 13-slet, z Ostrogami pa je osvojil že štiri prstane. Poleg omenjenih veteranov, v texaški ekipi ostajata tudi MVP-finala izpred dveh leti, Kawhi Leonard in Danny Green, ki je polovico sezone igral tudi za Ljubljansko Olimpijo. Gregg Popovich bo s svojimi varovanci v ožjem krogu favoritov za nov naslov. Popovichova ekipa se sicer ni okrepila kot bi se lahko  - eden najboljših centrov v NBA Marc Gasol tako ostaja pri memphiskih Grizlijih. Izjemni 30 letni katalonec, je podpisal pet letno pogodbo za 110 miljonov dolarjev. Nemanja Bjelica, ki je bil v minuli sezoni izbran za najkoristnejšega igralca Evrolige, bo bo podpisal pogodbo z Minnesoto. Glede na Bjelicino pogodbo, bo ta v treh letih med Volkovi zaslužil 11.7 milijonov dolarjev. Medtem, se Mo Williams se vrača v Cleveland. V dveh letih zaznamovanih z Mo-jevo vrnitvijo, bo kapitan ekipe. V Clevelandu, je igral dve sezoni in pol, potem pa je bil član charlottskih Sršenov. Drugače pa v svetu NBA najbolj odmeva novica o zadni sezoni zveznika losangeleskih Lakersov Kobe Bryanta.
 
 #### M108. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Nogometne novice : 8. Tednov počitka za Courtois-a, Limbersky pa je predolgo proslavljal gol proti Latviji in se okajen z njegovim Bentleyem zaletel v ograjo
+**Nogometne novice : 8. Tednov počitka za Courtois-a, Limbersky pa je predolgo proslavljal gol proti Latviji in se okajen z njegovim Bentleyem zaletel v ograjo**
+
 Poškodba kolena na sredinemu treningu je za belgijskega nogometnega vratarja Thibaut-a Courtois-a hujša kot je delovalo izprva. Že takoj po pregledu, je Chelseajeva Zdravniška služba potrdila, da bo moral 23 letni reprezentant ispustiti ligaški obračun z Everton-om, zdaj pa diši po še nekoliko bolj črnemu scenariju saj bi utegnil biti odsoten celo do 8. tednov. »Odsoten bo dalj časa. Ne morem vam povedati koliko časa bo manjkal, saj morajo zdravniki podati več informacij. To je za nas veliki udarec saj se zanašamo na Thibautevo pomoč«, so se po konferenci glasile Mourinheve besede. — Medtem, pa je Češki reprezentant David Limbersky v 3. dneh prehodil pot od Raja do Pekla. Potem, ko je v soboto s kvalifikaciskim golom proti Latviji, potrdil nastop svoje izbrane vrste na euru 2016 v Franciji se je včeraj nekaj po polnoči pod vplivom opojnih hlapov v Pragi z njegovim luksuznim Bentleyem zaletel v ograjo. Za nameček, je pragovskim možem postave, ki so ga še pravočasno zasačili tudi grozil. Prekaljen 31 letni kapitan Viktorie Plzen jo je odnesel brez prask, trpel pa je Limberskyjev avto s plznsko registracijo na katerem je za 18,500 evrov škode. — Okrepitev Reala - brazilec Danilo -, nove zgodbe ni začel po načrtih saj se je poškodoval zaradi česar bo moral nekaj časa - predvidoma štiri tedne - prisilno mirovati. Štiriindvajset letni branilec, ki se je v Madrid za 31,5 milijonov evrov preselil s Porta bo moral izpustiti derbi z Atleticem. Boljše volje, pa so lahko pri nemškemu prvaku, münchenskemu Bayernu saj se je Martinez vrnil po poškodbi. Kot so sporočili z njegovo vrnitvijo v tekmovalni pogon ne bodo hiteli, saj se želijo izogniti tveganju, da bi se ponovila njegova poškodba ahilove tetive.
 
 #### M109. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Upravljalci Velike Planine - biserja Kamniško Savinjskih alp - ne vedo več kako naprej
+**Upravljalci Velike Planine - biserja Kamniško Savinjskih alp - ne vedo več kako naprej**
+
 Zaradi njene kolturne dediščine in naravnih lepot, je Velika Planina eden od biserov Slovenske turistične ponudbe a se že vrsto let bori z izgubo, in je vreča brez dna za Kamniško Občino. Zaradi 7. zaporednih zelenih zim in dotrajanosti vseh 3. žičniških naprav, so smučarske sezone na Planini z leta v leto slabše. Najprej, so se morali odpovedati smučiščom v Tihi Dolini - zdaj zaradi dotrajanosti, stoji tudi sedežnica. Sprva so jo želeli zamenjati z rabljeno, pa je tudi za to zmankalo denarja saj je lani tod pustošil požled. Kljub hitri sanaciji, je škode veliko.  Zdaj, skuša vodstvo družbe Velika Planina d.o.o. rešiti kar se pač da. Predlagajo prenovo sedežnice saj bi naj bilo to ceneje kot nakup nove, ali rabljene naprave. Odločitev, je v rokah kamniškega Občinskega sveta v katerem se bo o tem razpravljalo. V umesnem času, se v družbi dela: Nabavili so otroško vlečnico Kekec, ob njej pa bi naj bila celo bob-steza. Za starejše, bodo organizirali nočne pohode z baklami pa tudi klasične, vodene zimske izlete. Na spodnji postaji nihalke, pa so že začeli posodablati gostišče. V.d. direktorja Leon Keder, pravi, da, če bodo gostje prišli v urejeni lokal kjer bodo lahko čakali na gondolo bodo raje iskali lepote skrite v dolini Kamniške Bistrice. V lokalu nameravajo ponujati kakovostno a vseeno poceni hrano. Ti na drobno proučeni načrti, pa so v dolini že vzbudili dvome, češ ali Bistrica res potrebuje še eno gostišče? V znanem gostišču Pri Planinskem Orlu pred vhodom v Kamniško Bistrico pravijo da se konkurence ne bojijo, in da je ta pravzaprav zaželena in, da tak lokal lažje uredi občina, kot posameznik. »Pustimo se presenetiti«, pravijo. Mogoče pa se Planini - kljub težkim časom -, le obetajo lepši dnevi.
 
 #### M110. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Sinfonični Orkester RTV Slovenije, vstopa v 60. sezono
-Simfonični Orkester RTV-Slovenija, začenja njegovo 60-to sezono. 10. Septembra bo v Gallusovi Dvorani Cankarjevega Doma na sporedu 1. iz med 9. vrhunskih prvencov sezone 2015 / 16. Sezono bo že tradicionalno (tokrat že 5.) odprl karizmatični dirigent, hong--kongovec En Shao. Tudi v tokratnemu abon-majskemu ciklu, se lahko veselimo zanimivega, raznovrstnega pa tudi kakovostnega programa: Poleg En Shaoa, bodo z orkestrom nastopila še druga velika imena. Maja Keuc, Umetniški vodja orkestra je sezono zastavila, kot zgodbo. Prvi vrhunec lahko pričakujemo na otvoritvenemu večeru naslovljenem Planeti na katerem bomo poslušali tudi Beethovenovo Deveto. "Že 1. koncert nakazuje raznolikost, t. j. igrivo in virtuozno skladbo", napoveduje Keucova. Drug vrhunec, pa bo Večer Kitajske Glasbe in sicer 19. Novembra, s programom zasnovanim na hong-kongovski glasbi.
+**Sinfonični Orkester RTV Slovenije, vstopa v 60. sezono**
+
+Simfonični Orkester RTV-Slovenija, začenja njegovo 60-to sezono. 10. Septembra bo v Gallusovi Dvorani Cankarjevega Doma na sporedu 1. iz med 9. vrhunskih prvencov sezone 2015 / 16. Sezono bo že tradicionalno (tokrat že 5.) odprl karizmatični dirigent, hong-kongovec En Shao. Tudi v tokratnemu abon-majskemu ciklu, se lahko veselimo zanimivega, raznovrstnega pa tudi kakovostnega programa: Poleg En Shaoa, bodo z orkestrom nastopila še druga velika imena. Maja Keuc, Umetniški vodja orkestra je sezono zastavila, kot zgodbo. Prvi vrhunec lahko pričakujemo na otvoritvenemu večeru naslovljenem Planeti na katerem bomo poslušali tudi Beethovenovo Deveto. "Že 1. koncert nakazuje raznolikost, t. j. igrivo in virtuozno skladbo", napoveduje Keucova. Drug vrhunec, pa bo Večer Kitajske Glasbe in sicer 19. Novembra, s programom zasnovanim na hong-kongovski glasbi.
+
 Tudi v jubilejni sezoni, bo vskladu s poslanstvom Simfoničnega orkestra RTV Slovenije, veliki poudarek na izvedbah Slovenskih del. Poleg del Primoža Ramovša, bo na uvodnemu septemberskemu koncertu Slovenski avtorski glasbi posvečen tradicionalen Božični Koncert, ki je letos, v celoti posvečen Sv. Duhu. V celoti, bomo priča novemu delu Aldota Kumarja, oratoriju naslovljenem Tehtanje Duš. "Gre za skladbo nastalo na našo pobudo", poudarja Keucova. Drugo novost - Srečanja za flavto in orkester, ki jo bomo slišali na petemu, februarskemu koncertu je napisal Maestro Lojze Lebič na pobudo haitijca (iz prestolnice, Port-au-Princea) Sidneya Poitierja, nekdanjega člana kansaškega, kot tudi arkansaškega orkestra v Združenih Državah Amerike, ki sicer deluje v port-au-princovski operi.
 
 #### M111. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Sinfonični Orkester RTV Slovenije, vstopa v 60. sezono 
-Simfonični Orkester RTV-Slovenija, začenja njegovo 60-to sezono. 10. Septembra bo v 
-Gallusovi Dvorani Cankarjevega Doma na sporedu 1. iz med 9. vrhunskih prvencov sezone 
-2015 / 16. Sezono bo že tradicionalno (tokrat že 5.) odprl karizmatični dirigent, hong- 
--kongovec En Shao. Tudi v tokratnemu abon-majskemu ciklu, se lahko veselimo zanimivega, 
-raznovrstnega pa tudi kakovostnega programa: Poleg En Shaoa, bodo z orkestrom nastopila še 
-druga velika imena. Maja Keuc, Umetniški vodja orkestra je sezono zastavila, kot zgodbo. 
-Prvi vrhunec lahko pričakujemo na otvoritvenemu večeru naslovljenem Planeti na katerem 
-bomo poslušali tudi Beethovenovo Deveto. "Že 1. koncert nakazuje raznolikost,  
-t. j. igrivo in virtuozno skladbo", napoveduje Keucova. Drug vrhunec, pa bo Večer Kitajske 
-Glasbe in sicer 19. Novembra, s programom zasnovanim na hong-kongovski glasbi. 
-Tudi v jubilejni sezoni, bo vskladu s poslanstvom Simfoničnega orkestra RTV Slovenije, 
-veliki poudarek na izvedbah Slovenskih del. Poleg del Primoža Ramovša, bo na uvodnemu 
-septemberskemu koncertu Slovenski avtorski glasbi posvečen tradicionalen Božični Koncert, 
-ki je letos, v celoti posvečen Sv. Duhu. V celoti, bomo priča novemu delu Aldota Kumarja, 
-oratoriju naslovljenem Tehtanje Duš. "Gre za skladbo nastalo na našo pobudo", poudarja 
-Keucova. Drugo novost - Srečanja za flavto in orkester, ki jo bomo slišali na petemu, 
-februarskemu koncertu je napisal Maestro Lojze Lebič na pobudo haitijca (iz prestolnice, 
-Port-au-Princea) Sidneya Poitierja, nekdanjega člana kansaškega, kot tudi arkansaškega 
-orkestra v Združenih Državah Amerike, ki sicer deluje v port-au-princovski operi.
+**Sinfonični Orkester RTV Slovenije, vstopa v 60. sezono**
+
+Simfonični Orkester RTV-Slovenija, začenja njegovo 60-to sezono. 10. Septembra bo v Gallusovi Dvorani Cankarjevega Doma na sporedu 1. iz med 9. vrhunskih prvencov sezone 2015 / 16. Sezono bo že tradicionalno (tokrat že 5.) odprl karizmatični dirigent, hong-kongovec En Shao. Tudi v tokratnemu abon-majskemu ciklu, se lahko veselimo zanimivega, raznovrstnega pa tudi kakovostnega programa: Poleg En Shaoa, bodo z orkestrom nastopila še druga velika imena. Maja Keuc, Umetniški vodja orkestra je sezono zastavila, kot zgodbo. Prvi vrhunec lahko pričakujemo na otvoritvenemu večeru naslovljenem Planeti na katerem bomo poslušali tudi Beethovenovo Deveto. "Že 1. koncert nakazuje raznolikost, t. j. igrivo in virtuozno skladbo", napoveduje Keucova. Drug vrhunec, pa bo Večer Kitajske Glasbe in sicer 19. Novembra, s programom zasnovanim na hong-kongovski glasbi.
+
+Tudi v jubilejni sezoni, bo vskladu s poslanstvom Simfoničnega orkestra RTV Slovenije, veliki poudarek na izvedbah Slovenskih del. Poleg del Primoža Ramovša, bo na uvodnemu septemberskemu koncertu Slovenski avtorski glasbi posvečen tradicionalen Božični Koncert, ki je letos, v celoti posvečen Sv. Duhu. V celoti, bomo priča novemu delu Aldota Kumarja, oratoriju naslovljenem Tehtanje Duš. "Gre za skladbo nastalo na našo pobudo", poudarja Keucova. Drugo novost - Srečanja za flavto in orkester, ki jo bomo slišali na petemu, februarskemu koncertu je napisal Maestro Lojze Lebič na pobudo haitijca (iz prestolnice, Port-au-Princea) Sidneya Poitierja, nekdanjega člana kansaškega, kot tudi arkansaškega orkestra v Združenih Državah Amerike, ki sicer deluje v port-au-princovski operi.
 
 #### M112. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Spursi pripravljeni na novi Prstan - Ginobili ostaja, Aldridge prihaja
+**Spursi pripravljeni na novi Prstan - Ginobili ostaja, Aldridge prihaja**
+
 Po LaMarcusu Aldridgu, se iz Ohio-a k sanantonievskim Spursom seli še en odlični košarkar, David West. Izkušeni 34 letni krilni center, se je v želji po šampionskemu prstanu, odpovedal miljonom. Sprejel je namreč minimalno plačo - torej bo v enem letu zaslužil 1.4 miljona dolarjev. Zadnje štiri leta, je igral za Indiano pri kateri je na leto zaslužil 12.8 milijonov dolarjev. West je pred svojo 13-to NBA sezono, a je že igral z Aldridgem. Preden je prišel k Pacersom je bil osem let član neworleanske ekipe. Po Timu Duncanu, pa se je še za eno leto igranja odločil tudi drugi iz velike trojke veteranov, Manu Ginobili. Izvrstni Argentinski branilec, ki bo vkratkem postal 38 letnik, je član San Antonia že 13-let, z Ostrogami pa je osvojil že štiri Prstane. Poleg omenjenih veteranov, v texaški ekipi ostajata tudi MVP-finala izpred dveh leti, Kawhi Leonard in Danny Green, ki je polovico sezone igral tudi za Ljubljansko Olimpijo. Gregg Popovich bo s svojimi varovanci v ožjem krogu favoritov za nov naslov. Popovichova ekipa se sicer ni okrepila kot bi se lahko  - eden najboljših centrov v NBA Marc Gasol tako ostaja pri memphiskih Grizlijih. Izjemni 30 letni katalonec, je podpisal pet letno pogodbo za 110 miljonov dolarjev. Nemanja Bjelica, ki je bil v minuli sezoni izbran za najkoristnejšega igralca Evrolige, bo podpisal pogodbo z Minnesoto. Glede na Bjelicino pogodbo, bo ta v treh letih med Volkovi zaslužil 11.7 milijonov dolarjev. Medtem, se Mo Williams se vrača v Cleveland. V letih zaznamovanih z Mo-jevo vrnitvijo, bo prav on kapitan ekipe. V Clevelandu, je igral dve sezoni, potem pa je bil član charlottskih Sršenov. Sicer pa v NBA najbolj odmeva novica o zadni sezoni zveznika losangeleskih Lakersev Kobe Bryanta.
 
 #### M113. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-Slovenci Našli Lukno v Estonijskem Bunkerju Za Zmago Z 1:0
+**Slovenci Našli Lukno v Estonijskem Bunkerju Za Zmago Z 1:0**
+
 Slovenski nogometaši dihajo lažje saj so v Mariboru premagali Estonijo s čimer so napravili veliki korak, proti kvalifikacijam za Evropsko Prvenstvo 2016. Slovenci, so tako na najboljši mogoči način preboleli boleč poras z Švico. Srečanje pred približno 6,000 gledavci v Ljudskemu Vrtu, je postreglo s trdo predstavo v kateri so bili Katancovi izbranci vse skozi bolši nasprotnik o čemer priča tudi končna statistika. Slovenci so pričakovano takoj pritisnili. 1 strel je v 8 minuti sprožil Kampl, ki je iz okoli 20. metrov meril čez vrata. Malo pozneje, je  Birsa z leve strani poslal predložek pred vrata, kjer pa ni bilo nobenega njegovega soigralca, da bi Birsino žogo potisnil v gol. Slovenci so imeli še naprej veliko premoč, akcije pred Estonskim kazenskim prostorom so se vrstile a je gostujoč bunker vzdržal. Na drugi strani, pa je zapretila tudi sicer povsem podrejena Estonija. V 39 minuti je Vasiljev sprožil iz 25-metrov, vendar je bil Samir Handanović na mestu. Za Vasiljevom, je Handanovića preizkušal tudi Taijo Teniste. Kljub dobrem Tenistovem strelu, se je polčas končal z 0:0. Slovenija je imela veliko terensko premoč (posest žoge 69:31) a je proti okviru nasprotnih vrat sprožila le eden strel, medtem ko Estonci dva. V 63 minuti, je obramba Estonije le klonila. Birsina podaja je med nogami nasprotnega igralca prišla do Berića, branilec Karol Mets je slabo ocenil žogo, tako da se je Krčan sam prebil pred vratarja, in izkoristil Metsevo darilo. Slovencom je odleglo. Estonija se je po golu odprla, in zaigrala - na vse ali nič. Pred slovenskimi vrati, je postalo nevarno. Tako je v 74. minuti po prostemu strelu Metsev strel zalas zgrešil naša vrata. 3. minute pozneje, je namesto strelca Berića vstopil Lazarević. Kljub estonskim poskusom, so Slovenci uspeli rešiti tri točke kar je vsaj mali obliž na rane prizadejane s strani švicarjev. Sledi tekma proti Združenim Arabskim Emiratom.
 
 #### M114. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-Peko d.d. skupaj s tradicijo staro 113. let v stečaj
+**Peko d.d. skupaj s tradicijo staro 113. let v stečaj**
+
 Na Cesti Sainte Marie aux Mines v Tržiču bo potihnila legendarna tovarna - tržaški Peko, d.d. z okoli 250. zaposlenimi, bo kot kaže končal v stečaju. Predvidena dokapitalizacija v višini 4.4 miljonov evrov, ni uspela, družba je in-solventna. Da se tržičskega Pekota neda rešiti so včeraj ugotovili nadzorniki, zato bo Uprava podjetja najverjetneje že danes, na sodišče vložila predlog za uvedbo stečaja. Sodišče bo imelo 15. dni, da odloči o predlogu. Peko - ta ima od konca lanskega leta blokirane račune je tako septembra, tudi zadnič sodeloval na Šuštarski Nedelji. V zlatih časih prireditve, je bila ta vezana predvsem na Peko, zadnja leta pa je sodeloval le, kot eksteren partner. S stečajem, se bo končalo 17 letno obdobje negotovosti (1999-2016). Po številnih predlogih za sanacijo, je tako upanja konec. Spomnimo, da je država leta 2011 s šestimi milijoni evrov že dokapitalizirala tržaško družbo. Stopnja nezaposlenosti v Tržiču, je že največja med vsemi gorenskimi Občinami, t.j. kar 10.7 odstotna. Gorenjska, je sicer regija z najnižo stopnjo brezposelnosti v državi (7,9 odstotkov) a ima prav tržaško okolje izrazito ne ugodne kazavce. Skoraj 50% nezaposlenih, predstavljajo ženske, dolgo trajno brezposelnih je skoraj polovica od 13,680 brezposelnih, 43% pa je starejših od 50. let. Po pričakovanjih, bo na zavodu pristalo okoli šesto Pekotovih delavcov. Tržiški Župan Borut Sajovic pravi, da se je bilo treba damoklejevega meča Peko-a rešiti preden bi bilo prepozno: »občina je pri tem omejena a dokler bomo lahko bomo vedno priskočili na pomoč. Pomagamo lahko na socialnemu področju, gledamo pa tudi naprej«. Dodaja, da dozdajšne »kampansko reševanje«, ni prineslo nič dobrega in da se bo treba zatekati k visoko tehnološkim rešitvam kot to počnejo pri žirovski Alpini.
 
 #### M115. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-Slovenj gradec je sedež edine Mestne Občine v Statistični Koroški Regiji ter središče Mislinske Doline in širšega območja.  Staro-davno mesto v kotlini med Pohorjom, Uršljo Goro in Kozjim Hrbtom, ki s svojo zaobljenostjo spominja na Olševo s Potočko Zijalko, je tudi sinonim za kolturno središče povezano tako z preteklostjo, kot s sedanjostjo. Živa vez s preteklostjo in bogatstvom spomeniškovarstvene dediščine, je temelj kulturnega razvoja in osredna poteza lokalne identitete. Mesto je odraz slavne srednje-veške zgodovine izpričane v Mestni župnijski cerkvi zgrajeni leta 1251. Kot 1. na svetu, je bila posvečena Ogrski princesi in Turingijski vojvodinji Sv. Elizabeti. Krona kulturnih prizadevanj Slovenj Gradca, je listina s katero je leta 1989 Generalni Sekretar Svetovne Organizacije Združenih Narodov Slovenj Gradec uvrstil med časne nosilce naziva Glasnik Miru. 1.1.2014 je imela občina 16,839 prebivalcov (8,414 moških in 8,425 žensk). Po številu prebivalcev, se je uvrstila na 25-to mesto. Na kvadratnemu kilometru površine občine, živi povprečno 97,4 prebivalcev; torej je bila gostota naseljenosti tu manjša kot v celotni državi (102 prebivalcev na km2). Povprečna starost občanov znaša 41,0 let in je tako nižja kot znaša povprečna starosta Slovencev (42,21 let). Med prebivalci te občine je bilo število najmlajših - kar je značilnost le redkih slovenskih občin -, večje od števila najstarejših: na 100 oseb starih 0 - 14 let, je prebivalo 98 oseb starih 65 let ali več. Stopnja brezposelnosti znaša 14.2%, kar je več od povprečja v državi (13.4%). Povprečna bruto plača za april 2014 je znašala 1.450,03 EUR in je bila  za 5,3 % nižja od povprečne  plače v Sloveniji, v neto znesku pa je znašala 951,44 EUR, kar je za 5,0 % manj od povprečne neto plače v Sloveniji. Vsak 2 prebivalec v občini, ima avto (51 avtov / 100 prebivalcov); ta je v povprečju star 8.5 let.
+Slovenj gradec je sedež edine Mestne Občine v Statistični Koroški Regiji ter središče Mislinske Doline in širšega območja.  Staro-davno mesto v kotlini med Pohorjom, Uršljo Goro in Kozjim Hrbtom, ki s svojo zaobljenostjo spominja na Olševo s Potočko Zijalko, je tudi sinonim za kolturno središče povezano tako z preteklostjo, kot s sedanjostjo. Živa vez s preteklostjo in bogatstvom spomeniško‑varstvene dediščine, je temelj kulturnega razvoja in osredna poteza lokalne identitete. Mesto je odraz slavne srednje-veške zgodovine izpričane v Mestni župnijski cerkvi zgrajeni leta 1251. Kot 1. na svetu, je bila posvečena Ogrski princesi in Turingijski vojvodinji Sv. Elizabeti. Krona kulturnih prizadevanj Slovenj Gradca, je listina s katero je leta 1989 Generalni Sekretar Svetovne Organizacije Združenih Narodov Slovenj Gradec uvrstil med časne nosilce naziva Glasnik Miru. 1.1.2014 je imela občina 16,839 prebivalcov (8,414 moških in 8,425 žensk). Po številu prebivalcev, se je uvrstila na 25-to mesto. Na kvadratnemu kilometru površine občine, živi povprečno 97,4 prebivalcev; torej je bila gostota naseljenosti tu manjša kot v celotni državi (102 prebivalcev na km2). Povprečna starost občanov znaša 41,0 let in je tako nižja kot znaša povprečna starosta Slovencev (42,21 let). Med prebivalci te občine je bilo število najmlajših - kar je značilnost le redkih slovenskih občin -, večje od števila najstarejših: na 100 oseb starih 0 - 14 let, je prebivalo 98 oseb starih 65 let ali več. Stopnja brezposelnosti znaša 14.2%, kar je več od povprečja v državi (13.4%). Povprečna bruto plača za april 2014 je znašala 1.450,03 EUR in je bila  za 5,3 % nižja od povprečne  plače v Sloveniji, v neto znesku pa je znašala 951,44 EUR, kar je za 5,0 % manj od povprečne neto plače v Sloveniji. Vsak 2 prebivalec v občini, ima avto (51 avtov / 100 prebivalcov); ta je v povprečju star 8.5 let.
+
 Številna arheološka najdišča v okolici Slovenj Gradca, pričajo, da je bila kotlina sredi zgodovinske Graške Doline že od nekdaj pomembno naselitveno območje. Rimska poštna postaja Colatio je nastala na temeljih starejšega selišča keltiziranih Ilirov pod utrjenim gradiščem na t.i. Grajskem Griču. Utrjen grad je tukaj stal že konec 11. stoletja. S posredno omembo ob imenu gradnika Werianta de Greza, podpisnika ustanovne listine benediktinskega samostana v Šentpavlu v Labotski dolini, ustanove mogočnih koroških vojvod Spanheimov, izvemo, da je Grad nad današnjim Starim trgom leta 1091 poleg Rajhenburga (Brestanice) najstarejša bivalna utrdba na slovenskem Štajerskem. Utrjeno domovanje je skupaj z naselbino in posestvi v širši okolici po izumrtju Spanheimov po sorodstvenih vezeh pripadla slavni rodbini Andeških. Med njihovimi bavarskimi ministeriali so bili tudi »von Diengen«, ki so se kot posestniki tukajšnjega gradu preimenovali v »von (Windisch)Gräz«. Že v času vojvode Bertolda III. Andeškega (ok. 1185) je v trgu delovala pomembna kovnica denarja. Temu koščku svoje zemlje je posebno pozornost namenil zlasti Bertold V. Andeški, oglejski patriarh, saj je bila tukaj najsevernejša točka znotraj vplivnega območja njegove nadškofije in je razvoj radodarno podpiral. Naselbino je preselil »na zeleno trato«, ki jo oblivajo trije potoki: Mislinja, Suhodolnica in Homšnica, ter nanjo poleg imena Windischgrez prenesel tudi tržne pravice. Slovenj Gradec se je uspešno razvijal tudi po njegovi smrti, ko je posest prešla v roke oglejskega patriarhata, saj je že pred letom 1267 pridobil mestne pravice. Pod Habsburžani od 14. stoletja dalje se je mesto opasalo z močnim obzidjem, ki je varovalo mirno življenje porajajočega se meščanstva, drobnega plemstva in sloja manjših obrtnikov.
 
 #### M116. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-Prevc prvi tako v Bischofshofenu, kot v Willingenu
+**Prevc prvi tako v Bischofshofenu, kot v Willingenu**
+
 06.01.2016 ob 09 : 22 - Allgäuske alpe
+
 Kot pričakovano, je Peter Prevc dobro opravil še s 4-to postajo Novoletne turneje. V Bischofshofenu, je vodil po 1-seriji, v finalu pa pristal pri 142.5 metrov, in dobil Zlatega Orla za zmagovalca turneje. Najboljši je bil že 5. zapored, po 1. seriji pa si je s skokom dolgim 139.5 metrov v Telemark pred Severinom Freundom priboril še dodatnih 6,5 točk zaloge, tako, da je bila pred odločilnim skokom prednost kar 26,7 točk. Ni bilo več dvoma o tem kdo bo dobil Zlatega orla. Okoli 5,000 slovenskih gledalcev odetih v zeleno barvo, je že začelo proslavljati veliki dan a jim je srčen utrip gotovo porasel ob Freundovih 141. metrih, in dobil tudi eno dvajsetico. Na vrhu zaletišča, je bil le še Prevc, ki je kot bi mignil pokazal Freundu kdo je gospodar turneje. Neslo ga je kar 142,5 metrov, uspelo mu je narediti Telemark, in z reprezentančnimi kolegi ter ob plapolanju stotine Slovenskih zastav, je lahko proslavljal izjemen podvig. »To je morda celo najlepši dan v mojem življenju. Ko sem uspel pristati je šlo iz mene vse kar se mi je nabiralo vse te dni. Res je veličastno videti toliko ljudi v Bischofschofenu", je povedal Prevc. Prevc je tako končal 7 letno Avstrijsko prevlado na Novoletni turneji in postal 2. Slovenec z zmago na turneji. Do letos, je to uspelo le Primožu Peterki v sezoni 1996 / 1997. Na praznik Svetih Treh Kraljev je uspeh kralja Slovenskega športa dopolnil brat Domen Prevc, ki se je z finalnim skokom dolgim 135,5 metrov prebil na šesto mesto. Točke sta osvojila še Jurij Tepeš (20. mesto) in Anže Lanišek (22.).
 
 #### M117. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Vojno Zvezd spremlja Sila - film je prebil mejo miljardo dolarjev v rekordnih 12. dneh 
-28.12.2015 - 10:03 – Silicijova Dolina, Kalifornija, Združene Države Amerike  
+**Vojno Zvezd spremlja Sila - film je prebil mejo miljardo dolarjev v rekordnih 12. dneh**
+
+28.12.2015 - 10:03 – Silicijova Dolina, Kalifornija, Združene Države Amerike
+
 Ustvarjalcom Vojne Zvezd: Sila Se Prebuja, se opravičeno smeji: več kot 7.1 miljard dolarjev je prinesel hitreje, kot vsi drugi filmi do slej. Film je mejo 1000000000 dolarjev prebil v 12. dneh s čemer je za en dan prehitel dozdajšnjega rekorderja, Jurski Park. Za Božični konec tedna, je 7-mi del franšize samo v Ameriške blagajne prinesel 153.5 milijonov dolarjev kar je najboljši drugi konec tedna za katerikoli film doslej, potem ko je že v premijernem koncu tedna prehitel prej omenjeni Jurski Svet. Skupno, je filem samo v Združenih Državah Amerike doslej zaslužil že več kot 540 milijonov dolarjev, po vsem svetu, pa se je številka že povspela nad 1.1 milijardo dolarjev. Kot poročajo Ameriški mediji si film lasti vrsto rekordnih nazivov - od najdonosnejšega prvega konca tedna predvajanja, drugega konca tedna predvajanja, najdonosnejšega filma na Božič, ponedeljek, torek in sredo, filma, ki je samo v enem dnevu zaslužil več kot 100 milijonov dolarjev - pa seznama spljoh še ni konec. Morda, bo postal najdonosnejši film in s prvega mesta izrinil James-Cameronov Avatar, ki je prinesel 2.8 miljarde dolarjev zaslužka, in ki je bil tudi najuspešnejši v ZDA (760.5 milijonov). Pri tem, bo imel veliko vlogo »pohod« filma v Kitajski. Čeprav začetek franšize sega v leto 1977. - to je leto dni po koncu kulturne revolucije temelječe na smrti Maa Cetunga - izvirne trilogije v Kitajskih kino dvoranah namreč niso videli vse do letošnega junija. V ZDA, je bil doslej najdonosnejši film prej omenjen Jurski Park, ki je zaslužil 652,2 milijona dolarjev. To je številka, ki jo bo Vojna Zvezd za gotovo presegla v 3-h tednih, postavlja pa se tudi vprašanje ali bo končal vladavino kultnega filma E. T. Vesoljček.
 
 #### M118. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Prevc 1. tako v Bischofshofenu, kot v Willingenu
+**Prevc 1. tako v Bischofshofenu, kot v Willingenu**
+
 06.01.2016 ob 09 : 22 - Allgäuske alpe
+
 Kot pričakovano, je Peter Prevc dobro opravil še s 4-to postajo Novoletne turneje. V Bischofshofenu, je vodil po 1-seriji, v finalu pa pristal pri 142.5 metrov, in dobil Zlatega Orla za zmagovalca turneje. Najboljši je bil že 5. zapored, po 1. seriji pa si je s skokom dolgim 139.5 metrov v Telemark pred Severinom Freundom priboril še dodatnih 6,5 točk zaloge, tako, da je bila pred odločilnim skokom prednost kar 26,7 točk. Ni bilo več dvoma kdo bo dobil Zlatega orla. Okoli 5,000 slovenskih gledalcev odetih v zeleno je že začelo proslavljati veliki dan a jim je srčen utrip gotovo porasel ob Freundovih 141. metrih. Na vrhu zaletišča, je bil le še Prevc, ki je kot bi mignil pokazal Freundu kdo je gospodar turneje. Neslo ga je kar 142,5 metrov, uspelo mu je narediti Telemark, in z reprezentančnimi kolegi ter ob plapolanju stotine Slovenskih zastav, je lahko proslavljal izjemen podvig. »To je morda celo najlepši dan v mojem življenju. Ko sem uspel pristati je šlo iz mene vse kar se mi je nabiralo vse te dni. Res je veličastno videti toliko ljudi v Bischofschofenu", je povedal Prevc. Prevc je tako končal 7 letno Avstrijsko prevlado na Novoletni turneji in postal 2. Slovenec z zmago na turneji. Do letos, je to uspelo le Primožu Peterki v sezoni 1996 / 1997. Na praznik Svetih Treh Kraljev je uspeh kralja Slovenskega športa dopolnil brat Domen Prevc, ki se je z finalnim skokom dolgim 135,5 metrov prebil na šesto mesto. Točke sta osvojila še Jurij Tepeš (20. mesto) in Anže Lanišek (22.). Lanišekov zadnji skok, je bil tehnično odličen.
 
 #### M119. Pravopisna ureditev besedila
 
 Popravite naslednje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Breivik-ova obsodba: prišteven, odgovoren, kriv,...
-Storilec krutega zločina je bil v Oslu spoznan za krivega 77. naklepnih umorov in terorizma ter obsojen na 21-let zapora. Norveški skrajni desničar Anders Behring Breivik bo v ječi preživel vsaj 21 let. Oslovsko sodišče je danes ugotovilo, da je bil v času lanskega morilskega pohoda po norveški Prestolnici, ki je zahteval 77. življenj prišteven. Breivik bo po vsej verjetnosti za zapahi preživel vso življenje saj lahko sodišče sicer najvišjo a vseeno razmeroma blago kazen podaljšuje dokler meni, da obsojenec še vedno ogroža družbo. Skrajni desničar, ki je takoj priznal odgovornost za dvojni napad ne pa tudi krivde, si je takšno sodbo želel. Kot je dejal je hotel s »krutim a nujnim« dejanjem Norveško obvarovati pred invazijo Muslimanov - če bi ga spoznali za psihotičnega (takšno diagnozo so mu postavili v enem od izvedenjskih mnenj), pa, da bi ga »ponižali«.Večina norvežanov, Breivikov pokol razume kot političen zločin. Storilec, ki po lastnih besedah pripada skupini Vitezov Templarjev, je fanatični sovražnik multi-kulturalizma, še posebej muslimanskih priseljencev, z zločinom pa je hotel sprožiti vse-evropski pogrom nad priseljenci iz tretjih držav, zlasti iz Bližnjega vzhoda. Akcijo je pripravljal več let, pri tem pa se je povezal z različnimi skrajno-desničarskimi skupinami po Evropi. Poleg 77. smrtnih žrtev je ob njegovi krvavi sledi obležalo še 242. ranjenih. Veliko preživelih, se so-oča s hudimi čustvenimi težavami, nekaj mlajših, pa še vedno ne hodi v šolo.O njegovi krivdi ne dvomi nihče, čeprav je sam ni nikoli priznal, ob neki priložnosti pa je celo predlagal naj mu v primeru opsodbe izrečejo smrtno kazen, češ, da bi bila ta pravična zanj. V ospredju sojenja je bila za to večino časa dilema o njegovem duševnem zdravju. Breivik bo kazen služil v isti celici zapora Ila, v kateri je bil zaprt doslej.
+**Breivik-ova obsodba: prišteven, odgovoren, kriv,...**
+
+Storilec krutega zločina je bil v Oslu spoznan za krivega 77. naklepnih umorov in terorizma ter obsojen na 21-let zapora. Norveški skrajni desničar Anders Behring Breivik bo v ječi preživel vsaj 21 let. Oslovsko sodišče je danes ugotovilo, da je bil v času lanskega morilskega pohoda po norveški Prestolnici, ki je zahteval 77. življenj prišteven. Breivik bo po vsej verjetnosti za zapahi preživel vso življenje saj lahko sodišče sicer najvišjo a vseeno razmeroma blago kazen podaljšuje dokler meni, da obsojenec še vedno ogroža družbo. Skrajni desničar, ki je takoj priznal odgovornost za dvojni napad ne pa tudi krivde, si je takšno sodbo želel. Kot je dejal je hotel s »krutim a nujnim« dejanjem Norveško obvarovati pred invazijo Muslimanov - če bi ga spoznali za psihotičnega (takšno diagnozo so mu postavili v enem od izvedenjskih mnenj), pa, da bi ga »ponižali«.
+
+Večina norvežanov, Breivikov pokol razume kot političen zločin. Storilec, ki po lastnih besedah pripada skupini Vitezov Templarjev, je fanatični sovražnik multi-kulturalizma, še posebej muslimanskih priseljencev, z zločinom pa je hotel sprožiti vse-evropski pogrom nad priseljenci iz tretjih držav, zlasti iz Bližnjega vzhoda. Akcijo je pripravljal več let, pri tem pa se je povezal z različnimi skrajno-desničarskimi skupinami po Evropi. Poleg 77. smrtnih žrtev je ob njegovi krvavi sledi obležalo še 242. ranjenih. Veliko preživelih, se so-oča s hudimi čustvenimi težavami, nekaj mlajših, pa še vedno ne hodi v šolo.
+
+O njegovi krivdi ne dvomi nihče, čeprav je sam ni nikoli priznal, ob neki priložnosti pa je celo predlagal naj mu v primeru opsodbe izrečejo smrtno kazen, češ, da bi bila ta pravična zanj. V ospredju sojenja je bila za to večino časa dilema o njegovem duševnem zdravju. Breivik bo kazen služil v isti celici zapora Ila, v kateri je bil zaprt doslej.
 
 #### M120. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Peko d.d. skupaj s tradicijo staro 113. let v stečaj 
-Na sesti Sainte Marie aux Mines v Tržiču bo potihnila legendarna tovarna - tržaški Peko, d.d. z 
-okoli 250. zaposlenimi, bo kot kaže končal v stečaju. Predvidena dokapitalizacija v višini 4.4 
-miljonov evrov, ni uspela, družba je in-solventna. Da se tržičskega Pekota neda rešiti so včeraj 
-ugotovili nadzorniki, zato bo Uprava podjetja najverjetneje že danes, na sodišče vložila predlog za 
-uvedbo stečaja. Sodišče bo imelo 15. dni, da odloči o predlogu. Peko - ta ima od konca lanskega 
-leta blokirane račune je tako septembra, tudi zadnič sodeloval na Šuštarski Nedelji. V zlatih časih 
-prireditve, je bila ta vezana predvsem na Peko, zadnja leta pa je sodeloval le, kot eksteren partner. 
-S stečajem, se bo končalo 17 letno obdobje negotovosti (1999-2016). Po številnih predlogih za 
-sanacijo, je tako upanja konec. Spomnimo, da je država leta 2011 s šestimi milijoni evrov že 
-dokapitalizirala tržaško družbo. Stopnja nezaposlenosti v Tržiču, je že največja med vsemi 
-gorenskimi Občinami, t.j. kar 10.7 odstotna. Gorenjska, je sicer regija z najnižo stopnjo 
-brezposelnosti v državi (7,9 odstotkov) a ima prav tržaško okolje izrazito ne ugodne kazavce. 
-Skoraj 50% nezaposlenih, predstavljajo ženske, dolgo trajno brezposelnih je skoraj polovica od 
-13,680 brezposelnih, 43% pa je starejših od 50. let. Po pričakovanjih, bo na zavodu pristalo okoli 
-šesto Pekotovih delavcov. Tržiški Župan Borut Sajovic pravi, da se je bilo treba damoklejevega 
-meča Peko-a rešiti preden bi bilo prepozno: »občina je pri tem omejena a dokler bomo lahko bomo 
-vedno priskočili na pomoč. Pomagamo lahko na socialnemu področju, gledamo pa tudi naprej«. 
-Dodaja, da dozdajšne »kampansko reševanje«, ni prineslo nič dobrega in da se bo treba zatekati k 
-visoko tehnološkim rešitvam kot to počnejo pri žirovski Alpini odkar se je začela kriza.
+**Peko d.d. skupaj s tradicijo staro 113. let v stečaj**
+
+Na sesti Sainte Marie aux Mines v Tržiču bo potihnila legendarna tovarna - tržaški Peko, d.d. z okoli 250. zaposlenimi, bo kot kaže končal v stečaju. Predvidena dokapitalizacija v višini 4.4 miljonov evrov, ni uspela, družba je in-solventna. Da se tržičskega Pekota neda rešiti so včeraj ugotovili nadzorniki, zato bo Uprava podjetja najverjetneje že danes, na sodišče vložila predlog za uvedbo stečaja. Sodišče bo imelo 15. dni, da odloči o predlogu. Peko - ta ima od konca lanskega leta blokirane račune je tako septembra, tudi zadnič sodeloval na Šuštarski Nedelji. V zlatih časih prireditve, je bila ta vezana predvsem na Peko, zadnja leta pa je sodeloval le, kot eksteren partner. S stečajem, se bo končalo 17 letno obdobje negotovosti (1999-2016). Po številnih predlogih za sanacijo, je tako upanja konec. Spomnimo, da je država leta 2011 s šestimi milijoni evrov že dokapitalizirala tržaško družbo. Stopnja nezaposlenosti v Tržiču, je že največja med vsemi gorenskimi Občinami, t.j. kar 10.7 odstotna. Gorenjska, je sicer regija z najnižo stopnjo brezposelnosti v državi (7,9 odstotkov) a ima prav tržaško okolje izrazito ne ugodne kazavce. Skoraj 50% nezaposlenih, predstavljajo ženske, dolgo trajno brezposelnih je skoraj polovica od 13,680 brezposelnih, 43% pa je starejših od 50. let. Po pričakovanjih, bo na zavodu pristalo okoli šesto Pekotovih delavcov. Tržiški Župan Borut Sajovic pravi, da se je bilo treba damoklejevega meča Peko-a rešiti preden bi bilo prepozno: »občina je pri tem omejena a dokler bomo lahko bomo vedno priskočili na pomoč. Pomagamo lahko na socialnemu področju, gledamo pa tudi naprej«. Dodaja, da dozdajšne »kampansko reševanje«, ni prineslo nič dobrega in da se bo treba zatekati k visoko tehnološkim rešitvam kot to počnejo pri žirovski Alpini odkar se je začela kriza.
 
 #### M121. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Orkester RTV Slovenije znova s Joséjom Carrerasem
+**Orkester RTV Slovenije znova s Joséjom Carrerasem**
+
 »Vsakič ko stopim na oder ali v studijo bolj cenim to kar počnem, saj vem da sem bliže koncu moje glasbene poti. Vsaki nastop, je zato zame dragocen«, je pred 3. leti dejal Carreras, ko je v Ljubljani s Simfoničnim Orkestrom RTV Slovenije snemal njegovo 12. ploščo. Legendarni Katalonski operni pevec, bo jutri ponovil sodelovanje z orkestrom, tokrat v garmisch-partenkirchenski operi v kateri se ustavlja v sklopu njegove zadnje svetovne turneje (1.1.2016-31.12.2016). Tokrat, mu bodo ob Orkestru RTV Slovenije prisluhnili v Garmischu-Partenkirchenu, v družbi sopranistk znanih po vsemu svetu, Martine Zadro in Jelene Nemcove. Dirigentsko paličico bo zavihtel Carrerasev dolg oletni sodelovec David Gimenez, dirigent aktiven predvsem v Združenih Državah Amerike, ki je sodeloval s številnimi najvidnejšimi pevci, mdr. Placidom Domingom, Anno Netrebko, Brucom Sturridgom, itd. … Josep Maria Carreras je ljubiteljem opere najbrž najbolj znan po njegovih vlogah v Verdijovih in Puccinijovih operah. Rodil se je 1946. leta v delavski sevillski četrti Sants. Glasbo je študiral v rodnemu mestu in tam pri 11. letih 1. stal na odru, nato pa v 70. letih začel profesionalno kariero z nastopoma v operah Nabucco in Lucrezia Borgia. Zatem, ga je glasbena pot vodila v najuglednejša operna gledališča, med drugim v milansko Scalo, new yorkško Metropolitansko Opero, sydneysko Operno Hišo in Innsbruckško Državno Opero. V svoji bogati karieri ovenčani z nagradami je sodeloval z slavnimi dirigenti kot so Herbert von Karajan, Riccardo Mutti, James Levine in Zubin Mehta. S Muttom, Levinejem in Mehto je posnel od 150-200 del, v njegovemu repertoarju pa je več kot 60. oper. Za njegovo delo, je Carreras prejel tudi Grammya.
 
 #### M122. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Slovenj gradec je sedež edine Mestne Občine v Koroški Statistični Regiji ter središče Mislinske Doline in širšega območja.  Staro-davno mesto v kotlini med Pohorjom, Uršljo Goro in Kozjim Hrbtom, ki s svojo zaoblenostjo spominja na Olševo s Potočko Zijalko, je tudi sinonim za kolturno središče povezano tako z preteklostjo, kot s sedanjostjo. Živa vez s spomeniškovarstveno dediščino, je temelj kulturnega razvoja in osredna poteza lokalne identitete. Mesto je odraz slavne srednje-veške zgodovine izpričane v Mestni župnijski cerkvi zgrajeni leta 1251. Kot 1. na svetu, je bila posvečena Ogrski princesi in Turingijski vojvodinji Sv. Elizabeti. Krona kulturnih prizadevanj Slovenj Gradca, je listina s katero je leta 1989 Generalni Sekretar Organizacije Združenih Narodov Slovenj Gradec uvrstil med nosilce naziva Glasnik Miru. 1.1.2014 je imela občina 16,839 prebivalcov (8,414 moških in 8,425 žensk). Po številu prebivalcev, se je uvrstila na 25-to mesto. Na kvadratnemu kilometru površine občine, živi povprečno 97,4 prebivalcev - torej je gostota naseljenosti tu manjša, kot v celotni državi (102 prebivalcev na km2). Povprečna starost, znaša 41,0 let in je tako nižja kot znaša povprečna starosta Slovencev (42,21 let). Med prebivalci občine je bilo število najmlajših - kar je redko -, večje od števila najstarejših: na 100 oseb starih 0 - 14 let, je prebivalo 98 oseb starih 65 let ali več. Brez-poselnost je 14.2 odstotna, kar je več od povprečja v državi (13.4%). Povprečna bruto-plača znaša 1,450.03 evrov in je bila za 5.3% niža od povprečne plače v Sloveniji, v neto-znesku pa 951,44 evrov, t.j. 5,0% manj od povprečne. Vsak 2 prebivalec v občini, ima oseben avto (51 / 100 prebivalcov); ta je v povprečju star 8.5 let. V občini je zbranih 220kg odpadkov na prebivalca, t.j. 107kg manj kot v Sloveniji.
+Slovenj gradec je sedež edine Mestne Občine v Koroški Statistični Regiji ter središče Mislinske Doline in širšega območja.  Staro-davno mesto v kotlini med Pohorjom, Uršljo Goro in Kozjim Hrbtom, ki s svojo zaoblenostjo spominja na Olševo s Potočko Zijalko, je tudi sinonim za kolturno središče povezano tako z preteklostjo, kot s sedanjostjo. Živa vez s spomeniško‑varstveno dediščino, je temelj kulturnega razvoja in osredna poteza lokalne identitete. Mesto je odraz slavne srednje-veške zgodovine izpričane v Mestni župnijski cerkvi zgrajeni leta 1251. Kot 1. na svetu, je bila posvečena Ogrski princesi in Turingijski vojvodinji Sv. Elizabeti. Krona kulturnih prizadevanj Slovenj Gradca, je listina s katero je leta 1989 Generalni Sekretar Organizacije Združenih Narodov Slovenj Gradec uvrstil med nosilce naziva Glasnik Miru. 1.1.2014 je imela občina 16,839 prebivalcov (8,414 moških in 8,425 žensk). Po številu prebivalcev, se je uvrstila na 25-to mesto. Na kvadratnemu kilometru površine občine, živi povprečno 97,4 prebivalcev - torej je gostota naseljenosti tu manjša, kot v celotni državi (102 prebivalcev na km2). Povprečna starost, znaša 41,0 let in je tako nižja kot znaša povprečna starosta Slovencev (42,21 let). Med prebivalci občine je bilo število najmlajših - kar je redko -, večje od števila najstarejših: na 100 oseb starih 0 - 14 let, je prebivalo 98 oseb starih 65 let ali več. Brez-poselnost je 14.2 odstotna, kar je več od povprečja v državi (13.4%). Povprečna bruto-plača znaša 1,450.03 evrov in je bila za 5.3% niža od povprečne plače v Sloveniji, v neto-znesku pa 951,44 evrov, t.j. 5,0% manj od povprečne. Vsak 2 prebivalec v občini, ima oseben avto (51 / 100 prebivalcov); ta je v povprečju star 8.5 let. V občini je zbranih 220kg odpadkov na prebivalca, t.j. 107kg manj kot v Sloveniji.
 
 #### M123. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Slovenj gradec je sedež edine Mestne Občine v Koroški Statistični Regiji ter središče Mislinske 
-Doline in širšega območja.  Staro-davno mesto v kotlini med Pohorjom, Uršljo Goro in Kozjim 
-Hrbtom, ki s svojo zaoblenostjo spominja na Olševo s Potočko Zijalko, je tudi sinonim za 
-kolturno središče povezano tako z preteklostjo, kot s sedanjostjo. Živa vez s 
-spomeniško-varstveno dediščino, je temelj kulturnega razvoja in osredna poteza lokalne 
-identitete. Mesto je odraz slavne srednje-veške zgodovine izpričane v Mestni župnijski cerkvi 
-zgrajeni leta 1251. Kot 1. na svetu, je bila posvečena Ogrski princesi in Turingijski vojvodinji 
-Sv. Elizabeti. Krona kulturnih prizadevanj Slovenj Gradca, je listina s katero je leta 1989 
-Generalni Sekretar Organizacije Združenih Narodov Slovenj Gradec uvrstil med nosilce naziva 
-Glasnik Miru. 1.1.2014 je imela občina 16,839 prebivalcov (8,414 moških in 8,425 žensk). Po 
-številu prebivalcev, se je uvrstila na 25-to mesto. Na kvadratnemu kilometru površine občine, 
-živi povprečno 97,4 prebivalcev - torej je gostota naseljenosti tu manjša, kot v celotni državi 
-(102 prebivalcev na km2). Povprečna starost, znaša 41,0 let in je tako nižja kot znaša 
-povprečna starosta Slovencev (42,21 let). Med prebivalci občine je bilo število najmlajših - kar 
-je redko -, večje od števila najstarejših: na 100 oseb starih 0 - 14 let, je prebivalo 98 oseb 
-starih 65 let ali več. Brez-poselnost je 14.2 odstotna, kar je več od povprečja v državi (13.4%). 
-Povprečna bruto-plača znaša 1,450.03 evrov in je bila za 5.3% niža od povprečne plače v 
-Sloveniji, v neto-znesku pa 951,44 evrov, t.j. 5,0% manj od povprečne. Vsak 2 prebivalec v 
-občini, ima oseben avto (51 / 100 prebivalcov); ta je v povprečju star 8.5 let. V občini je 
-zbranih 220kg odpadkov na prebivalca, t.j. 107kg manj kot v Sloveniji.
+Slovenj gradec je sedež edine Mestne Občine v Koroški Statistični Regiji ter središče Mislinske Doline in širšega območja.  Staro-davno mesto v kotlini med Pohorjom, Uršljo Goro in Kozjim Hrbtom, ki s svojo zaoblenostjo spominja na Olševo s Potočko Zijalko, je tudi sinonim za kolturno središče povezano tako z preteklostjo, kot s sedanjostjo. Živa vez s spomeniško-varstveno dediščino, je temelj kulturnega razvoja in osredna poteza lokalne identitete. Mesto je odraz slavne srednje-veške zgodovine izpričane v Mestni župnijski cerkvi zgrajeni leta 1251. Kot 1. na svetu, je bila posvečena Ogrski princesi in Turingijski vojvodinji Sv. Elizabeti. Krona kulturnih prizadevanj Slovenj Gradca, je listina s katero je leta 1989 Generalni Sekretar Organizacije Združenih Narodov Slovenj Gradec uvrstil med nosilce naziva Glasnik Miru. 1.1.2014 je imela občina 16,839 prebivalcov (8,414 moških in 8,425 žensk). Po številu prebivalcev, se je uvrstila na 25-to mesto. Na kvadratnemu kilometru površine občine, živi povprečno 97,4 prebivalcev - torej je gostota naseljenosti tu manjša, kot v celotni državi (102 prebivalcev na km2). Povprečna starost, znaša 41,0 let in je tako nižja kot znaša povprečna starosta Slovencev (42,21 let). Med prebivalci občine je bilo število najmlajših - kar je redko -, večje od števila najstarejših: na 100 oseb starih 0 - 14 let, je prebivalo 98 oseb starih 65 let ali več. Brez-poselnost je 14.2 odstotna, kar je več od povprečja v državi (13.4%). Povprečna bruto-plača znaša 1,450.03 evrov in je bila za 5.3% niža od povprečne plače v Sloveniji, v neto-znesku pa 951,44 evrov, t.j. 5,0% manj od povprečne. Vsak 2 prebivalec v občini, ima oseben avto (51 / 100 prebivalcov); ta je v povprečju star 8.5 let. V občini je zbranih 220kg odpadkov na prebivalca, t.j. 107kg manj kot v Sloveniji.
 
 #### M124. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Waleski zmaj v Lille-u podkuril tudi Belgijskim Vragom
+**Waleski zmaj v Lille-u podkuril tudi Belgijskim Vragom**
+
 Pravljica Waleskih nogometašev se nadaljuje saj so v Lilleu z 3:1 premagali Belgijo, in se prebili v pol finale Evropskega prvenstva. Belgici so povedli v 13 minuti potem ko je Nainggolan s izstrelkom iz okoli 25. metrov »razparal« mrežo Waynea Hennesseyja. Zadetek je prehitro zadovoljil Belgijo saj je Wales prevzel pobudo in v 33-minuti z zadetkom Ashleya Williamsa izenačil. Wales, ki ima na zelenobeli zastavi Rdečega zmaja je v 2. polčasu zapečatil usodo Belgijcev iz dveh proti napadov. Belgijci, znani tudi kot Rdeči Vragi, so imeli sicer žogo nekaj več v nogah (52:48) a je bil Wales nevarnejši. Belgiji se je poznala odsotnost 2. branivcev, poškodovanega Jana Vertonghena, in kaznovanega Thomasa Vermaelena. Njuni 21 letni zamenjavi vpoklicani v zadnjem hipu - Lukaku in Denayer - nista bila kos nalogi.
+
 Belgija je imela pobudo, v 13-ti minuti, pa jo kronala z vodilnim zadetkom. Hazard je okoli 25m stran od valižanskih vrat, podal do Nainggolana, ta pa je s pravim projektilom poslal žogo pod prečko nemočnega Hennesseya. Belgija se je po golu, pomaknila nekoliko nazaj in pobudo prepustila Walesu. Ta je imel v 26 minuti, izjemno priložnost po akciji Ramseya, ki je našel Garetha Balea, a gola zaradi posredovanja Thiubautja Courtoisa ni bilo. Šest minut pozneje, pa je bil Courtois nemočen. Po podaji Aarona Ramseya, je v kazenskem prostoru Ashley Williams z glavo matiral Courtois-a. Wales je ne samo izenačil temveč tudi prevzel pobudo na igrišču, tudi po strelih v okvira vrat. Na začetku 2-polčasa, je Fellaini zamenjal Kevina De Bruynea. Rdeči Zmaji so izpeljali proti napad v režiji Garetha Balea in Ramseya, ki je v kazenskem prostoru našel Kanuja. Ta, se je otresel Meunierja in Fellainija, na to pa ukanil še Courtois-a.
 
 #### M125. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-Najboljša hrana na letalu? Družba Singapore Airlines s svojim Airbusom A380 na liniji Singapur - Osaka
+**Najboljša hrana na letalu? Družba Singapore Airlines s svojim Airbusom A380 na liniji Singapur - Osaka**
+
 Še preden se najnovejše letalo - ne glede na to ali gre za Airbus, Boeing ali Tupoljev -, požene po vzletni stezi človeško telo doživi prvi šok - kabina klimatizirana s hladnim, ter izjemno suhim zrakom, povzroči izsušitev nosne sluznice - posledično, človek na letalu slabše zaznava vonj. Kmalu po vzletu, sledi novi šok. S pridobivanjem višine in nižanjem zračnega tlaka (na 780mbar), brbončice razsejane po jeziku povsem otopijo. Na potovalni višini okrog 10,000m nad površjem zemlje, ter ob potovalni hitrosti 1,050km / h, se izsušeni sluznici pridruži še slabše zaznavanje okusa. Če človek v takšnih okoliščinah karkoli da v usta, se zdi kot da nima pravega vonja in okusa. Zaradi tega, je letalska hrana običajno močno soljena in začinjena. Če bi na letalih stregli hrano začinjeno kot na tleh, bi imeli potniki občutek podoben prežvekovanju gmote polnjene s polnilom brez okusa. Kljub tehnološkemu napredku, ne smemo zanemariti še posebnih zahtev glede varnosti hrane postrežene na letalih in kmalu postane jasno, da za »zanič« letalsko hrano pravzaprav niso krive letalske družbe, temveč splet bio-kemijskih lastnosti, zračno-prometnih pravil, ter dejstva, da človek ni prilagojen za uživanje hrane v okolju napolnjenim z izjemno suhim, hladnim zrakom ter zračnim tlakom nižjim od 900mbar.  »Doseči da bi bila hrana na letalu tako okusna, kot na tleh, je praktično nemogoče«, pojasnjujo pri Adrii d.d.. Zdaj veste: Ob prihodnjem poletu, se ne pritožujte čez letalsko družbo temveč se zavedajte, da bi bil tudi najbolj slastni zrezek na letalu, preprosto zanič, še posebno na priljubljenih linijah - kakršna je tudi London-Singapur -, na katerih letijo največja letala na svetu - npr. Airbus A380 -, in to se zaradi gneče pozna tudi pri hrani.
 
 #### M126. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-Zaradi neurij v Murcii in Bilbaou, višje cene zelenjave na slovenskem
+**Zaradi neurij v Murcii in Bilbaou, višje cene zelenjave na slovenskem**
+
 14.02.2017 - 14 : 25 - Murcia, Bilbao – Španija / Bonn - Nemčija
+
 Jugo-vzhod Španije, so to zimo prizadela huda neurja s pomočjo katerih so se tudi širša bilbaojska območja zaradi vplivov Kantabrijskega Gorovja pobelila s snegom, in to je oklestilo Evropsko  prehrambeno preskrbo z sadjem in zelenjavo. Cene naraščajo, navade potrošnikov glede nakupa zelenjave, se zaradi dvigajočih cen že spreminjajo, spremembe v nabavni politiki pa je - kot poroča Francoska Tiskovna Agencija FPA -, že opaziti tudi pri trgovcih. Cene solate, so na nemškem tako 2kratne - v Bonskem in Karl-Marx-Stadt-skem okrožju so se, celo, potrojile. Posledice naraščajočih cen, pa čutijo tudi že Slovenski trgovci. Pri Lidl-u opažajo da »deloma prihaja do težav,« z dobavo sadja in zelenjave saj so zaradi omejenih količin, poskočile nabavne cene tudi za 200% (več kot 3,65 evrov na kilogram solate). Pomankanje je opazno tudi pri paradižniku, saj je v zadnih 3. tednih, zaznati tudi do 30- in več-odstotno zvišanje cen, se pa stanje 1. [= prvič] že popravla, so sporočili s Hofra. Španija, običajno pokrije 30% Evropskih potreb po sadju in zelenjavi, to zimo pa 60,29 odstotkov manj, kot ponavadi, pri solati, je prišlo celo do 80 odstotnega zmanšanja. Španska Agro-kulturna Zveza poroča o 30 odstotnim zmanšanju izvoza. Nekateri kmetje, naj bi izgubili ves pridelk. Temperature ob sredozemlju. običajno tudi pozimi ostanejo v območju med 15 stopinj celzija in 25°C, 04.12.2016 pa je območje zajelo močno deževje, ki ji je januarja sledila še pošiljka snega. Prebivalci območij pri Murcii po poročanju AFPa, snežink niso videli že dolgih 34-let. Po izbolšanju vremena, si kmetje sicer še niso mogli odahniti, saj je posevke prekrila plast blata nanošenega ob padavinah.
 
 #### M127. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-Recept za zdravo telo: Zdrava prehrana, dovolj gibanja in spanja ter nič več kot 1.2 litra piva, 800mg kofeina in 12,3 cigaret na dan
+**Recept za zdravo telo: Zdrava prehrana, dovolj gibanja in spanja ter nič več kot 1.2 litra piva, 800mg kofeina in 12,3 cigaret na dan**
+
 Preden se začne šolsko leto 2017 / 18 je morda pravi čas da spremenite, katero izmed navad vezanih na zdravo življenje. Učenci, ki nimajo tovrstnih navad - ugotavljajo na Inštitutu za Javno Zdravje Republike Slovenije in pri Evropski Uniji -, se težje učijo, so bolje nagnjeni k debelosti, ter  imajo slapšo samo-podobo, poveča se jim tudi tveganje za razvoj parkinsonove bolezni ter diabetesa tipa 2. - zlasti če nezdrave navade pridobljene v šolo-obveznemu obdobju nadaljujejo v odraslosti, predvsem med 31. in 40. letom starosti ter tudi v naših 50. letih oz. po Abrahamu. V času najstništva, namreč, hitro rastemo. Zraste vse kar vidimo, kot so na primer roke in noge, pa tudi vse česar ne vidimo kot sta pljuča in srce. Obenem, se naše telo neprestano obnavla, zato v težavnemu obdobju najstništva (od 12.-20. rojstnega dne) potrebujemo veliko C in D vitamina (vsaj 12mg / kg telesne teže). V času pubertete, tako potrebujemo okoli 2800kcal / dan, predvsem amino-kislin nastalih s post-translacijsko modifikacijo. Če pojemo več kot porabimo, se zredimo, če je pojemo manj kot porabimo pa hujšamo. Prav tako, naj bi dnevno popili 3,2 litre tekočine, če pa se ukvarjamo s športom, je treba za vsako 2. uro športne dejavnosti kot je denimo tek dodati načeloma še 1.5l tekočine z elektro-liti, npr. izo-tonik. Prav tako, pa je pomemben spanec: Obstajata dve ključni fazi spanja: t.j. t.i. REM in non-REM faza - med REM fazo sanjamo. Šolarji potrebujejo od 9-10 ur spanca na dan, medtem, ko odraslim večinoma zadošča od 7,5 ur. Nasvet: Vedno pojdite spati in se zbujajte ob isti uri, tudi v težko pričakovanemu času počitnic in, ko je vikend. Na ta način, boste svoje telo navadili na ustrezni bio-ritem in na pravopisne vaje (7:10-8.45) na Filozofski Fakulteti.
 
 #### M128. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-» Potica je Slovenska sladica - zato naj bo za Božič, Silvestrovo in sv. tri kralje na mizi! »
+**» Potica je Slovenska sladica - zato naj bo za Božič, Silvestrovo in sv. tri kralje na mizi! »**
+
 Gospodinje, so včasih napekle veliko peciva, in za Božične praznike ni smela mankati Potica. Pekle so v lončenih modelih napravljenih iz gline vendar so danes v uporabi predvsem pekači iz teflona in silikona preprosti za uporabo in zlaganje. Za peko, lahko uporabite peki papir, ali pa posodo premažete z maščobo, ter potresete s drobtinami ali moko. Pred peko peciva, pa morate na ustrezno temperaturo nastaviti tudi pečice, ki so različne, vendar ponavadi vsaka gospodinja njeno pozna, je pojasnila Prof.dr. Oblak-Jankova iz Gostinske Šole Novo Mesto. Najboljše so po njenih besedah, Gorenjine, Electroluxeve, Candyjeve, Boschove, Gaggenauvove in Mieleove pečice, medtem, ko mora biti moka polno-zrnata.
+
 »Za peciva, morate pečico ogreti. Pri peki potice, mora biti pečica segreta na višjo temperaturo, ko jo daste peč pa temperaturo znižajte za 20ºC da se skorja ne zapeče preveč. Na začetku jo ogrejete na 200ºC, in potem zmanšate na 180. Potico pečite od 50-60min. Pri ventilacijski pečici, morate peči pri nižih temperaturah tako, da sama jo ogrejem na 180 stopinj Celzija, ter na to pečem pri 160ºC«. Danes večina gospodinjstev peče kruh iz temne moke, n.pr. pirine, ržene, ajdove, ... Praviloma, naj bi te kruhe pekli tako, da tem mokam dodate 70% bele moke saj kruh tako bolj vzhaja. "Sama pečem kruh tako, da ajdovemu ali rženemu dodam le 10-% bele moke. Kaj pa sladkor? Oblak Jankova pravi: »Raje manj pojejmo - pa tisto kvalitetno. Namesto belega sladkorja, lahko uporabite med, kokosov, ali rjav sladkor".
 
 #### M129. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-Hrana postrežena na letalu je prava kalorična bomba
+**Hrana postrežena na letalu je prava kalorična bomba**
+
 Se spomnite izjave Škotskega chefa Gordon Ramsaya, da se nebi niti dotaknil hrane postrežene na letalu, saj ve od kod prihaja in kako je pripravljena, ne glede na to ali gre za našo Adrio, nizko cenovnik Easyjet, ali prestižen Emirates iz Združenih Arabskih Emiratov? Kot kaže ima še kako prav. Raziskovalec na univerzi v angleškemu Cambridgeu Charles Spence, je objavil knjigo v kateri razlaga zakaj ima letalska hrana pogosto neprijetni okus a se nam kljub temu, zdi boljša od hrane zaužite na trdih tleh. Po Spencevih besedah, »za to trditev obstaja dobra razlaga. Zaradi nizkega pritiska, suhega zraka in hrupa, težje okušamo. Zaradi tega, mora imeti hrana zaužita 12,000m od tal od 20-30% več sladkorja in soli, da se nam zdi okus enak, kot na tleh«. Morda prav zaradi tega, letalske družbe ne rade razkrivajo koliko kalorij ima hrana. Tudi Adriina PR služba nam na naše vprašanje, ni niti poslala odgovora, niti ni zanikala teh dejstev.
+
 A to po Spenševih besedah, ni edina slaba novica za potnike. Med letenjem, se namreč soočamo še z 2. dejavnikoma, da potniki zaužijejo več kalorij kot bi želeli. »Ne moremo mimo 2. dejavnikov - stresa in dolgčasa. Ker na dolgih poletih pogosto nimamo, kaj početi, se radi zamotimo s hrano saj s proučevanjem tega kar imamo na zložljivemu pladnju zabijamo čas. Kar se tiče stresa pa je hrana znano zdravilo zanj.«. Britanci imajo tudi konkretne podatke saj je Spence ocenil, da povprečni Britanec od trenutka, ko se je prijavil na polet, do prihoda na želeno destinacijo, na povprečno dolgemu letu zaužije več kot 3,400 kalorij, kar je 1,7 krat več kot znaša priporočen dneven vnos kalorij. Z drugimi besedami, za 3.400 kalorij, je treba pojesti 6.5 big macov (hamburger znan iz Ameriške verige s hitro prehrano McDonald’s.).
 
 #### M130. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-»Dobra hrana, nikoli ne more biti poceni. Za dobro surovino, moraš plačati in če hočeš, da je dobra mora biti proizvedena na dober, so-naraven način vezan na lokalno okolje«
+**»Dobra hrana, nikoli ne more biti poceni. Za dobro surovino, moraš plačati in če hočeš, da je dobra mora biti proizvedena na dober, so-naraven način vezan na lokalno okolje«**
+
 Tako je na Statističnih Dnevih v Dolnji Težki Vodi posvečenih hrani, opozorila direktorica Mlekarne Planika d.o.o. Anka Lipušček Miklavič, ki meni, da smo Slovenski potrošniki koš za smeti za hrano nezaželeno v drugih državah EU-a. Pojasnila je da so v Mlekarni vedno gojili pošten odnos do kupcev, ki jim povedo kako delajo, in zakaj imajo njihovi izdelki višjo dodano vrednost. »Kupec ve kaj dobi za 0,32 evrov kolikor plača več za mleko«, je dejala. V Sloveniji smo pri mleku 120-odstotno samooskrbni, a še vedno uvozimo 49% mlečnih izdelkov. »Ker smo na stežaj odprli svoja vrata, in ker z veseljem sprejmemo kar nam od drugod pripeljejo«, je dejala. Tretjino hrane pridelane po svetu zavržemo, po drugi strani, pa zbiramo denar za lačne, je opozorila Urša Zgojznik iz društva Ekologi Brez Meja. Prepričana je, da, če bi pravilno naslavljali problematiko prehrane bi s tem reševali tudi posledice podnebnih sprememb.
+
 Tadeja Kvas Majer s kmetijskega ministrstva je priznala, da mora ministrstvo pripraviti vse vzvode, ki služijo pridelovalcem in živilskopredelovalni industriji. "Prvič v zgodovini smo zaščitili trajno varovana kmetijska zemljišča, cilj je, da jih ohranimo vsaj 350.000 hektarjev," je dejala in dodala, da si želi večjo zavest potrošnikov, ki bi z veseljem kupovali slovenske proizvode. Po površini njiv na prebivalca (851 kvadratnih metrov) je Slovenija krepko pod evropskim povprečjem, pa tudi pod povprečjem sosednjih držav. Kmetijska gospodarstva po Sloveniji sicer uporabljajo skoraj 477.000 hektarjev kmetijskih zemljišč oz. približno četrtino ozemlja, vendar je več kot polovica teh zemljišč trajnih travnikov in pašnikov, saj se kar 80 odstotkov kmetij ukvarja z živinorejo. Dosežene stopnje samooskrbe so odsev tega stanja - pri živinorejski proizvodnji so stopnje visoke, pri rastlinskih pridelkih pa precej nižje - pri žitih 73 odstotkov, pri krompirju 59 odstotkov, pri zelenjavi 39 odstotkov in pri sadju 47 odstotkov. Slovenija je zato neto uvoznica hrane, saj se doma pridela manj kot polovica porabljene hrane.
 
 #### M131. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Je » Naša super hrana « res tako, super ?
+**Je » Naša super hrana « res tako, super ?**
+
 Slovensko Kmetijsko ministrstvo je pred dnevi začelo kampanijo za promocijo Slovenske hrane imenovano Naša Super Hrana. Z njo, razširja ozaveščenost o novi shemi kakovosti - Izbrana kakovost, podvigu slovenskih pri- in predelovalcev. Vsi sporočajo, da je Slovenija kraj v katerem se pripravi veliko kakovostnih živil, tako zaradi majhnosti kmetij, kot zaradi podnebja in drugih naravnih danosti temelječih na geo-lokaciji. Kampanij, ki pozivajo k nakupovanju lokalne hrane je bilo že precej: Kupujem Slovensko, Kupujmo Domače,... A te so bile razdrobljene, pobudniki so bili, ali posamezni sektorji, ali samo Ministrstvo za Kmetijstvo. Ta je prva v kateri se združujejo vsi sektorji pri- in predelave ter promocije / prodaje hrane - in vsi tudi vlagajo. Po navedbah ministrstva, bo v okvirju 3. let, vsaka stran pokrila za okoli 7,500.000 evrov.
+
 V osnovi gre za značko prilepljeno na izdelke na trgovinskih policah. Gre za značke kot so »bio«, »eko«, idr.. Kupcu bo zagotavljala, da je bilo živilo pridelano in predelano v Sloveniji, in da ni prepotovalo več, kot 1,000km). S krajšanjem verige od izvora do potrošnika, se ohrani več okusa, ter več pomembnih sestavin. V kampanji navajajo primer češenj, ki ob obiranju, vsebujejo 6mg vitamina C na 100g sadja, po tednu dni pa 3,5 miligramov. Poleg tega, je potrebnih manj kemikalij za daljšanje roka trajanja in manj zamrzovanja. Potrošnik bo vedel kdo ga je izdelal, in od kod so surovine, kmet pa bo vedel kje je bil prodan. Blago je sledljivo »od vil do vilic,« zagotavljajo v Ministrstvu.
 
 #### M132. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Je » Naša super hrana « res tako, super? 
-Slovensko Kmetijsko ministrstvo je pred dnevi začelo kampanijo za promocijo Slovenske 
-hrane imenovano Naša Super Hrana. Z njo, razširja ozaveščenost o novi shemi kakovosti 
-- Izbrana kakovost, podvigu slovenskih pri- in predelovalcev. Vsi sporočajo, da je 
-Slovenija kraj v katerem se pripravi veliko kakovostnih živil, tako zaradi majhnosti 
-kmetij, kot zaradi podnebja in drugih naravnih danosti temelječih na geo-lokaciji. 
-Kampanij, ki pozivajo k nakupovanju lokalne hrane je bilo že precej: Kupujem 
-Slovensko, Kupujmo Domače,... A te so bile razdrobljene, pobudniki so bili, ali 
-posamezni sektorji, ali samo Ministrstvo za Kmetijstvo. Ta je prva v kateri se združujejo 
-vsi sektorji pri- in predelave ter promocije / prodaje hrane - in vsi tudi vlagajo. Po 
-navedbah ministrstva, bo v okvirju 3. let, vsaka stran pokrila za okoli 7,500.000 evrov. 
-V osnovi gre za značko prilepljeno na izdelke na trgovinskih policah. Gre za značke kot 
-so »bio«, »eko«, idr.. Kupcu bo zagotavljala, da je bilo živilo pridelano in predelano v 
-Sloveniji, in da ni prepotovalo več, kot 1,000km). S krajšanjem verige od izvora do 
-potrošnika, se ohrani več okusa, ter več pomembnih sestavin. V kampanji navajajo 
-primer češenj, ki ob obiranju, vsebujejo 6mg vitamina C na 100g sadja, po tednu dni pa 
-3,5 miligramov. Poleg tega, je potrebnih manj kemikalij za daljšanje roka trajanja in 
-manj zamrzovanja. Potrošnik bo vedel kdo ga je izdelal, in od kod so surovine, kmet pa 
-bo vedel kje je bil prodan. Blago je sledljivo »od vil do vilic,« zagotavljajo v Ministrstvu.
+**Je » Naša super hrana « res tako, super?**
+
+Slovensko Kmetijsko ministrstvo je pred dnevi začelo kampanijo za promocijo Slovenske hrane imenovano Naša Super Hrana. Z njo, razširja ozaveščenost o novi shemi kakovosti - Izbrana kakovost, podvigu slovenskih pri- in predelovalcev. Vsi sporočajo, da je Slovenija kraj v katerem se pripravi veliko kakovostnih živil, tako zaradi majhnosti kmetij, kot zaradi podnebja in drugih naravnih danosti temelječih na geo-lokaciji. Kampanij, ki pozivajo k nakupovanju lokalne hrane je bilo že precej: Kupujem Slovensko, Kupujmo Domače,... A te so bile razdrobljene, pobudniki so bili, ali posamezni sektorji, ali samo Ministrstvo za Kmetijstvo. Ta je prva v kateri se združujejo vsi sektorji pri- in predelave ter promocije / prodaje hrane - in vsi tudi vlagajo. Po navedbah ministrstva, bo v okvirju 3. let, vsaka stran pokrila za okoli 7,500.000 evrov.
+
+V osnovi gre za značko prilepljeno na izdelke na trgovinskih policah. Gre za značke kot so »bio«, »eko«, idr.. Kupcu bo zagotavljala, da je bilo živilo pridelano in predelano v Sloveniji, in da ni prepotovalo več, kot 1,000km). S krajšanjem verige od izvora do potrošnika, se ohrani več okusa, ter več pomembnih sestavin. V kampanji navajajo primer češenj, ki ob obiranju, vsebujejo 6mg vitamina C na 100g sadja, po tednu dni pa 3,5 miligramov. Poleg tega, je potrebnih manj kemikalij za daljšanje roka trajanja in manj zamrzovanja. Potrošnik bo vedel kdo ga je izdelal, in od kod so surovine, kmet pa bo vedel kje je bil prodan. Blago je sledljivo »od vil do vilic,« zagotavljajo v Ministrstvu.
 
 #### M133. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-»Dobra hrana, ne more biti po ceni. Za dobro surovino, moraš plačati in če hočeš, da je dobra mora biti proizvedena na so-naraven način vezan na lokalno okolje!«
+**»Dobra hrana, ne more biti po ceni. Za dobro surovino, moraš plačati in če hočeš, da je dobra mora biti proizvedena na so-naraven način vezan na lokalno okolje!«**
+
 Tako je na Statističnih Dnevih v Dolnjem račjem selu posvečenih hrani, opozorila direktorca Mlekarne Planika d.o.o. Anka Lipušček, ki meni, da smo Slovenski potrošniki koš za smeti za hrano nezaželeno v drugih državah Europske Unije. V Mlekarni so, tako pravi Lipuščekova, vedno pošteni do kupcev katerim povedo kako delajo, in zakaj imajo njihovi izdelki višjo dodano vrednost. »Kupec ve kaj dobi za 0,32 evrov kolikor plača več za mleko«, je dejala. V Sloveniji, smo pri kravjemu mleku 120-odstotno samo-oskrbni a še vedno uvozimo 49% mlečnih izdelkov. »Ker smo nastežaj odprli svoja vrata, in ker z veseljem sprejmemo kar nam pripeljejo oddrugod iz EUja«, je dejala. Tretino hrane pridelane po Svetu zavržemo, po drugi strani, pa zbiramo denar za lačne, je opozorila Urša Zgojznik z društva Ekologi Brez Meja. Prepričana je, da, če bi pravilno naslavljali problematiko prehrane bi s tem, reševali tudi posledice podnebnih sprememb na zemlji.
+
 Tadeja Majer iz Kmetijskega ministrstva pravi, da služijo živilsko-predelovalni industriji. »Prvič v zgodovini, smo zaščitili kmetijska in gozdno-gospodarska zemljišča, cilj je, da jih ohranimo vsaj 350,500ha«, je dejala. Po površini njiv na prebivalca (851 m2), je Slovenija krepko pod povprečjem EU-a pa tudi pod povprečjem sosednih držav saj se kar 80.2 odstotkov kmetij ukvarja z živino-rejo ali bio maso. Slovenija je zato neto uvoznica hrane saj se doma pridela manj, kot 50% hrane namenjene človeški potrošni. V Sloveniji kmetijska zemljišča zajemajo 32% ozemlja, gozdovi pa 59,9 odstotkov.
 
 #### M134. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Letite z najnovejšim Airbusom ali Boeingom z Rolls-Roycevim motorjem? Vseeno je - hrana postrežena na letalu bo prava kalorična bomba
+**Letite z najnovejšim Airbusom ali Boeingom z Rolls-Roycevim motorjem? Vseeno je - hrana postrežena na letalu bo prava kalorična bomba**
+
 Se spomnite izjave Gordon Ramsaya, da se nebi niti dotaknil hrane postrežene na letalu, saj ve od kod prihaja in kako je pripravljena, ne glede na to ali gre za Adrio, nizko cenovnik Easyjet, ali pa prestižen Emirates iz Združenih Arabskih Emiratov z štiri motornim Airbusom A380 ali novim Dreamlinerjem? Kot kaže ima še kako prav. Cambridgeški raziskovalec Charles Spence, je objavil knjigo v kateri razlaga zakaj ima letalska hrana pogosto neprijetni okus a se nam kljub temu, zdi boljša od hrane zaužite na trdih tleh. Po Spenčevih besedah, »Zaradi nizkega pritiska, suhega zraka in hrupa, težje okušamo. Zaradi tega, mora imeti hrana zaužita 12,000m od tal od 20-30% več sladkorja in soli, da se nam zdi okus enak, kot na tleh«. Zaradi tega, letalske družbe ne rade razkrivajo koliko kalorij ima hrana. Adriina PR služba nam na naše vprašanje, ni odgovorila, niti ni zanikala naših navedb vezanih na njihovo prehrano.
+
 A to po Spenčevih besedah, ni edina slaba novica za potnike. Med letenjem, se namreč soočamo še z 2. dejavnikoma, da potniki zaužijejo več kalorij kot bi želeli. »Ne moremo mimo 2. dejavnikov -, stresa in dolgčasa. Ker na poletih daljših od 3. ur pogosto nimamo, kaj početi, se radi zamotimo s hrano saj s proučevanjem tega kar imamo na zložljivemu pladnju zabijamo čas. Kar se tiče stresa pa je hrana znano zdravilo zanj.«. Kljub pomanjkanju časa, po Spenčevih ocenah povprečni britanec od trenutka preden se prijavi na polet, do prihoda na želeno destinacijo, na povprečno dolgemu letu zaužije več kot 3,400 kalorij, kar je 1,7 krat več kot znaša priporočen dneven vnos kalorij. Z drugimi besedami, za 3.400 kalorij, je treba pojesti 6.5 big macov (hamburger znan iz Ameriške - natančneje illinoiske - verige McDonald’s.)
 
 #### M135. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Recept za zdravo telo: Zdrava prehrana, dovolj gibanja in spanja ter nič več kot 1.2 litra piva, 800mg kofeina in 12,3 cigaret na dan
+**Recept za zdravo telo: Zdrava prehrana, dovolj gibanja in spanja ter nič več kot 1.2 litra piva, 800mg kofeina in 12,3 cigaret na dan**
+
 Preden se začne šolsko leto 2017 / 18 je morda pravi čas da spremenite, katero izmed navad vezanih na zdravo življenje. Učenci, ki nimajo tovrstnih navad - ugotavljajo na Inštitutu za Javno Zdravje Republike Slovenije in pri Evropski Uniji -, se težje učijo, so bolje nagnjeni k debelosti, ter  imajo slapšo samo-podobo, poveča se jim tudi tveganje za razvoj parkinsonove bolezni ter diabetesa tipa 2. - zlasti če nezdrave navade pridobljene v šolo-obveznemu obdobju nadaljujejo v odraslosti, predvsem med 31. in 40. letom starosti ter tudi v naših 50. letih oz. po Abrahamu. V času najstništva, namreč, hitro rastemo. Zraste vse kar vidimo, kot so na primer roke in noge, pa tudi vse česar ne vidimo kot sta pljuča in srce. Obenem, se naše telo neprestano obnavla, zato v težavnemu obdobju najstništva (od 12.-20. rojstnega dne) potrebujemo veliko C in D vitamina (vsaj 12mg / kg telesne teže). V puberteti, tako potrebujemo okoli 2800kcal / dan, predvsem amino-kislin nastalih s post-translacijsko trans-modifikacijo. Če pojemo več kot porabimo, se zredimo, če je pojemo manj kot porabimo pa hujšamo. Prav tako, naj bi dnevno popili 3,2 litre tekočine, če pa se ukvarjamo s športom, je treba za vsako 2. uro športne dejavnosti kot je denimo tek dodati načeloma še 1.5l tekočine z elektro-liti, npr. izo-tonik. Prav tako, pa je pomemben spanec: Obstajata dve ključni fazi spanja: t.j. t.i. REM in non-REM faza - med REM fazo sanjamo. Šolarji potrebujejo od 9-10 ur spanca na dan, medtem, ko odraslim večinoma zadošča 7,5 ur. Nasvet: Vedno pojdite spati in se zbujajte ob enaki uri, tudi v težko pričakovanemu času počitnic in, ko je vikend. Na ta način, boste svoje telo navadili na ustrezni bio-ritem in na omiljene pravopisne vaje (7:10-8.45) na Filozofski Fakulteti, ki so vaša Biblija.
 
 #### M136. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-Je » Naša super hrana « res tako, super?
-Slovensko Kmetijsko ministrstvo je pred dnevi začelo kampanijo za promocijo Slovenske hrane imenovano Naša Super Hrana. Z njo, razširja ozaveščenost o novi shemi kakovosti - Izbrana kakovost, podvigu slovenskih pri- in predelovalcev. Vsi sporočajo, da je Slovenija kraj v katerem se pripravi veliko kakovostnih živil, tako zaradi krajevnih posebnosti in majhnosti kmetij, kot zaradi raznolikega podnebja in drugih naravnih danosti temelječih na podnebju. 
-Takšnih kampanij, ki pozivajo k nakupovanju lokalno pridelane in predelane hrane je bilo že precej: Kupujem Slovensko, Kupujmo Domače, Bodimo pozorni na lokalno poreklo,... A te so bile razdrobljene, pobudniki so bili, ali posamezni sektorji, ali samo Ministrstvo za Kmetijstvo. Ta pa je prva v kateri se združujejo vsi sektorji pridelave, predelave in promocije / prodaje hrane - in vsi k njej tudi denarno prispevajo. Po navedbah ministrstva, bo v okvirju 3. let trajanja, vsaka stran pokrila za okoli 7.5 miljonov evrov. 
+**Je » Naša super hrana « res tako, super?**
+
+Slovensko Kmetijsko ministrstvo je pred dnevi začelo kampanijo za promocijo Slovenske hrane imenovano Naša Super Hrana. Z njo, razširja ozaveščenost o novi shemi kakovosti - Izbrana kakovost, podvigu slovenskih pri- in predelovalcev. Vsi sporočajo, da je Slovenija kraj v katerem se pripravi veliko kakovostnih živil, tako zaradi krajevnih posebnosti in majhnosti kmetij, kot zaradi raznolikega podnebja in drugih naravnih danosti temelječih na podnebju.
+
+Takšnih kampanij, ki pozivajo k nakupovanju lokalno pridelane in predelane hrane je bilo že precej: Kupujem Slovensko, Kupujmo Domače, Bodimo pozorni na lokalno poreklo,... A te so bile razdrobljene, pobudniki so bili, ali posamezni sektorji, ali samo Ministrstvo za Kmetijstvo. Ta pa je prva v kateri se združujejo vsi sektorji pridelave, predelave in promocije / prodaje hrane - in vsi k njej tudi denarno prispevajo. Po navedbah ministrstva, bo v okvirju 3. let trajanja, vsaka stran pokrila za okoli 7.5 miljonov evrov.
+
 V osnovi gre za značko prilepljeno na izdelke na trgovinskih policah. Gre za značke kot so »bio«, »eko« in kopica že obstoječih. Kupcu bo zagotavljala, da je bilo živilo pridelano in predelano v Sloveniji, in da ni prepotovalo več, kot določeno število kilometrov (nič več kot 1000000000m). S krajšanjem verige od izvora do potrošnika, se ohrani več okusa, ter več pomembnih sestavin. V kampanji navajajo primer češenj, ki ob obiranju vsebujejo okoli 6mg vitamina C na 100g sadja, po tednu dni pa 3,5 miligramov. Poleg tega, je potrebnih manj kemikalij za daljšanje roka trajanja in manj zamrzovanja. Potrošnik bo lahko na izdelku videl kdo ga je izdelal, in od kod so surovine, kmet pa bo imel na voljo informacije kje je bil prodan. Blago je sledljivo »od vil do vilic,« zagotavljajo na Ministrstvu.
 
 #### M137. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Recept za zdravo telo: Zdrava prehrana, dovolj gibanja in spanja ter nič več kot 1.2 litra piva, 800mg kofeina in 12,3 cigaret na dan
+**Recept za zdravo telo: Zdrava prehrana, dovolj gibanja in spanja ter nič več kot 1.2 litra piva, 800mg kofeina in 12,3 cigaret na dan**
+
 Preden se začne šolsko leto 2017 / 18 je morda pravi čas da spremenite, katero izmed navad vezanih na zdravo življenje. Učenci, ki nimajo tovrstnih navad - ugotavljajo na Inštitutu za Javno Zdravje Republike Slovenije in pri Evropski Uniji -, se težje učijo, so bolje nagnjeni k debelosti, ter  imajo slapšo samo-podobo, poveča se jim tudi tveganje za razvoj parkinsonove bolezni ter diabetesa tipa 2. - zlasti če nezdrave navade pridobljene v šolo-obveznemu obdobju nadaljujejo v odraslosti, predvsem med 31. in 40. letom starosti ter tudi v naših 50. letih oz. po Abrahamu. V času najstništva, namreč, hitro rastemo. Zraste vse kar vidimo, kot so na primer roke in noge, pa tudi vse česar ne vidimo kot sta pljuča in srce. Obenem, se naše telo neprestano obnavla, zato v težavnemu obdobju najstništva (od 12.-20. rojstnega dne) potrebujemo veliko C in D vitamina (vsaj 12mg / kg telesne teže). V času pubertete, tako potrebujemo okoli 2800kcal / dan, predvsem amino-kislin nastalih s post-translacijsko modifikacijo. Če pojemo več kot porabimo, se zredimo, če je pojemo manj kot porabimo pa hujšamo. Prav tako, naj bi dnevno popili 3,2 litre tekočine, če pa se ukvarjamo s športom, je treba za vsako 2. uro športne dejavnosti kot je denimo tek dodati načeloma še 1.5l tekočine z elektro-liti, npr. izo-tonik. Prav tako, pa je pomemben spanec: Obstajata dve ključni fazi spanja: t.j. t.i. REM in non-REM faza - med REM fazo sanjamo. Šolarji potrebujejo od 9-10 ur spanca na dan, medtem, ko odraslim večinoma zadošča od 7,5 ur. Nasvet: Vedno pojdite spati in se zbujajte ob isti uri, tudi v težko pričakovanemu času počitnic in, ko je vikend. Na ta način, boste svoje telo navadili na ustrezni bio-ritem in na pravopisne vaje (7:10-8.45) na Filozofski Fakulteti, ki so vaša Biblija.
 
 #### M138. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Najboljša hrana na letalu? Singapore Airlines s svojim Airbusom A380 na liniji 
-Singapur - Osaka 
- 
-Še preden se najnovejše letalo - ne glede na to ali je to Airbus, Boeing ali Tupoljev -, požene 
-po vzletni stezi človeško telo doživi prvi šok - kabina klimatizirana s hladnim, ter izjemno 
-suhim zrakom, povzroči izsušitev nosne sluznice - posledično, človek na poteniškemu letalu 
-slabše zaznava vonj. Kmalu po vzletu, sledi novi šok. Z pridobivanjem višine in nižanjem 
-zračnega tlaka (na 780mbar), brbončice razsejane po jeziku povsem otopijo. Na potovalni višini 
-okrog 10,000m nad površjem zemlje, ter ob potovalni hitrosti 1,050km / h, se izsušeni sluznici 
-pridruži še slabše zaznavanje okusa. Če človek v takšnih okoliščinah karkoli da v usta, se zdi 
-kot da nima pravega vonja in okusa. Zaradi tega, je letalska hrana običajno močno soljena in 
-začinjena. Če bi na letalih stregli hrano začinjeno tako kot je na tleh, bi imeli potniki občutek 
-podoben prežvekovanju gmote polnjene s polnilom brez okusa. Kljub tehnološkemu napredku, 
-ne smemo zanemariti še posebnih zahtev glede varnosti hrane postrežene na letalih in kmalu 
-postane jasno, da za »zanič« letalsko hrano pravzaprav niso krive letalske družbe, temveč splet 
-bio-kemijskih lastnosti, zračno-prometnih pravil, ter dejstva, da človek ni prilagojen za uživanje 
-hrane v okolju napolnjenim z izjemno suhim, hladnim zrakom ter zračnim tlakom nižjim od 
-900mbar.  »Doseči da bi bila hrana na letalu tako okusna, kot na tleh, je praktično nemogoče«, 
-pojasnjujo pri Adrii d.d.. Zdaj veste: Ob prihodnjem poletu, se ne pritožujte čez letalsko družbo 
-temveč se zavedajte, da bi bil tudi najbolj slastni zrezek na letalu, preprosto zanič, še posebno 
-na priljubljenih linijah - kakršna je tudi London-Singapur -, na katerih letijo največja letala na 
-svetu - npr. Airbus A380 -, in to se, zaradi gneče pozna tudi pri hrani.
+**Najboljša hrana na letalu? Singapore Airlines s svojim Airbusom A380 na liniji Singapur - Osaka**
+
+Še preden se najnovejše letalo - ne glede na to ali je to Airbus, Boeing ali Tupoljev -, požene po vzletni stezi človeško telo doživi prvi šok - kabina klimatizirana s hladnim, ter izjemno suhim zrakom, povzroči izsušitev nosne sluznice - posledično, človek na poteniškemu letalu slabše zaznava vonj. Kmalu po vzletu, sledi novi šok. Z pridobivanjem višine in nižanjem zračnega tlaka (na 780mbar), brbončice razsejane po jeziku povsem otopijo. Na potovalni višini okrog 10,000m nad površjem zemlje, ter ob potovalni hitrosti 1,050km / h, se izsušeni sluznici pridruži še slabše zaznavanje okusa. Če človek v takšnih okoliščinah karkoli da v usta, se zdi kot da nima pravega vonja in okusa. Zaradi tega, je letalska hrana običajno močno soljena in začinjena. Če bi na letalih stregli hrano začinjeno tako kot je na tleh, bi imeli potniki občutek podoben prežvekovanju gmote polnjene s polnilom brez okusa. Kljub tehnološkemu napredku, ne smemo zanemariti še posebnih zahtev glede varnosti hrane postrežene na letalih in kmalu postane jasno, da za »zanič« letalsko hrano pravzaprav niso krive letalske družbe, temveč splet bio-kemijskih lastnosti, zračno-prometnih pravil, ter dejstva, da človek ni prilagojen za uživanje hrane v okolju napolnjenim z izjemno suhim, hladnim zrakom ter zračnim tlakom nižjim od 900mbar.  »Doseči da bi bila hrana na letalu tako okusna, kot na tleh, je praktično nemogoče«, pojasnjujo pri Adrii d.d.. Zdaj veste: Ob prihodnjem poletu, se ne pritožujte čez letalsko družbo temveč se zavedajte, da bi bil tudi najbolj slastni zrezek na letalu, preprosto zanič, še posebno na priljubljenih linijah - kakršna je tudi London-Singapur -, na katerih letijo največja letala na svetu - npr. Airbus A380 -, in to se, zaradi gneče pozna tudi pri hrani.
 
 #### M139. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Letite z najnovejšim Airbusom ali Boeingom z Rolls-Roycevim motorjem? Vseeno je - hrana postrežena na letalu bo prava kalorična bomba
+**Letite z najnovejšim Airbusom ali Boeingom z Rolls-Roycevim motorjem? Vseeno je - hrana postrežena na letalu bo prava kalorična bomba**
+
 Se spomnite izjave Gordon Ramsaya, da se nebi niti dotaknil hrane postrežene na letalu, saj ve od kod prihaja in kako je pripravljena, ne glede na to ali gre za Adrio, nizko cenovnik Easyjet, ali pa prestižen Emirates iz Združenih Arabskih Emiratov z štiri motornim Airbusom A380 ali novim Dreamlinerjem? Kot kaže ima še kako prav. Cambridgeški raziskovalec Charles Spence, je objavil knjigo v kateri razlaga zakaj ima letalska hrana pogosto neprijetni okus a se nam kljub temu, zdi boljša od hrane zaužite na trdih tleh. Po Spenčevih besedah, »Zaradi nizkega pritiska, suhega zraka in hrupa, težje okušamo. Zaradi tega, mora imeti hrana zaužita 12,000m od tal od 20-30% več sladkorja in soli, da se nam zdi okus enak, kot na tleh«. Zaradi tega, letalske družbe ne rade razkrivajo koliko kalorij ima hrana. Adriina PR služba nam na naše vprašanje zastavljena prejšni teden, ni odgovorila, niti ni zanikala naših navedb vezanih na prehrano.
+
 A to po Spenčevih besedah, ni edina slaba novica za potnike. Med letenjem, se namreč soočamo še z 2. dejavnikoma, da potniki zaužijejo več kalorij kot bi želeli. »Ne moremo mimo 2. dejavnikov -, stresa in dolgčasa. Ker na poletih daljših od 3. ur pogosto nimamo, kaj početi, se radi zamotimo s hrano saj s proučevanjem tega kar imamo na zložljivemu pladnju zabijamo čas. Kar se tiče stresa pa je hrana znano zdravilo zanj.«. Kljub pomanjkanju časa, po Spenčevih ocenah povprečni britanec od trenutka preden se prijavi na polet, do prihoda na želeno destinacijo, na povprečno dolgemu letu zaužije več kot 3,400 kalorij, kar je 1,7 krat več kot znaša priporočen dneven vnos kalorij. Z drugimi besedami, za 3.400 kalorij, je treba pojesti 6.5 big macov (hamburger znan iz Ameriške - natančneje illinoiske - verige McDonald’s.)
 
 #### M140. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Zaradi neurij v Murcii in Bilbaou, višje cene zelenjave v Europski Uniji
+**Zaradi neurij v Murcii in Bilbaou, višje cene zelenjave v Europski Uniji**
+
 14.02.2017 - 14 : 25 - Murcia, Bilbao – Španija / Bonn – Nemčija
+
 Murcisko občino, so to zimo prizadela huda neurja s pomočjo katerih so se tudi širša bilbaojska območja zaradi vplivov Kantabrijskega Gorovja pobelila s snegom, in to je oklestilo Evropsko  prehrambeno preskrbo z sadjem in zelenjavo. Cene naraščajo, in navade potrošnikov glede nakupa zelenjave, se zaradi dvigajočih cen že spreminjajo, spremembe v nabavni politiki pa je - kot poroča Francoska Tiskovna Agencija FPA -, že opaziti tudi pri trgovcih. Cene solate, so na nemškem tako 2kratne - v Bonskem in Karl-Marx-Stadt-skem okrožju so se, celo, potrojile. Posledice naraščajočih cen, pa čutijo tudi Slovenski trgovci. Pri Lidl-u opažajo da »deloma prihaja do težav,« z dobavo sadja in zelenjave saj so - zaradi omejenih količin -, poskočile nabavne cene tudi za 200-% (več kot 3,65 evrov na kilogram solate). Pomankanje je opazno tudi pri paradižniku kajti v zadnih 3. tednih, je zaznati tudi do 30- in več-odstotno zvišanje cen, se pa stanje 1. [= prvič; op. D. P.] po Kulturnem, oz. Prešernovem, dnevu popravla, so sporočili s Hofra. Španija, običajno pokrije 30% Evropskih potreb po sadju in zelenjavi, to zimo pa 60,29 odstotkov manj, kot ponavadi, pri solati, je prišlo celo do 80 odstotnega zmanšanja. Španska Agro-kulturna Zveza poroča o 30 odstotnim zmanšanju izvoza. Nekateri kmetje, naj bi izgubili ves pridelk. Temperature ob sredozemlju, običajno tudi med Božičem in Svečnico ostanejo v območju med 15 stopinj celzija in 25°C, 04.12.2016 pa je območje zajelo močno deževje, ki ji je januarja sledila še pošilka snega. Prebivalci območij pri Murciji po poročanju AFPa, snežink niso videli že dolgih 34-let. Po izbolšanju vremena, si kmetje sicer še niso mogli odahniti, saj je posevke prekrila plast blata nanošenega ob padavinah. Kar se tiče naravnih nesreč, je ta najhujša v 64. letih (v 50. letih 20. st. je tod pustošila suša)
 
 #### M141. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-» Potica je Slovenska sladica - zato naj bo za Božič, Silvestrovo in sv. tri kralje na mizi! »
+**» Potica je Slovenska sladica - zato naj bo za Božič, Silvestrovo in sv. tri kralje na mizi! »**
+
 7.1.2017 se je v Grosupljah, Stari novi vasi, in Dolnji Težki Vodi odvil 1. Festival Orehove Potice v čast tej sladici. Gospodinje, so včasih napekle veliko peciva, in za Božične praznike ni smela mankati Potica. Pekle so v lončenih modelih napravljenih iz gline vendar so danes v uporabi predvsem teflonski in / ali silikonski pekači preprosti za uporabo in hrambo. Za peko, lahko uporabite peki papir, ali pa posodo premažete z maščobo, ter potresete s drobtinami / moko. Pred peko, pa morate na ustrezno temperaturo nastaviti tudi pečice, ki so različne, vendar ponavadi vsaka gospodinja njeno pozna, je pojasnila Prof.dr. Oblak-Jankova iz Gostinske Šole Novo Mesto. Po njenih besedah, so najboljše Gorenjine, Electroluxeve, Candyjeve, Boschove, Gaggenauvove in Mieleove pečice, medtem, ko mora biti moka polno-zrnata in porabljena dokler je sveža. »Za peciva, morate pečico ogreti. Pri peki potice, mora biti pečica segreta na višjo temperaturo, ko jo daste peč pa temperaturo znižajte za 20ºC da se skorja ne zapeče preveč. Na začetku jo ogrejete na 200ºC, in potem zmanšate na 180. Potico pečite od 50-60min. Pri ventilacijski pečici, morate peči pri nižih temperaturah tako, da sama jo ogrejem na 180 stopinj Celzija, ter na to pečem pri 160ºC«. Danes večina gospodinjstev peče kruh iz temne moke, n.pr. pirine, ržene, ajdove, ... Praviloma, naj bi te kruhe pekli tako, da tem mokam dodate 70% bele moke saj kruh tako bolj vzhaja. "Sama pečem kruh tako, da ajdovemu ali rženemu dodam le 10-% bele moke. Kaj pa sladkor? Oblak Jankova pravi: »Raje manj pojejmo - pa tisto kvalitetno. Namesto belega sladkorja, lahko uporabite med, kokosov, ali rjav sladkor«. Hranilna vrednost potice na 100g izdelka, je 358kcal, od tega pa je 44,58 gramov oglikovih hidratov ( od tega 18g sladkorjev).
 
 #### M142. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-V 6. sezono Hiše Iz Kart z novo igralsko zasedbo a brez pro-tagonista Kevina Spaceya
+**V 6. sezono Hiše Iz Kart z novo igralsko zasedbo a brez pro-tagonista Kevina Spaceya**
+
 Pri Netflix-u, počasi » obnavljajo « njihovo mojstrovino Hiša Iz Kart – serijo nenadno preklicano zaradi razkritja številnih grehov Kevin Spaceya in Harveya Weinsteina. Po  3 mesečnemu predahu, se je začelo snemanje 6-te (in s tem, zadnje) sezone serije, ki je bila od 2011. leta, Netflixev paraden konj. Osrednji igralski zasedbi sestavljeni iz lady Helen Mirren, Matthewja Pricea, Brucea Oakleya, itd., se bosta v sklepni sezoni pridružila še zveznika (in Oskarjevca) Diane Lane in Greg Kinnear. Kevin Spacey – glaven protagonist -, je bil odpuščen na podlagi člankov v katerih so ga nekdanji sodelovci in znanci, obtožili spolnega nadlegovanja. Spacey, igralec iz South Orangea v New Jerseyu in dobitnik dveh Oskarjev (ter tudi dveh Tonyjov za njegove broadwayske vloge) znan predvsem po filmih Osumljenih Pet in Lepota po Ameriško, je z njegovimi filmi sicer zaslužil že 240.6 milijonov Ameriških dolarjev kar je največ za Nicholasom Cageom in Michaelom Caineom. Zdaj pa, ko se je začela kariera Kevina Spaceya, ki je v njegovem zadnjem filmu (Ves denar Sveta) odigral magnata Gettya, sesuvati kot hiša iz kart, je režiser Ridley Scott v 5. tednih še enkrat posnel vse njegove prizore, film pre-montiral, ga post-produkcijsko spoliral, ter ga v predvidenem roku dostavil v multi-plekse s čimer je storil nekaj unikatnega, nekaj kar je v Hollywood-u brez primere. Film o tem kako so »rešili« Ves denar Sveta, bi bil zanimivejši od samega filma Ves Denar Sveta. Getty, poslovnež povezan z nafto iz Saudske arabije, je imel raje predmete, kot pa ljudi, zato  ugrabiteljem ni hotel dati niti centa - zahtevali so 17500000 dolarjev -, a tudi film, ki opozarja, da denar ni vse, da ljudi osamlja, in da vseh ljudi ni mogoče kupiti, ipd. se za ljudi, ne meni.
 
 #### M143. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-22 letni Timothée Chalamet, » noče profitirati « od sodelovanja z Woody-em Allen-om
+**22 letni Timothée Chalamet, » noče profitirati « od sodelovanja z Woody-em Allen-om**
+
 Na reden spored slovenskih kino-dvoran, ta teden prihaja novi filem Woodya Allena - Lunapark -, a seznam igralcev nepripravljenih na sodelovanje z Allenom, se medtem dalša. Slaven režiser tako med drugim, ne more več računati na sodelovanje s Georgom Clooneyom, Richardom Gereom in Matthewjom Perryjom znanim predvsem po svoji vlogi v Prijateljih. 22 letni državljan Francoske Republike Chalamet bo 23.1.2018 izvedel ali si je z njegovo vlogo odigrano v drami Pokliči Me Po Imenu, zaslužil nominacijo za Oskarja; tako kot številni drugi potencialni kandidati, se nad vse trudi da v ključnih tednih odštevanja do Oskarjev njegove kampanje ne bi potopil kaki škandal. In zdaj, je Chalamet postal 1. vidnejši igralec, ki se je - potem ko je to storilo že več igralk -, javno pokesal za njegovo sodelovanje z Woody Allenom, in se distanciral od 82 letnega Broadwayskega cineasta. Najavil je, da bo honorar prislužen s njegovo vlogo v filmu, daroval organizacijam aktivnim na področju spolne enako-pravnosti kot je pobuda Time's Up. Timothéeov agent je zanikal vse trditve vezane na Chalametjev domneven odstop od kandidature za Oskarja – Chalamet je pred kratkim, prišel na podelitev Zlatih Globusev v losangelskem hotelu Hilton v katerem se je potegoval za Zlati globus za najbolšega igralca v Drami a se je žirija odločila za Sira Richard-a Attenborough-a. Woody Allen je že od 90. let 20. stoletja, tarča javnih obtožb njegove posvojene hčerke vezanih na spolno nadlegovanje pred 30. leti, t. j. v času, ko je bil poročen z njeno mamo. Še prejšnji teden se je Chalamet vprašanju ali ima kakšne »zadržke« povezane z nastopanjem v Allenovem filmu izognil, a si je po posvetu s Brucem Willisem,  in Kevinom Spaceyem, premislil.
 
 #### M144. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-Na velika platna prihaja Breceljnikov poklon inuitom ogroženim zaradi globalizacije
+**Na velika platna prihaja Breceljnikov poklon inuitom ogroženim zaradi globalizacije**
+
 Njihov pohod po Slovenskih kinematografih, začenjajo Zadnji Ledeni Lovci, zadnji film Jure-ta Breceljnik-a, ki je umrl leta 2015. v njegovem 41. letu. Film predstavlja zgodbo o kulturi inuitskih lovcev vzhodne Grenlandije, ki ji grozi izginotje. 20,000-kilometrov dolgo obalo vzhodne Grenlandije naseljuje le 4,500 prebivalcev. 4.000 let stara kultura se mora ob vdoru modernega sveta v 21. Stoletju spopadati s dramatičnimi spremembami nastalimi zaradi podnebnih sprememb in globalizacije gnane s strani Združenih držav Amerike na eni, ter Ruske Federacije na drugi strani. V glavni vlogi sta Emanuel Boassen in Tobias Ignatiussen -, staroselca zaposlena izključno kot lovca povsem odvisna od njunega ulova. Zaradi globalizacije, pa zdaj lovita plen izključno s puško in gliserjom – medtem ko so pred 100. leti še lovili plen s kajakom in harpuno. Po besedah producenta in asistenta režije Slaviše Majstoroviča, po nenadni smrti Breceljnika poleti 2015. najprej niso vedeli kaj narediti s filmom, nato pa so se odločili, film uresničiti, pri tem pa čimbolj sledijo Breceljnikovi viziji in se mu na ta način tudi poklonijo. Velik izziv je bil tudi sprejem oz. dovoljenje inuitov za snemanje. Miha Avguštin, ki je poleg Wesleya Johnsona prijel za kamero, je za STA povedal, da so to prijetni, odprti, in zelo družinski ljudje, ki pa so potrebovali čas, da so zaupali kameri ves čas usmerjeni v njih. Majstorovič pa je dodal: »Soočeni so z zunanjim svetom, tujci in turizmom, zato je bil velik izziv kako jim dopovedati da nismo turisti, da nismo tam, da bi kupovali spominke, in da jih poskušamo razumeti in povedati njihovo zgodbo«. Ustvarjalci filma, si želijo, da bi tudi za to skupnost - izkoriščano in zapuščeno -, pripravili projekcijo filma.
 
 #### M145. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-V kino-dvorane prihaja poklon inuitom ogroženim zaradi globalizacije
+**V kino-dvorane prihaja poklon inuitom ogroženim zaradi globalizacije**
+
 Njihov pohod po Slovenskih kinematografih, začenjajo Zadnji Ledeni Lovci, zadnji film Jure-ta Breceljnik-a, ki je umrl leta 2015. v njegovem 41. letu. Film, predstavlja zgodbo o kulturi inuitskih lovcev vzhodne Grenlandije ogroženi zaradi globalizacije. 20,000-kilometrov dolgo obalo vzhodne Grenlandije naseljuje le 4,500 prebivalcev. 4.000-let stara kultura se mora ob vdoru modernega sveta, v 21. Stoletju spopadati s dramatičnimi spremembami nastalimi zaradi podnebnih sprememb in globalizacije gnane s strani Združenih držav Amerike na eni, Ruske Federacije na drugi, ter Ljudske Republike Kitajske na tretji strani. V glavni vlogi sta staroselca zaposlena kot lovca odvisna od njunega ulova. Zaradi globalizacije, pa zdaj lovita plen izključno z Winchestrko in Baylinerjom – medtem ko so pred 100. leti, še lovili plen s kajakom in harpuno. Po besedah producenta Slaviše Majstoroviča, po nenadni smrti Breceljnika poleti 2015. najprej niso vedeli kaj narediti s filmom, nato pa so se odločili, film uresničiti, pri tem pa čimbolj sledijo Jure-Breceljnikovi viziji in se mu na ta način tudi poklonijo. Veliki izziv je bil tudi sprejem oz. dovoljenje aljaskovskih inuitov za snemanje. Miha Avguštin, ki je poleg Wesleya Johnsona prijel za kamero, je za STA povedal, da so to prijetni, odprti, in zelo družinski ljudje, ki pa so potrebovali čas, da so zaupali kameri konstantno uperjeni v njih. Majstorovič, pa je dodal: »Soočeni so z zunanjim svetom, tujci in turizmom zato je bil velik izziv kako jim dopovedati da nismo turisti, da nismo tam, da bi kupovali spominke, in da jih poskušamo razumeti in povedati njihovo zgodbo«. Ustvarjelcom bi bilo všeč, da bi v tej skupnosti - izkoriščani in zapuščeni -, pripravili projekcijo filma za vse quebecovške Eskime.
 
 #### M146. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Na velika platna prihaja poklon inuitom ogroženim zaradi globalizacije
+**Na velika platna prihaja poklon inuitom ogroženim zaradi globalizacije**
+
 Njihov pohod po Slovenskih kinematografih, začenjajo Zadnji Ledeni Lovci, zadnji film Jure-ta Breceljnik-a, ki je umrl leta 2015. v njegovem 41. letu. Film predstavlja zgodbo o kulturi inuitskih lovcev vzhodne Grenlandije, ki ji grozi izginotje. 20,000-kilometrov dolgo obalo vzhodne Grenlandije naseljuje le 4,500 prebivalcev. 4.000 let stara kultura se mora ob vdoru modernega sveta v 21. Stoletju spopadati s dramatičnimi spremembami nastalimi zaradi podnebnih sprememb in globalizacije gnane s strani Združenih držav Amerike na eni, ter Ruske Federacije na drugi strani. V glavni vlogi sta Emanuel Boassen in Tobias Ignatiussen -, staroselca zaposlena kot lovca odvisna od njunega ulova. Zaradi globalizacije, pa zdaj lovita plen izključno s puško in gliserjom – medtem ko so pred 100. leti, še lovili plen s kajakom in harpuno. Po besedah producenta in asistenta režije Slaviše Majstoroviča, po nenadni smrti Breceljnika poleti 2015. najprej niso vedeli kaj narediti s filmom, nato pa so se odločili, film uresničiti, pri tem pa čimbolj sledijo Breceljnikovi viziji in se mu na ta način tudi poklonijo. Velik izziv je bil tudi sprejem oz. dovoljenje inuitov za snemanje. Miha Avguštin, ki je poleg Wesleya Johnsona prijel za kamero, je za STA povedal, da so to prijetni, odprti, in zelo družinski ljudje, ki pa so potrebovali čas, da so zaupali kameri konstantno usmerjeni v njih. Majstorovič, pa je dodal: »Soočeni so z zunanjim svetom, tujci in turizmom zato je bil velik izziv kako jim dopovedati da nismo turisti, da nismo tam, da bi kupovali spominke, in da jih poskušamo razumeti in povedati njihovo zgodbo«. Ustvarjalci filma, si želijo, da bi tudi za to skupnost - izkoriščano in zapuščeno -, pripravili projekcijo filma.
 
 #### M147. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-»Naša prava vrednost je v tem kar bodo postali tisti ki nas bodo nasledili«.  
- 
-»Preveč se oklepaš preteklosti - Opusti jo in se zazri v prihodnost!«, oz. tako nekako se 
-glasi Luke-ov Skywalker-jov citat v novi, že 7., izdaji Vojne Zvezd podnaslovljeni 
-Poslednji Jedi. Podobno, bi lahko rekli tudi za samo franšizo, ki je pod Disneyevo 
-taktirko, sicer ustvarila 2. uspešnici oprti predvsem na nostalgijo. Morda, se bo slišalo 
-klišejsko - saj lahko nekaj podobnega zasledimo na med-mrežju ob vsakemu novemu 
-filmu sage a Poslednji Jedi je najbolši film po tistemu s naslovom Imperij Vrača 
-Udarec iz 80. let. Seveda, so tu zopet bitka med dobrim in zlim, odrešitev, dvoboji s 
-svetlobnimi meči, itd. a režiser Rian Johnson uspešno zapakira elemente značilne za 
-Vojno Zvezd, skupaj s pustolovskim duhom osredotočenim na kopico novejših likov 
-manjkajočih v ostalih 2. filmih z Disneyevih studijev. Kljub dolžini - film traja 2,5 ur -
-, ni nikoli dolgčas saj si film vzame čas in vse skozi krmari med trenutki polnimi akcije 
-in tistimi prežetimi z turobnostjo. Da bo mera polna v filmu srečamo tudi staro ekipo. 
- 
-A kljub vsem presežkom, je Poslednji Jedi industrijski izdelek rojen v losangeleskih 
-studiih. Kar je tudi razumlivo saj so prav ti studii za ta film plačali 132,5 miljonov 
-dolarjev. A glede na vse, bodo denar dobili nazaj: V filmu, je dovolj simpatičnih bitij 
-in igralcev za vse ciljne skupine na katere meri film - za enkrat, napovedi ocenjujejo 
-čist dobiček v višini 1400000000 dolarjev. Za 3., sklepni del tri-logije se vrača režiser 
-Abrams in glede na vse kolobocije okoli njegovih filmov, si upamo trditi, da je letvica 
-postavljena z 8-mo epizodo zanj enostavno previsoka. Naj ga spremlja Sila.
+**»Naša prava vrednost je v tem kar bodo postali tisti ki nas bodo nasledili«.**
+
+»Preveč se oklepaš preteklosti - Opusti jo in se zazri v prihodnost!«, oz. tako nekako se glasi Luke-ov Skywalker-jov citat v novi, že 7., izdaji Vojne Zvezd podnaslovljeni Poslednji Jedi. Podobno, bi lahko rekli tudi za samo franšizo, ki je pod Disneyevo taktirko, sicer ustvarila 2. uspešnici oprti predvsem na nostalgijo. Morda, se bo slišalo klišejsko - saj lahko nekaj podobnega zasledimo na med-mrežju ob vsakemu novemu filmu sage a Poslednji Jedi je najbolši film po tistemu s naslovom Imperij Vrača Udarec iz 80. let. Seveda, so tu zopet bitka med dobrim in zlim, odrešitev, dvoboji s svetlobnimi meči, itd. a režiser Rian Johnson uspešno zapakira elemente značilne za Vojno Zvezd, skupaj s pustolovskim duhom osredotočenim na kopico novejših likov manjkajočih v ostalih 2. filmih z Disneyevih studijev. Kljub dolžini - film traja 2,5 ur - , ni nikoli dolgčas saj si film vzame čas in vse skozi krmari med trenutki polnimi akcije in tistimi prežetimi z turobnostjo. Da bo mera polna v filmu srečamo tudi staro ekipo.
+
+A kljub vsem presežkom, je Poslednji Jedi industrijski izdelek rojen v losangeleskih studiih. Kar je tudi razumlivo saj so prav ti studii za ta film plačali 132,5 miljonov dolarjev. A glede na vse, bodo denar dobili nazaj: V filmu, je dovolj simpatičnih bitij in igralcev za vse ciljne skupine na katere meri film - za enkrat, napovedi ocenjujejo čist dobiček v višini 1400000000 dolarjev. Za 3., sklepni del tri-logije se vrača režiser Abrams in glede na vse kolobocije okoli njegovih filmov, si upamo trditi, da je letvica postavljena z 8-mo epizodo zanj enostavno previsoka. Naj ga spremlja Sila.
 
 #### M148. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-22 letni Timothée Chalamet, » noče profitirati « od sodelovanja z Woody-em Allen-om
+**22 letni Timothée Chalamet, » noče profitirati « od sodelovanja z Woody-em Allen-om**
+
 Na reden spored slovenskih kino-dvoran, ta teden prihaja novi filem Woodya Allena - Lunapark -, a seznam igralcev nepripravljenih na sodelovanje z Allenom, se medtem dalša. Slaven režiser tako med drugimi, ne more več računati na sodelovanje s Georgom Clooneyom, Richardom Gereom in Matthewjom Perryjom znanim predvsem po svoji vlogi v Prijateljih. 22 letni državljan Francoske Republike Chalamet bo 23.1.2018 izvedel ali si je z njegovo vlogo odigrano v drami Pokliči Me Po Imenu, zaslužil nominacijo za Oskarja; tako kot številni drugi potencialni kandidati, se nad vse trudi da v ključnih tednih odštevanja do Oskarjev njegove kampanije ne bi potopil kaki škandal. In zdaj, je Chalamet postal 1. vidnejši igralec, ki se je - potem ko je to storilo že več igralk -, javno pokesal za njegovo sodelovanje z Woody Allenom, in se distanciral od 82 letnega Broadwayskega cineasta. Najavil je, da bo honorar prislužen s njegovo vlogo v filmu, daroval organizacijam aktivnim na področju spolne enako-pravnosti kot je pobuda Time's Up. Timothéeov agent je zanikal vse trditve vezane na Chalametjev domneven odstop od kandidature za Oskarja – Chalamet je pred kratkim, prišel na podelitev Zlatih Globusev v losangelskem hotelu Hilton v katerem se je potegoval za Zlati globus za najbolšega igralca v Drami a se je žirija odločila za Sira Richard-a Attenborough-a. Woody Allen je že od 90. let 20. stoletja, tarča javnih obtožb njegove posvojene hčerke vezanih na spolno nadlegovanje pred 30. leti, t. j. v času, ko je bil poročen z njeno mamo. Še prejšnji teden se je Chalamet vprašanju ali ima kakšne »zadržke« povezane z nastopanjem v Allenovem filmu izognil, a si je po posvetu s Brucem Willisem, Stephenom Fryem, Tomom Cruiseom in Kevinom Spaceyem, premislil.
 
 #### M149. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Bi lahko serijo Roseanne na ABCju nadaljevali brez naslovne junakinje?
+**Bi lahko serijo Roseanne na ABCju nadaljevali brez naslovne junakinje?**
+
 Marca se je na Ameriške majhne zaslone, vrnila prilublena humoristična na-nizanka Roseanne prvotno predvajana v letih od 1988-1997. Po 2. izjemno uspešnih mesecih, so Roseannein projekt ukinili, podobno kot pred 3. leti serijo Charlija Sheena - do tega so privedli rasistični zapisi pro-tagonistke Roseanne na družbenemu omrežju Twitter. Igralka, je svojo 1. objavo posvetila Chelsea Clinton -, hčerki Billa in Hillary Clinton in sicer z izjavo uperjeno v to da je Clinton-ova poročena s nečakom miljarderja Georga Sorosa, ki podpira Demokrate, in ki je eden glavnih losangelskih Liberalcev. Clintonova, ni poročena s članom Georgeve družine, na lažno vest, pa se je odzvala tako le: »Dobro jutro Roseanne. Verjamem, da so člani Georgove družine čudoviti ljudje a z nobenim od njih nisem poročena!«. Po tem, je svoje žaljivke ponesla na še višjo raven. Obamino svetovalko Valerie Jerrett, je označila za križanca med Planetom Opic in Muslimansko Bratovščino. Pozneje, je zapisala, da njene besede obžaluje, in da je bila to le ne slana šala. » Opravičujem se Valeriji Jarrett in vsem temno-poltim američanom«. To sicer, ni 1. izpad, saj je že leta 2013. Obamino svetovalko, prav tako temnopolto Susan Rice in sicer je Riceovo označila za "Moškega z velikimi opičjimi jajci." Med 1. člani ekipe Roseanne, ki so se na debakel odzvali na Twittru je bila Sara Gilbert (ena od glavnih pobudnic, od mrtvih oživljene serije). »Roseannini nedavni komentarji o Valerie Jarrett, in še marsikaj drugega, je odvratno, in ne odraža stališč igralske ekipe, zasedbe in vseh ljudi povezanih s serijo. Nad njenimi dejanji sem, milorečeno, razočarana«.
 
 #### M150. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-V 6. sezono Hiše Iz Kart z novo igralsko zasedbo a brez pro-tagonista Kevina Spaceya
+**V 6. sezono Hiše Iz Kart z novo igralsko zasedbo a brez pro-tagonista Kevina Spaceya**
+
 Pri Netflix-u, počasi » obnavljajo « njihovo mojstrovino Hiša Iz Kart – serijo nenadno preklicano zaradi razkritja številnih grehov Kevin Spaceya in Harveya Weinsteina. Po  3 mesečnemu predahu, se je začelo snemanje 6-te (in s tem, zadnje) sezone serije, ki je bila od 2011. leta, Netflixev paraden konj. Osrednji igralski zasedbi sestavljeni iz lady Helen Mirren, Matthewja Pricea, Brucea Oakleya, itd., se bosta v sklepni sezoni pridružila še zveznika (in Oskarjevca) Diane Lane in Greg Kinnear. Kevin Spacey – glaven protagonist -, je bil odpuščen na podlagi člankov v katerih so ga nekdanji sodelovci in znanci, obtožili spolnega nadlegovanja. Spacey, igralec iz South Orangea v New Jerseyu in dobitnik dveh Oskarjev (ter tudi dveh Tonyjov za njegove broadwayske vloge) znan predvsem po filmih Osumljenih Pet in Lepota po Ameriško, je z njegovimi filmi sicer zaslužil že 240.6 milijonov Ameriških dolarjev kar je največ za Nicholasom Cageom in Michaelom Caineom. Zdaj pa, ko se je začela kariera Kevina Spaceya, ki je v njegovem zadnjem filmu (Ves denar Sveta) odigral magnata Gettya, sesuvati kot hiša iz kart, je režiser Ridley Scott v 5. tednih še enkrat posnel vse njegove prizore, film pre-montiral, ga post-produkcijsko spoliral, ter ga v predvidenem roku dostavil v multi-plekse s čimer je storil nekaj unikatnega, nekaj kar je v Hollywood-u brez primere. Film o tem kako so »rešili« Ves denar Sveta, bi bil zanimivejši od samega filma Ves Denar Sveta. Getty, poslovnež povezan z nafto iz Saudske arabije, je imel raje stvari, kot pa ljudi, zato  ugrabiteljem ni hotel dati niti centa - zahtevali so 17500000 dolarjev -, a tudi film, ki opozarja, da denar ni vse, da ljudi osamlja, in da vseh ljudi ni mogoče kupiti, ipd. se za ljudi, ne meni. Le za Kevin Spaceya.
 
 #### M151. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-22 letni Timothée Chalamet, » noče profitirati « od sodelovanja z Woody-em Allen-om 
- 
-Na reden spored slovenskih kino-dvoran, ta teden prihaja novi filem Woodya Allena - Lunapark 
--, a seznam igralcev nepripravljenih na sodelovanje z Allenom, se medtem dalša. Slaven režiser 
-tako med drugim, ne more več računati na sodelovanje s Georgom Clooneyom, Richardom 
-Gereom in Matthewjom Perryjom znanim predvsem po svoji vlogi v Prijateljih. 22 letni 
-državljan Francoske Republike Chalamet bo 23.1.2018 izvedel ali si je z njegovo vlogo odigrano 
-v drami Pokliči Me Po Imenu, zaslužil nominacijo za Oskarja; tako kot številni drugi potencialni 
-kandidati, se nad vse trudi da v ključnih tednih odštevanja do Oskarjev njegove kampanije ne bi 
-potopil kaki škandal. In zdaj, je Chalamet postal 1. vidnejši igralec, ki se je - potem ko je to 
-storilo že več igralk -, javno pokesal za njegovo sodelovanje z Woody Allenom, in se distanciral 
-od 82 letnega Broadwayskega cineasta. Najavil je, da bo honorar prislužen s njegovo vlogo v 
-filmu, daroval organizacijam aktivnim na področju spolne enako-pravnosti kot je pobuda Time's 
-Up. Timothéeov agent je zanikal vse trditve vezane na Chalametjev domneven odstop od 
-kandidature za Oskarja – Chalamet je pred kratkim, prišel na podelitev Zlatih Globusev v 
-losangelskem hotelu Hilton v katerem se je potegoval za Zlati globus za najbolšega igralca v 
-Drami a se je žirija odločila za Sira Richard-a Attenborough-a. Woody Allen je že od 90. let 20. 
-stoletja, tarča javnih obtožb njegove posvojene hčerke vezanih na spolno nadlegovanje pred 30. 
-leti, t. j. v času, ko je bil poročen z njeno mamo. Še prejšnji teden se je Chalamet vprašanju ali 
-ima kakšne »zadržke« povezane z nastopanjem v Allenovem filmu izognil, a si je po posvetu s 
-Brucem Willisem, Stephenom Fryem  in Kevinom Spaceyem, premislil.
+**22 letni Timothée Chalamet, » noče profitirati « od sodelovanja z Woody-em Allen-om**
+
+Na reden spored slovenskih kino-dvoran, ta teden prihaja novi filem Woodya Allena - Lunapark -, a seznam igralcev nepripravljenih na sodelovanje z Allenom, se medtem dalša. Slaven režiser tako med drugim, ne more več računati na sodelovanje s Georgom Clooneyom, Richardom Gereom in Matthewjom Perryjom znanim predvsem po svoji vlogi v Prijateljih. 22 letni državljan Francoske Republike Chalamet bo 23.1.2018 izvedel ali si je z njegovo vlogo odigrano v drami Pokliči Me Po Imenu, zaslužil nominacijo za Oskarja; tako kot številni drugi potencialni kandidati, se nad vse trudi da v ključnih tednih odštevanja do Oskarjev njegove kampanije ne bi potopil kaki škandal. In zdaj, je Chalamet postal 1. vidnejši igralec, ki se je - potem ko je to storilo že več igralk -, javno pokesal za njegovo sodelovanje z Woody Allenom, in se distanciral od 82 letnega Broadwayskega cineasta. Najavil je, da bo honorar prislužen s njegovo vlogo v filmu, daroval organizacijam aktivnim na področju spolne enako-pravnosti kot je pobuda Time's Up. Timothéeov agent je zanikal vse trditve vezane na Chalametjev domneven odstop od kandidature za Oskarja – Chalamet je pred kratkim, prišel na podelitev Zlatih Globusev v losangelskem hotelu Hilton v katerem se je potegoval za Zlati globus za najbolšega igralca v Drami a se je žirija odločila za Sira Richard-a Attenborough-a. Woody Allen je že od 90. let 20. stoletja, tarča javnih obtožb njegove posvojene hčerke vezanih na spolno nadlegovanje pred 30. leti, t. j. v času, ko je bil poročen z njeno mamo. Še prejšnji teden se je Chalamet vprašanju ali ima kakšne »zadržke« povezane z nastopanjem v Allenovem filmu izognil, a si je po posvetu s Brucem Willisem, Stephenom Fryem  in Kevinom Spaceyem, premislil.
 
 #### M152. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-V kino-dvorane prihaja poklon inuitom ogroženim zaradi Globalizacije
+**V kino-dvorane prihaja poklon inuitom ogroženim zaradi Globalizacije**
+
 Njihov pohod po Slovenskih kinematografih, začenjajo Zadnji Ledeni Lovci, zadnji film Jure-ta Breceljnik-a, ki je umrl leta 2015. v njegovem 41. letu. Film, predstavlja zgodbo o kulturi inuitskih lovcev vzhodne Grenlandije ogroženi zaradi globalizacije. 20,000-kilometrov dolgo obalo vzhodne Grenlandije naseljuje le 4,500 prebivalcev. 4.000-let stara kultura se mora ob vdoru modernega sveta, v 21. Stoletju spopadati s dramatičnimi spremembami nastalimi zaradi podnebnih sprememb in globalizacije gnane s strani Združenih držav Amerike na eni, Ruske Federacije na drugi, ter Ljudske Republike Kitajske na tretji strani. V glavni vlogi sta staroselca zaposlena kot lovca odvisna od njunega ulova. Zaradi globalizacije, pa zdaj lovita plen izključno z Winchestrko in Baylinerjom – medtem ko so pred 100. leti, še lovili plen s kajakom in harpuno. Po besedah producenta Slaviše Majstoroviča, po nenadni smrti Breceljnika poleti 2015. najprej niso vedeli kaj narediti s filmom, nato pa so se odločili, film uresničiti, pri tem pa čimbolj sledijo Jure-Breceljnikovi viziji in se mu na ta način tudi poklonijo. Veliki izziv je bil tudi sprejem oz. dovoljenje aljaskovskih inuitov za snemanje. Miha Avguštin, ki je poleg Wesleya Johnsona prijel za kamero, je za STA povedal, da so to prijetni, odprti, in zelo družinski ljudje, ki pa so potrebovali čas, da so zaupali kameri konstantno uperjeni v njih. Majstorovič, pa je dodal: »Soočeni so z zunanjim svetom, tujci in turizmom zato je bil velik izziv kako jim dopovedati da nismo turisti, da nismo tam, da bi kupovali spominke, in da jih poskušamo razumeti in povedati njihovo zgodbo«. Ustvarjelcom bi bilo všeč, da bi v tej skupnosti - izkoriščani in zapuščeni -, pripravili projekcijo filma za vse quebecovške Eskime.
 
 #### M153. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-V kino-dvorane prihaja poklon inuitom1 ogroženim zaradi Globalizacije 
- 
-Njihov pohod po Slovenskih kinematografih, začenjajo Zadnji Ledeni Lovci, zadnji film Jure-ta Breceljnik-a, ki je umrl leta 2015. v njegovem 41. letu. Film, predstavlja zgodbo o kulturi 
-inuitskih lovcev vzhodne Grenlandije ogroženi zaradi globalizacije. 20,000-kilometrov dolgo 
-obalo vzhodne Grenlandije naseljuje le 4,500 prebivalcev. 4.000-let stara kultura se mora ob 
-vdoru modernega sveta, v 21. Stoletju spopadati s dramatičnimi spremembami nastalimi zaradi 
-podnebnih sprememb in globalizacije gnane s strani Združenih držav Amerike na eni, Ruske 
-Federacije na drugi, ter Ljudske Republike Kitajske na tretji strani. V glavni vlogi sta staroselca 
-zaposlena kot lovca odvisna od njunega ulova. Zaradi globalizacije, pa zdaj lovita plen 
-izključno z Winchestrko2 in Baylinerjom3 – medtem ko so pred 100. leti, še lovili plen s 
-kajakom in harpuno. Po besedah producenta Slaviše Majstoroviča, po nenadni smrti Breceljnika 
-poleti 2015. najprej niso vedeli kaj narediti s filmom, nato pa so se odločili, film uresničiti, pri 
-tem pa čimbolj sledijo Jure-Breceljnikovi viziji in se mu na ta način tudi poklonijo. Veliki izziv 
-je bil tudi sprejem oz. dovoljenje aljaskovskih inuitov za snemanje. Miha Avguštin, ki je poleg 
-Wesleya Johnsona prijel za kamero, je za STA povedal, da so to prijetni, odprti, in zelo 
-družinski ljudje, ki pa so potrebovali čas, da so zaupali kameri konstantno uperjeni v njih. 
-Majstorovič, pa je dodal: »Soočeni so z zunanjim svetom, tujci in turizmom zato je bil velik 
-izziv kako jim dopovedati da nismo turisti, da nismo tam, da bi kupovali spominke, in da jih 
-poskušamo razumeti in povedati njihovo zgodbo«. Ustvarjelcom bi bilo všeč, da bi v tej 
-skupnosti - izkoriščani in zapuščeni -, pripravili projekcijo filma za vse quebecovške4 Eskime5. 
- 
-                                           
-1 Avtohtono ljudstvo na Grenlandiji, severnih obalah Kanade, Aljaski ter v skrajno vzhodnem koncu Sibirije. 
-2 Puška znamke Winchester. 
-3 Gliser ameriškega podjetja Bayliner. 
-4 Pridevnik se nanaša na Quebec [kibék], mesto v Kanadi. 
-5 Narod, ki prebiva na Grenlandiji, Labradorju in v Kanadi.
+**V kino-dvorane prihaja poklon inuitom[^m153-1] ogroženim zaradi Globalizacije**
+
+Njihov pohod po Slovenskih kinematografih, začenjajo *Zadnji Ledeni Lovci*, zadnji film Jure-ta Breceljnik-a, ki je umrl leta 2015. v njegovem 41. letu. Film, predstavlja zgodbo o kulturi inuitskih lovcev vzhodne Grenlandije ogroženi zaradi globalizacije. 20,000-kilometrov dolgo obalo vzhodne Grenlandije naseljuje le 4,500 prebivalcev. 4.000-let stara kultura se mora ob vdoru modernega sveta, v 21. Stoletju spopadati s dramatičnimi spremembami nastalimi zaradi podnebnih sprememb in globalizacije gnane s strani Združenih držav Amerike na eni, Ruske Federacije na drugi, ter Ljudske Republike Kitajske na tretji strani. V glavni vlogi sta staroselca zaposlena kot lovca odvisna od njunega ulova. Zaradi globalizacije, pa zdaj lovita plen izključno z Winchestrko[^m153-2] in Baylinerjom[^m153-3] – medtem ko so pred 100. leti, še lovili plen s kajakom in harpuno. Po besedah producenta Slaviše Majstoroviča, po nenadni smrti Breceljnika poleti 2015. najprej niso vedeli kaj narediti s filmom, nato pa so se odločili, film uresničiti, pri tem pa čimbolj sledijo Jure-Breceljnikovi viziji in se mu na ta način tudi poklonijo. Veliki izziv je bil tudi sprejem oz. dovoljenje aljaskovskih inuitov za snemanje. Miha Avguštin, ki je poleg Wesleya Johnsona prijel za kamero, je za STA povedal, da so to prijetni, odprti, in zelo družinski ljudje, ki pa so potrebovali čas, da so zaupali kameri konstantno uperjeni v njih. Majstorovič, pa je dodal: »Soočeni so z zunanjim svetom, tujci in turizmom zato je bil velik izziv kako jim dopovedati da nismo turisti, da nismo tam, da bi kupovali spominke, in da jih poskušamo razumeti in povedati njihovo zgodbo«. Ustvarjelcom bi bilo všeč, da bi v tej skupnosti - izkoriščani in zapuščeni -, pripravili projekcijo filma za vse quebecovške[^m153-4] Eskime[^m153-5].
+
+[^m153-1]: Avtohtono ljudstvo na Grenlandiji, severnih obalah Kanade, Aljaski ter v skrajno vzhodnem koncu Sibirije.
+
+[^m153-2]: Puška znamke Winchester.
+
+[^m153-3]: Gliser ameriškega podjetja Bayliner.
+
+[^m153-4]: Pridevnik se nanaša na Quebec [kibék], mesto v Kanadi.
+
+[^m153-5]: Narod, ki prebiva na Grenlandiji, Labradorju in v Kanadi.
 
 #### M154. Pravopisna ureditev besedila
 
 Pravopisno popravite besedilo.
 
-May-ova poziva poslance naj pri Brexit-u »britancev ne pustijo na cedilu«
+**May-ova poziva poslance naj pri Brexit-u »britancev ne pustijo na cedilu«**
+
 Britanska premiejka Theresa May, je pred glasovanjem 13.01.2019 o dogovoru o Brexitu v Britanskem Parlamentu poslance pozvala naj podprejo dogovor. A kot kaže, dogovora nebo. May-eva, je poslance naperjene zoper dogovor, opozorila da tvegajo, da bodo »na cedilu pustili Britanske ljudi.« »Dogovor ni popolen a ko se bodo pisale zgodovinske knjige, bo glavno vprašanje ali smo s torkovim glasovanjem podprli dogovor in zaščitili naše gospodarstvo in varnost, ali pa smo pustili britance na cedilu« je po poročanju BBCja dejala Mayeva. Vodja Opozicije Jeremy Corbyn pa ji je znova odgovoril naj se začne bati za njeno prihodnost. Iztop z Evropske Unije, je največji premik v zunanji in trgovinski politiki države v več kot 40. letih, parlament pa bo v torek po pričakovanjih oziroma napovedih glasoval proti dogovoru, ki ga je z EU-jem izpogajala britanska vlada. V torek bo imelo pravico glasovanja 639 poslancev v 650 članskem Spodnjem domu. Po zadnjih projekcijah, naj bi proti dogovoru glasovalo 383 poslancev, tudi najmanj 64 Laburistov. Pred nastopom v parlamentu, je Mayeva v ponedeljek dopoldne nagovorila delavce v mestu Stoke-on-Trent. "V parlamentu so poslanci osredotočeni preložitev ali celo ustavitev Brexita, bodo uporabili vse kar jim je na voljo da to dosežejo«, je dejala Mayeva. Stoke-on-Trentski volilci so na Referendumu 2016. leta večinsko glasovali za izstop države iz Unije. Mayeva je dodala, da je verjetneje, da bodo poslanci brexit obšli kot pa da bo Velika Britanija Evropsko Unijo zapustila brez dogovora. Mayevi sta skupno pismo poslala predsednik Evropske Komisije Juncker in Predsednik Evropskega Sveta Donald Tusk. V svojemu pisanju sta ponovila, da je ločitveni sporazum pošten kompromis, ki zagotavlja urejen izstop Velike Britanije iz Unije in tako omejuje negativne posledice brexita.
 
 #### M155. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Črno-bel portret Mehike preslikan v avto-biografski filem o Alfonsu Caronu
+**Črno-bel portret Mehike preslikan v avto-biografski filem o Alfonsu Caronu**
+
 Najlepši film 2018. leta, je zgodba o kostariško- družini, ki je na začetku 70-tih let 20. stoletja živela v ciudad-de-mexiškem predelu Roma; hkrati je to film s katerim se je eden osrednih pretstavnikov Latinsko-Ameriškega filma, želel pokloniti njegovi domo-rodni varuški Cleo rojeni v sosedni vasi imenovani Rajska Vas v Zvezni državi Chihuahua. Alfons Cuaronova Roma je celovečeren film, ki ga je škoda gledati na majhnih zaslonih, in ki ga je nujno gledati na velikem platnu pa čeprav bo že v prihodnih 2. tednih na voljo tudi na Netflixevi mednarodni platformi. Zgodba, je avto-biografska. Cuaron si je zato privoščil izredni pro-račun (126,3 miljonov Evrov) saj je hišo njegovega otroštva spet opremil, in uredil točno tako kot se je vtisnila v svoj otroški spomin. Cuaron - režiser odgovoren za mojstrovini Gravitacija in Jaz Pa Tebi Mamo -, je tako posnel črno-bel film o družini razpeti med številnimi zgodbami znanimi iz vsakdanjega življenja v veliki Metropoli. Ljubezen med Antoniom in Sofio, se je že izpela, imata pa štiri otroke in dva psa kar lajša življenje. Antonio, zdravnik, nekega dne odpotuje v Quebec od koder se ne bo nikoli več vrnil pa čeprav Sofiini otroci še dolgo poslušajo laži, češ, da se Antonijovo potovanje pač podaljšuje. Za družino, v glavnem skrbi Cleo, ki se na otroke tako naveže, da je za njihovo dobro pripravljena na vse. Ob opisu življenja pisane družine, pa Cuaron v svojem črno belem filmu pripoveduje tudi o zgodovinskih dogodkih v Chihuahuai, protestih, žrtvah, tudi privilegijih mehiške Buržoazije hkrati pa se dotakne časov vezanih na Mehiko kot zibelko številnih razvitih indijanskih civilizacij kot so bili azteki, ter na Kolonializem in nastanka Vicekraljevstva  nova Španija.
 
 #### M156. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Črno-bel prikaz mehiškega življenja preslikan v avto-biografski filem o Alfonsu Cuaronu
+**Črno-bel prikaz mehiškega življenja preslikan v avto-biografski filem o Alfonsu Cuaronu**
+
 Najlepši film 2018. leta po mnenju žirije Cannes-kega festivala, je zgodba o Perujsko–Čilski družini, ki je na začetku 70-tih let 20. stoletja živela v ciudad-de-mexiškem predelu Roma; ob enem je to film s katerim se je eden osrednih pretstavnikov Latinsko-Ameriškega filma, želel pokloniti njegovi domo-rodni varuški Cleo rojeni v sosedni vasi imenovani Rajska Vas v Zvezni Državi Chihuahua. Alfons Cuaronova Roma, tj. Cleoin slavo-spev je celovečeren film, ki prihaja na majhne zaslone a ga je na njih škoda gledati pa čeprav bo že v 2. tednih na voljo tudi na Netflixevi platformi. Cuaron si je zato privoščil izredni pro-račun (126,3 miljonov Evrov) saj je hišo njegovega otroštva spet opremil, in uredil točno tako kot se je vtisnila v svoj otroški spomin – samo ta poseg je stal 15,000,000 evrov. Cuaron - režiser odgovoren za mojstrovini Gravitacija in Jaz Pa Tebi Mamo -, je tako posnel črno-bel film o družini razpeti med zgodbami znanimi iz življenja v veliki Metropoli. Ljubezen med Antoniom in Sofio, se je že izpela, imata pa otroke odvisne od njiju. Antonio, nekega dne odpotuje v Quebec od koder se ne bo nikoli več vrnil pa čeprav Sofiini otroci še dolgo poslušajo laži, češ, da se Antonijovo quebecovško potovanje podalšuje v nedogled. Za družino, v glavnem skrbi Cleoina pridna roka, tako, da se varuška na otroke močno naveže, in bi za njih storila karkoli je treba. Ob opisu življenja, pa Cuaron v njegovem črno belem filmu pripoveduje tudi o zgodovini Chihuahuae, protestih, pa tudi privilegijih mehiške Buržoazije hkrati pa se dotakne časov vezanih na Mehiko kot zibelko številnih civilizacij kot so bili azteki, maji in drugi indijanci ter na Kolonializem in Vicekraljestvo nova Španija ( 1535–1821 ) razpadlega v 19 stoletju.
 
 #### M157. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Maroko prekinja sodelovanje v Državljanski Vojni v Jemenu ( 2015 – )
+**Maroko prekinja sodelovanje v Državljanski Vojni v Jemenu ( 2015 – )**
+
 Maroko, je prekinil sodelovanje v boju Koalicije pod vodstvom saudske Arabije proti Hutijevskim upornikom v Jemenu, t.i. Zeleni Strehi Arabije. Savdska Arabija se je pred 5. leti, vključila v boj proti Šiitskim Hutijevskim upornikom, ki so 2014 leta v imenu Islama in Džihada zavzeli večino Jemena. S logistično podporo Združenih Držav Amerike in Združenega Kraljestva Velike Britanije in Severne Irske, je Koalicija izvedla več kot 18,000 napadov na območja hutijevcev. V napadih usmerjenih predvsem na urbana območja je umrlo deset tisoče civilistov. Po ocenah, je od posredovanja Savdske Koalicije umrlo že 85,000 otrok. Štiri letna jemnska vojna je sprožila najhujšo humanitarno krizo na Svetu. Na robu lakote, je 14,000,000 ljudi, oziroma, polovica prebivalstva. Cene hrane, so se zvišale za 68.6-odstotkov, cene proizvodov kot so bencin, gorivo in plin, pa so se v obdobju od 2015-2018 za najmanj 25%. Maroko je njegovo sodelovanje v vojni okrnil že leta 2015, ko so hutijevci sestrelili marokovsko vojaško letalo F-15 Eagle namenjeno čez Veliko Arabsko Puščavo. Marokovski Kralj Mohamed VI ni gostil savdskega Princa na njegovi turneji po arabskih državah češ, da ima »prenatrpan urnik.«. Salman se je za turnejo odločil v času kritik mednarodne skupnosti, zlasti Europske Unije zaradi Vojne v Jemnu. Maroko (uradno Islamska Kraljevina Maroko) je obmorska država v severo-zahodni Afriki. Na severu, meji na Sredozemsko Morje in Gibraltarsko Ožino, na zahodu na atlantik, na vzhodu na Alžirijo s katero ima zaprto mejo ter na jugo-zahodu na Zahodno saharo katere del sta okupirala skupaj z Mavretanijo. Ime Maroka v prevodu pomeni »Zahodno Kraljestvo.«
 
 #### M158. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Maroko prekinja sodelovanje v Državljanski Vojni v Jemenu1 ( 2015 – ) 
-Maroko, je prekinil sodelovanje v boju Koalicije pod vodstvom saudske Arabije proti Hutijevskim 2 
-upornikom v Jemenu, t.i. Zeleni Strehi Arabije. Savdska Arabija se je pred 5. leti, vključila v boj proti Šiitskim3 
-Hutijevskim upornikom, ki so 2014 leta v imenu Islama in Džihada4 zavzeli večino Jemena. S logistično 
-podporo Združenih Držav Amerike in Združenega Kraljestva Velike Britanije in Severne Irske, je Koalicija 
-izvedla več kot 18,000 napadov na območja hutijevcev. V napadih usmerjenih predvsem na urbana območja 
-je umrlo deset tisoče civilistov. Po ocenah, je od posredovanja Savdske Koalicije umrlo že 85,000 otrok. Štiri 
-letna jemnska vojna je sprožila najhujšo humanitarno krizo na Svetu. Na robu lakote, je 14,000,000 ljudi, 
-oziroma, polovica prebivalstva. Cene hrane, so se zvišale za 68.6-odstotkov, cene proizvodov kot so bencin, 
-gorivo in plin, pa so se v obdobju od 2015-2018 za najmanj 25%. Maroko je njegovo sodelovanje v vojni okrnil 
-že leta 2015, ko so hutijevci sestrelili marokovsko vojaško letalo F-15 Eagle namenjeno čez Veliko Arabsko 
-Puščavo. Marokovski Kralj Mohamed VI ni gostil savdskega Princa na njegovi turneji po arabskih državah češ, 
-da ima »prenatrpan urnik.«. Salman se je za turnejo odločil v času kritik mednarodne skupnosti, zlasti 
-Europske Unije zaradi Vojne v Jemnu. Maroko (uradno Islamska Kraljevina Maroko) je obmorska država v 
-severo-zahodni Afriki. Na severu, meji na Sredozemsko Morje in Gibraltarsko Ožino, na zahodu na atlantik, 
-na vzhodu na Alžirijo s katero ima zaprto mejo ter na jugo-zahodu na Zahodno saharo katere del sta okupirala 
-skupaj z Mavretanijo. Ime Maroka v prevodu pomeni »Zahodno Kraljestvo.« 
-                                                 
-1 Izg. [jémə⁠n] 
-2 Politično, versko in ideološko gibanje. 
-3 Šiizem je druga največja denominacija znotraj islamske vere. 
-4 Sveta vojna pri muslimanih.
+**Maroko prekinja sodelovanje v Državljanski Vojni v Jemenu[^m158-1] ( 2015 – )**
+
+Maroko, je prekinil sodelovanje v boju Koalicije pod vodstvom saudske Arabije proti Hutijevskim[^m158-2] upornikom v Jemenu, t.i. Zeleni Strehi Arabije. Savdska Arabija se je pred 5. leti, vključila v boj proti Šiitskim[^m158-3] Hutijevskim upornikom, ki so 2014 leta v imenu Islama in Džihada[^m158-4] zavzeli večino Jemena. S logistično podporo Združenih Držav Amerike in Združenega Kraljestva Velike Britanije in Severne Irske, je Koalicija izvedla več kot 18,000 napadov na območja hutijevcev. V napadih usmerjenih predvsem na urbana območja je umrlo deset tisoče civilistov. Po ocenah, je od posredovanja Savdske Koalicije umrlo že 85,000 otrok. Štiri letna jemnska vojna je sprožila najhujšo humanitarno krizo na Svetu. Na robu lakote, je 14,000,000 ljudi, oziroma, polovica prebivalstva. Cene hrane, so se zvišale za 68.6-odstotkov, cene proizvodov kot so bencin, gorivo in plin, pa so se v obdobju od 2015-2018 za najmanj 25%. Maroko je njegovo sodelovanje v vojni okrnil že leta 2015, ko so hutijevci sestrelili marokovsko vojaško letalo F-15 Eagle namenjeno čez Veliko Arabsko Puščavo. Marokovski Kralj Mohamed VI ni gostil savdskega Princa na njegovi turneji po arabskih državah češ, da ima »prenatrpan urnik.«. Salman se je za turnejo odločil v času kritik mednarodne skupnosti, zlasti Europske Unije zaradi Vojne v Jemnu. Maroko (uradno Islamska Kraljevina Maroko) je obmorska država v severo-zahodni Afriki. Na severu, meji na Sredozemsko Morje in Gibraltarsko Ožino, na zahodu na atlantik, na vzhodu na Alžirijo s katero ima zaprto mejo ter na jugo-zahodu na Zahodno saharo katere del sta okupirala skupaj z Mavretanijo. Ime Maroka v prevodu pomeni »Zahodno Kraljestvo.«
+
+[^m158-1]: Izg. [jémə⁠n]
+
+[^m158-2]: Politično, versko in ideološko gibanje.
+
+[^m158-3]: Šiizem je druga največja denominacija znotraj islamske vere.
+
+[^m158-4]: Sveta vojna pri muslimanih.
 
 #### M159. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Slapnik - zapuščeno vas v goriških Brdah - bodo obnovili na TVju
-Vasica Slapnik sredi Goriških Brd, je že od 70-tih let zapuščena, zaradi privlačne lege in predvsem arhitekture, pa potekajo prizadevanja za njeno oživitev v okviru infrastrukturnih skladov Evropske Unije, njihov pristop pa boste lahko videli tudi na TV-Slovenija: »V popolnoma izpraznjenemu Slapniku, se boste spraševali kdo in kako so Slapenci živeli, kam so se odselili, in zakaj. Organizator - Občina Brda -, je zainteresiranim vlagateljem ponudila pomoč in jim pomaga pri iskanju zemljišč primernih za gradnjo in gradbenih dovoljenj. Tako, bo posneta odaja o obnovi vasi posneta v realnem času, na vaših TV zaslonih pa jo boste lahko spremlali od 2019-2021. Tudi o ceni projekta Nova Vas Za Vse Nas ni znanega ničesar, celotna stvar pa naj bi stala 4,700,000 Evrov. Po besedah Direktorice brdjanske Občinske Uprave Anite Manfreda, bo ta vasica postala en hotel razpršen med številnimi hišami. »Vasica, ki sicer propada je polna motivov izvirajočih iz 18-stoletja in prelepih kamno-seških detajlov vtkanih v teksturo mesta«, še piše v opisu »edine Brdovske vasi v kateri ne živi nihče več« na spletni strani posvečeni vasici v okviru Turistično-informacijskega centra Brda / Collio. To je bilo sicer, nekdaj naselje premožnih kmetov, ki so njihove pridelke - predvsem drva in kostanje - prodajali v Italjanska mesta in v Obalo, doma pa so zase pridelali vse kar je bilo potrebno za preživetje. Tako naj bi bilo tudi v času prenove, z šovom pa bodo lepoto Briške pokrajine in Slovenije ponesli po vsemu svetu kar je ravno to kar si ta regija zasluži in to česar občina ni zmogla dati v njen plan dela. Z novo finančno inekcijo Evropskega Investicijskega Sklada in drugih vlagateljev vpletenih v projekt bo zgodba končno dobila srečni konec.
+**Slapnik - zapuščeno vas v goriških Brdah - bodo obnovili na TVju**
+
+Vasica Slapnik sredi Goriških Brd, je že od 70-tih let zapuščena, zaradi privlačne lege in predvsem arhitekture, pa potekajo prizadevanja za njeno oživitev v okviru infra‑strukturnih skladov Evropske Unije, njihov pristop pa boste lahko videli tudi na TV-Slovenija: »V popolnoma izpraznjenemu Slapniku, se boste spraševali kdo in kako so Slapenci živeli, kam so se odselili, in zakaj. Organizator - Občina Brda -, je zainteresiranim vlagateljem ponudila pomoč in jim pomaga pri iskanju zemljišč primernih za gradnjo in gradbenih dovoljenj. Tako, bo posneta odaja o obnovi vasi posneta v realnem času, na vaših TV zaslonih pa jo boste lahko spremlali od 2019-2021. Tudi o ceni projekta Nova Vas Za Vse Nas ni znanega ničesar, celotna stvar pa naj bi stala 4,700,000 Evrov. Po besedah Direktorice brdjanske Občinske Uprave Anite Manfreda, bo ta vasica postala en hotel razpršen med številnimi hišami. »Vasica, ki sicer propada je polna motivov izvirajočih iz 18-stoletja in prelepih kamno-seških detajlov vtkanih v teksturo mesta«, še piše v opisu »edine Brdovske vasi v kateri ne živi nihče več« na spletni strani posvečeni vasici v okviru Turistično-informacijskega centra Brda / Collio. To je bilo sicer, nekdaj naselje premožnih kmetov, ki so njihove pridelke - predvsem drva in kostanje - prodajali v Italjanska mesta in v Obalo, doma pa so zase pridelali vse kar je bilo potrebno za preživetje. Tako naj bi bilo tudi v času prenove, z šovom pa bodo lepoto Briške pokrajine in Slovenije ponesli po vsemu svetu kar je ravno to kar si ta regija zasluži in to česar občina ni zmogla dati v njen plan dela. Z novo finančno inekcijo Evropskega Investicijskega Sklada in drugih vlagateljev vpletenih v projekt bo zgodba končno dobila srečni konec.
 
 #### M160. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Slapnik - zapuščeno vas v goriških Brdah - bodo obnovili na TVju 
-Vasica Slapnik sredi Goriških Brd, je že od 70-tih let zapuščena, zaradi privlačne lege in 
-predvsem arhitekture, pa potekajo prizadevanja za njeno oživitev v okviru infra-strukturnih 
-skladov Evropske Unije, njihov pristop pa boste lahko videli tudi na TV-Slovenija: »V 
-popolnoma izpraznjenemu Slapniku, se boste spraševali kdo in kako so Slapenci živeli, kam 
-so se odselili, in zakaj. Organizator - Občina Brda -, je zainteresiranim vlagateljem ponudila 
-pomoč in jim pomaga pri iskanju zemljišč primernih za gradnjo in gradbenih dovoljenj. Tako, 
-bo posneta odaja o obnovi vasi posneta v realnem času, na vaših TV zaslonih pa jo boste lahko 
-spremlali od 2019-2021. Tudi o ceni projekta Nova Vas Za Vse Nas ni znanega ničesar, celotna 
-stvar pa naj bi stala 4,700,000 Evrov. Po besedah Direktorice brdjanske Občinske Uprave 
-Anite Manfreda, bo ta vasica postala en hotel razpršen med številnimi hišami. »Vasica, ki sicer 
-propada je polna motivov izvirajočih iz 18-stoletja in prelepih kamno-seških detajlov vtkanih 
-v teksturo mesta«, še piše v opisu »edine Brdovske vasi v kateri ne živi nihče več« na spletni 
-strani posvečeni vasici v okviru Turistično-informacijskega centra Brda / Collio. To je bilo 
-sicer, nekdaj naselje premožnih kmetov, ki so njihove pridelke - predvsem drva in kostanje - 
-prodajali v Italjanska mesta in v Obalo, doma pa so zase pridelali vse kar je bilo potrebno za 
-preživetje. Tako naj bi bilo tudi v času prenove, z šovom pa bodo lepoto Briške pokrajine in 
-Slovenije ponesli po vsemu svetu kar je ravno to kar si ta regija zasluži in to česar občina ni 
-zmogla dati v njen plan dela. Z novo finančno inekcijo Evropskega Investicijskega Sklada in 
-drugih vlagateljev vpletenih v projekt bo zgodba končno dobila srečni konec.
+**Slapnik - zapuščeno vas v goriških Brdah - bodo obnovili na TVju**
+
+Vasica Slapnik sredi Goriških Brd, je že od 70-tih let zapuščena, zaradi privlačne lege in predvsem arhitekture, pa potekajo prizadevanja za njeno oživitev v okviru infra-strukturnih skladov Evropske Unije, njihov pristop pa boste lahko videli tudi na TV-Slovenija: »V popolnoma izpraznjenemu Slapniku, se boste spraševali kdo in kako so Slapenci živeli, kam so se odselili, in zakaj. Organizator - Občina Brda -, je zainteresiranim vlagateljem ponudila pomoč in jim pomaga pri iskanju zemljišč primernih za gradnjo in gradbenih dovoljenj. Tako, bo posneta odaja o obnovi vasi posneta v realnem času, na vaših TV zaslonih pa jo boste lahko spremlali od 2019-2021. Tudi o ceni projekta Nova Vas Za Vse Nas ni znanega ničesar, celotna stvar pa naj bi stala 4,700,000 Evrov. Po besedah Direktorice brdjanske Občinske Uprave Anite Manfreda, bo ta vasica postala en hotel razpršen med številnimi hišami. »Vasica, ki sicer propada je polna motivov izvirajočih iz 18-stoletja in prelepih kamno-seških detajlov vtkanih v teksturo mesta«, še piše v opisu »edine Brdovske vasi v kateri ne živi nihče več« na spletni strani posvečeni vasici v okviru Turistično-informacijskega centra Brda / Collio. To je bilo sicer, nekdaj naselje premožnih kmetov, ki so njihove pridelke - predvsem drva in kostanje - prodajali v Italjanska mesta in v Obalo, doma pa so zase pridelali vse kar je bilo potrebno za preživetje. Tako naj bi bilo tudi v času prenove, z šovom pa bodo lepoto Briške pokrajine in Slovenije ponesli po vsemu svetu kar je ravno to kar si ta regija zasluži in to česar občina ni zmogla dati v njen plan dela. Z novo finančno inekcijo Evropskega Investicijskega Sklada in drugih vlagateljev vpletenih v projekt bo zgodba končno dobila srečni konec.
 
 #### M161. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Maroko prekinja sodelovanje v Državljanski Vojni v Jemenu1 ( 2015 – ) 
-Maroko, je prekinil sodelovanje v boju Koalicije pod vodstvom saudske Arabije proti 
-Hutijevskim2 upornikom v Jemenu, t.i. Zeleni Strehi Arabije. Savdska Arabija se je pred 5. 
-leti, vključila v boj proti Šiitskim3 Hutijevskim upornikom, ki so 2014 leta v imenu Islama 
-in Džihada 4 zavzeli večino Jemena. S logistično podporo Združenih Držav Amerike in 
-Združenega Kraljestva Velike Britanije in Severne Irske, je Koalicija izvedla več kot 18,000 
-napadov na območja hutijevcev. V napadih usmerjenih predvsem na urbana območja je 
-umrlo deset tisoče civilistov. Po ocenah, je od posredovanja Savdske Koalicije umrlo že 
-85,000 otrok. Štiri letna jemnska vojna je sprožila najhujšo humanitarno krizo na Svetu. Na 
-robu lakote, je 14,000,000 ljudi, oziroma, polovica prebivalstva. Cene hrane, so se zvišale 
-za 68.6-odstotkov, cene proizvodov kot so bencin, gorivo in plin, pa so se v obdobju od 
-2015-2018 za najmanj 25%. Maroko je njegovo sodelovanje v vojni okrnil že leta 2015, ko 
-so hutijevci sestrelili marokovsko vojaško letalo F-15 Eagle namenjeno čez Veliko Arabsko 
-Puščavo. Marokovski Kralj Mohamed VI ni gostil savdskega Princa na njegovi turneji po 
-arabskih državah češ, da ima »prenatrpan urnik.«. Salman se je za turnejo odločil v času 
-kritik mednarodne skupnosti, zlasti Europske Unije zaradi Vojne v Jemnu. Maroko (uradno 
-Islamska Kraljevina Maroko) je obmorska država v severo-zahodni Afriki. Na severu, meji 
-na Sredozemsko Morje in Gibraltarsko Ožino, na zahodu na atlantik, na vzhodu na Alžirijo 
-s katero ima zaprto mejo ter na jugo-zahodu na Zahodno saharo katere del sta okupirala 
-skupaj z Mavretanijo. Ime Maroka v prevodu pomeni »Zahodno Kraljestvo.« 
-                                                 
-1 Izg. [jémə⁠n] 
-2 Politično, versko in ideološko gibanje. 
-3 Šiizem je druga največja denominacija znotraj islamske vere. 
-4 Sveta vojna pri muslimanih.
+**Maroko prekinja sodelovanje v Državljanski Vojni v Jemenu[^m161-1] ( 2015 – )**
+
+Maroko, je prekinil sodelovanje v boju Koalicije pod vodstvom saudske Arabije proti Hutijevskim[^m161-2] upornikom v Jemenu, t.i. Zeleni Strehi Arabije. Savdska Arabija se je pred 5. leti, vključila v boj proti Šiitskim[^m161-3] Hutijevskim upornikom, ki so 2014 leta v imenu Islama in Džihada[^m161-4] zavzeli večino Jemena. S logistično podporo Združenih Držav Amerike in Združenega Kraljestva Velike Britanije in Severne Irske, je Koalicija izvedla več kot 18,000 napadov na območja hutijevcev. V napadih usmerjenih predvsem na urbana območja je umrlo deset tisoče civilistov. Po ocenah, je od posredovanja Savdske Koalicije umrlo že 85,000 otrok. Štiri letna jemnska vojna je sprožila najhujšo humanitarno krizo na Svetu. Na robu lakote, je 14,000,000 ljudi, oziroma, polovica prebivalstva. Cene hrane, so se zvišale za 68.6-odstotkov, cene proizvodov kot so bencin, gorivo in plin, pa so se v obdobju od 2015-2018 za najmanj 25%. Maroko je njegovo sodelovanje v vojni okrnil že leta 2015, ko so hutijevci sestrelili marokovsko vojaško letalo F-15 Eagle namenjeno čez Veliko Arabsko Puščavo. Marokovski Kralj Mohamed VI ni gostil savdskega Princa na njegovi turneji po arabskih državah češ, da ima »prenatrpan urnik.«. Salman se je za turnejo odločil v času kritik mednarodne skupnosti, zlasti Europske Unije zaradi Vojne v Jemnu. Maroko (uradno Islamska Kraljevina Maroko) je obmorska država v severo-zahodni Afriki. Na severu, meji na Sredozemsko Morje in Gibraltarsko Ožino, na zahodu na atlantik, na vzhodu na Alžirijo s katero ima zaprto mejo ter na jugo-zahodu na Zahodno saharo katere del sta okupirala skupaj z Mavretanijo. Ime Maroka v prevodu pomeni »Zahodno Kraljestvo.«
+
+[^m161-1]: Izg. [jémə⁠n]
+
+[^m161-2]: Politično, versko in ideološko gibanje.
+
+[^m161-3]: Šiizem je druga največja denominacija znotraj islamske vere.
+
+[^m161-4]: Sveta vojna pri muslimanih.
 
 #### M162. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Spursi pripravljeni na novi Prstan - Ginobili ostaja, Aldridge prihaja
+**Spursi pripravljeni na novi Prstan - Ginobili ostaja, Aldridge prihaja**
+
 Po LaMarcusu Aldridgu, se iz Ohio-a k sanantonievskim Spursom seli še en odlični košarkar, David West. Izkušeni 34 letni krilen center, se je v želji po šampionskemu prstanu odpovedal miljonom. Sprejel je namreč minimalno plačo - torej bo v enem letu zaslužil 1.4 miljona dolarjev. Zadnje štiri leta, je igral za Indiano pri kateri je na leto zaslužil 12.8 milijonov dolarjev. West je pred svojo 13-to NBA sezono. Preden je prišel k Pacersom je bil 8. let član neworleanske ekipe. Po Timu Duncanu, pa se je še za eno leto igranja odločil tudi drugi iz velike trojke veteranov, Manu Ginobili. Izvrstni Argentinski branilec, ki bo vkratkem postal 38 letnik, je član San Antonia že 13-let, z Ostrogami pa je osvojil že štiri prstane. Poleg omenjenih veteranov, v texaški ekipi ostajata tudi MVP-finala izpred dveh leti, Kawhi Leonard in Danny Green, ki je polovico sezone igral tudi za Ljubljansko Olimpijo. Gregg Popovich bo s svojimi varovanci v ožjem krogu favoritov za nov naslov. Popovichova ekipa se sicer ni okrepila kot bi se lahko - eden najboljših centrov v NBA Marc Gasol tako ostaja pri memphiskih Grizlijih. Izjemni 30 letni katalonec, je podpisal pet letno pogodbo za 110 miljonov dolarjev. Nemanja Bjelica, ki je bil v minuli sezoni izbran za najkoristnejšega igralca Evrolige, bo bo podpisal pogodbo z Minnesoto. Glede na Bjelicino pogodbo, bo ta v treh letih med Volkovi zaslužil 11.7 milijonov dolarjev. Medtem, se Mo Williams se vrača v Cleveland. V dveh letih zaznamovanih z Mo-jevo vrnitvijo, bo kapitan ekipe. V Clevelandu, je igral dve sezoni in pol, potem pa je bil član charlottskih Sršenov. Drugače pa v svetu NBA najbolj odmeva novica o zadni sezoni zveznika losangeleskih Lakersov Kobe Bryanta – najbolšega igralca zadnih 2. deset-letij.
 
 #### M163. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Zvezna Republika Avstrija izdala seznam poln prepovedanih skrajnih simbolov med katerimi je tudi Ustaški
+**Zvezna Republika Avstrija izdala seznam poln prepovedanih skrajnih simbolov med katerimi je tudi Ustaški**
+
 Na seznamu, je 13. zastav in simbolov kot so simboli Muslimanske Bratovščine, Sivih Volkov in Kurdske Delavske Stranke (PKK), pa tudi Hrvaških Ustašev. Razširjen seznam simbolov prepovedanih v javnem diskurzu, bo stopil v veljavo z 1.3.2019. Že pred tem, so bili prepovedani simboli organizacij kot sta t.i. Islamska Država in al Kaida. Na novemu seznamu, sta se zdaj znašla tudi dva simbola Hrvaških Ustašev in t.i. Volčji pozdrav z rokami Turške skupine Sivi Volkovi. Razširitev simbolov je predlagala avstrijska Vlada, Parlament pa je zakon potrdil. Kršitelji bodo kaznovani s kaznimi visokimi do 4,000 Evrov. Opozicija je, sicer proti posodobitvi Zakona saj dvomi v učinkovitost prepovedi, in na seznamu pogreša skrajno-desne skupine kot so Identitarci. Identitarno gibanje - označeno kot »oblika rasistične ideologije« - se širi po Europski Uniji. Pan-evropsko gibanje - ki v Sloveniji obstaja kot gibanje imenovano Generacija Identitete -, je najvidnejše v Avstriji.
+
 Gibanje, je v mnogo čem podobno Ustašem, ki so bili sicer Hrvaška skupina ustanovaljena za boj proti osmanom od 14. – 16. stoletja. Pogosteje pa se izraz »Ustaši« navezuje na pripadnike Hrvaškega nacionalističnega gibanja z začetkom okoli leta 1930 katerega vodja je bil Ante Pavelić. Izvor Pavelićovega gibanja sega v 1861. leto, s Hrvatsko Stranko Prava (HSP) pod vodstvom Anteta Starčevića. V 20-tih letih ga je nasledil Pavelić, ki se je kmalu povezal s italijanskimi Fašisti. Mussolinijov glaven cilj je bil destabilizirati in porušiti novonastalo Jugoslovansko državo. Med 2 Svetovno vojno (1939 – 1945) so s podporo Nacionalistov, italjanskih Fašistov in Tretjega Rajha postali edina dovoljena stranka na Hrvaškem in ustanovili Neodvisno Državo Hrvaško. V tem obdobju so ubili tristotisoč Srbov, Romov, Judov, Muslimanov in političnih nasprotnikov. Danes se pojavljajo številne neo-nacistične skupine utemeljene na Ante Pavlićovi ideologiji.
 
 #### M164. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-May-ova poziva poslance naj pri Brexit-u »britancev ne pustijo na cedilu«
+**May-ova poziva poslance naj pri Brexit-u »britancev ne pustijo na cedilu«**
+
 Britanska premiejka Theresa May, je pred glasovanjem 13.01.2019 o dogovoru o Brexitu v Britanskem Parlamentu v Westminster Abbeyu poslance pozvala naj podprejo dogovor. A kot kaže, dogovora nebo. May-eva, je poslance naperjene zoper dogovor, opozorila da tvegajo, da bodo »na cedilu pustili Britanske ljudi.« »Dogovor ni popolen a ko se bodo pisale zgodovinske knjige, bo glaven vidik ali smo s glasovanjem potprli dogovor in zaščitili naše gospodarstvo in varnost, ali pa smo pustili britance na cedilu« je po poročanju BBCja dejala Mayeva. Vodja Opozicije Jeremy Corbyn pa ji je odgovoril naj se začne bati za njeno prihodnost. Iztop z Evropske Unije, je največji premik v politiki države v več kot 40. letih, parlament pa bo v torek po pričakovanjih, oziroma napovedih glasoval proti dogovoru. V torek, bo imelo pravico glasovanja 639 poslancev v 650 članskem Spodnjem domu. Po zadnjih projekcijah, naj bi proti dogovoru glasovalo 383 poslancev, tudi najmanj 64 Laburistov. Pred nastopom v parlamentu, je Mayeva v ponedeljek dopoldne nagovorila delovce v mestu Stoke-on-Trent. »V parlamentu, bodo poslanci osredotočeni na preložitev ali celo ustavitev Brexita, uporabili vse kar jim je na voljo da to dosežejo«, je dejala Mayeva. Stoke-on-Trentski volilci so na Referendumu 2016. leta večinsko glasovali za izstop države iz Unije. Mayeva je dodala, da je verjetneje, da bodo poslanci brexit obšli kot pa da bo Združeno Kraljestvo Evropsko Unijo zapustilo brez dogovora vezanega na t.i. Trdi Brexit kar pomeni da je prihodnost unije temačna, ali pa vsaj negotova.
 
 #### M165. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-5.10 Spursi pripravljeni na novi Prstan - Ginobili ostaja, Aldridge prihaja
+**5.10 Spursi pripravljeni na novi Prstan - Ginobili ostaja, Aldridge prihaja**
+
 Po LaMarcusu Aldridgu, se iz Ohio-a k sanantonievskim Spursom seli še en odlični košarkar, David West. Izkušeni 34 letni krilni center, se je v želji po šampionskemu prstanu odpovedal miljonom. Sprejel je namreč minimalno plačo - torej bo v enem letu zaslužil 1.4 miljona dolarjev. Zadnje štiri leta, je igral za Indiano pri kateri je na leto zaslužil 12.8 milijonov dolarjev. West je pred svojo 13-to NBA sezono. Preden je prišel k Pacersom je bil osem let član neworleanske ekipe. Po Timu Duncanu, pa se je še za eno leto igranja odločil tudi drugi iz velike trojke veteranov, Manu Ginobili. Izvrstni Argentinski branilec, ki bo vkratkem postal 38 letnik, je član San Antonia že 13-let, z Ostrogami pa je osvojil že štiri prstane. Poleg omenjenih veteranov, v texaški ekipi ostajata tudi MVP-finala izpred dveh leti, Kawhi Leonard in Danny Green, ki je polovico sezone igral tudi za Ljubljansko Olimpijo. Gregg Popovich bo s svojimi varovanci v ožjem krogu favoritov za nov naslov. Popovichova ekipa se sicer ni okrepila kot bi se lahko - eden najboljših centrov v NBA Marc Gasol tako ostaja pri memphiskih Grizlijih. Izjemni 30 letni katalonec, je podpisal pet letno pogodbo za 110 miljonov dolarjev. Nemanja Bjelica, ki je bil v minuli sezoni izbran za najkoristnejšega igralca Evrolige, bo bo podpisal pogodbo z Minnesoto. Glede na Bjelicino pogodbo, bo ta v treh letih med Volkovi zaslužil 11.7 milijonov dolarjev. Medtem, se Mo Williams se vrača v Cleveland. V dveh letih zaznamovanih z Mo-jevo vrnitvijo, bo kapitan ekipe. V Clevelandu, je igral dve sezoni in pol, potem pa je bil član charlottskih Sršenov. Drugače pa v svetu NBA najbolj odmeva novica o zadni sezoni zveznika losangeleskih Lakersov Kobe Bryanta – najbolšega igralca zadnih 2. deset-letij.
 
 #### M166. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Marco Pierre White v TV podobi Russella Crowe-a in pod režisko taktirko Ridleya Scotta
+**Marco Pierre White v TV podobi Russella Crowe-a in pod režisko taktirko Ridleya Scotta**
+
 Največjega enfant terrible kuharskega sveta znanega po tem da je v jok spravil tudi Gordon Ramseya bodo med ne-smrtne zapisali še s TV filmom posnetem po njegovi življenski zgodbi. Gre za ekranizacijo Whiteove avto-biografije The Devil in the Kitchen (Hudič V Kuhinji), ene največjih knižnih uspešnic napisanih o kateremu koli kuharskem mojstru izdani pri londonski založbi Harrods – po vsem svetu, je bilo prodanih kar 17.5 miljonov izvodov. Bil je 1. zvezniški kuhar v pravemu pomenu besede, t.j. brez dlake na jeziku, obsesivno kompulziven, nadarjen, samo-destruktiven, hedo-nist, itd.. Bil je tudi 1. Britanski chef z 3. michelinovimi zvezdicami. Danes je ta 58 leten anglež upokojen a ima v lasti nekaj lokalov od katerih pa noben zares ne seže do kolen tistemu kar je mlad White obetal. Whiteova TV zgodba, se bo raztezala 50. let (1965 - 2015), tako da naj bi ga upodobilo več igralcev pri čemer se najpogosteje omenja Tom-a Cruise-a, Bruce-a Willis-a, Kevina Spaceya, Richard-a Gere-a, in Gérard-a Depardieu-ja. TV oddaja bo na Prvemu Programu TV-Slovenija na sporedu od 14.2.2020 ob torkih (20:00-21:00). White - kuharski mojster italijansko britanskih korenin -, je v težkih razmerah odraščal v Circular Quayu v Sydneyu ter kljub zgodni mamini smrti in revščini, zrasel v nadarjenega kuharja, ki je še, kot najstnik odšel v London o katerem ni vedel ničesar. Leta 1987. je odprl restavracijo Harvey's, ki je naglo postala kultna, in ki je Whiteu skoraj takoj po odprtju, prinesla svojo prvo michelinko. Takrat je štel 26. let, pri 27. letih je dobil že njegovo drugo. Zaradi njegovih izbruhov jeze v kuhinji, velja za »izvirnega Gordon Ramseyja.« Svet visoke gastronomije utemeljene predvsem na prezentaciji in manj na količini se je v teh 3. desetletjih od 80. let 20-stoletja, korenito spremenil, a glede na to da TV kuharski mojstri danes dejansko veljajo za novo-dobne rock-zvezdnike bo film za gotovo vreden ogleda. Serijo vredno več deset milijonov eurov si je mogoče ogledati tudi na Netflixevi platformi.
 
 #### M167. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo. Vsak nepotreben popravek šteje kot napaka.
 
-Marco Pierre White v TV podobi Russella Crowe-a in pod režisko taktirko Ridleya Scotta 
-Največjega enfant terrible1 kuharskega sveta znanega po tem da je v jok spravil tudi Gordon Ramseya bodo 
-med ne-smrtne zapisali še s TV filmom posnetem po njegovi življenski zgodbi. Gre za ekranizacijo Whiteove 
-avto-biografije The Devil in the Kitchen (Hudič V Kuhinji), ene največjih knižnih uspešnic napisanih o 
-kateremu koli kuharskem mojstru izdani pri londonski založbi Harrods – po vsem svetu, je bilo prodanih kar 
-17.5 miljonov izvodov. Bil je 1. zvezniški kuhar v pravemu pomenu besede, t.j. brez dlake na jeziku, obsesivno 
-kompulziven, nadarjen, samo-destruktiven, hedo-nist, itd.. Bil je tudi 1. Britanski chef z 3. michelinovimi 
-zvezdicami. Danes je ta 58 leten anglež upokojen a ima v lasti nekaj lokalov od katerih pa noben zares ne 
-seže do kolen tistemu kar je mlad White obetal. Whiteova TV zgodba, se bo raztezala 50. let (1965 - 2015), 
-tako da naj bi ga upodobilo več igralcev pri čemer se najpogosteje omenja Tom-a Cruise-a, Bruce-a Willis-a, Kevina Spaceya, Richard-a Gere-a, in Gérard-a Depardieu-ja. TV oddaja bo na Prvemu Programu TV-Slovenija na sporedu od 14.2.2020 ob torkih (20:00-21:00). White - kuharski mojster italijansko britanskih 
-korenin -, je v težkih razmerah odraščal v Circular Quayu2 v Sydneyu ter kljub zgodni mamini smrti in 
-revščini, zrasel v nadarjenega kuharja, ki je še, kot najstnik odšel v London o katerem ni vedel ničesar. Leta 
-1987. je odprl restavracijo Harvey's, ki je naglo postala kultna, in ki je Whiteu skoraj takoj po odprtju, prinesla 
-svojo prvo michelinko. Takrat je štel 26. let, pri 27. letih je dobil že njegovo drugo. Zaradi njegovih izbruhov 
-jeze v kuhinji, velja za »izvirnega Gordon Ramseyja.« Svet visoke gastronomije utemeljene predvsem na 
-prezentaciji in manj na količini se je v teh 3. desetletjih od 80. let 20-stoletja, korenito spremenil, a glede na 
-to da TV kuharski mojstri danes dejansko veljajo za novo-dobne rock-zvezdnike bo film za gotovo vreden 
-ogleda. Serijo vredno več deset milijonov eurov si je mogoče ogledati tudi na Netflixevi platformi. 
- 
- 
-1 [anfán teríbəl] – kdor s svojo prostodušno odkritosrčnostjo spravlja okolico v neprijeten, mučen položaj 
-2 [srkular kí]
+**Marco Pierre White v TV podobi Russella Crowe-a in pod režisko taktirko Ridleya Scotta**
+
+Največjega *enfant terrible*[^m167-1] kuharskega sveta znanega po tem da je v jok spravil tudi Gordon Ramseya bodo med ne-smrtne zapisali še s TV filmom posnetem po njegovi življenski zgodbi. Gre za ekranizacijo Whiteove avto-biografije *The Devil in the Kitchen* (Hudič V Kuhinji), ene največjih knižnih uspešnic napisanih o kateremu koli kuharskem mojstru izdani pri londonski založbi Harrods – po vsem svetu, je bilo prodanih kar 17.5 miljonov izvodov. Bil je 1. zvezniški kuhar v pravemu pomenu besede, t.j. brez dlake na jeziku, obsesivno kompulziven, nadarjen, samo-destruktiven, hedo-nist, itd.. Bil je tudi 1. Britanski chef z 3. michelinovimi zvezdicami. Danes je ta 58 leten anglež upokojen a ima v lasti nekaj lokalov od katerih pa noben zares ne seže do kolen tistemu kar je mlad White obetal. Whiteova TV zgodba, se bo raztezala 50. let (1965 - 2015), tako da naj bi ga upodobilo več igralcev pri čemer se najpogosteje omenja Tom-a Cruise-a, Bruce-a Willis-a, Kevina Spaceya, Richard-a Gere-a, in Gérard-a Depardieu-ja. TV oddaja bo na Prvemu Programu TV-Slovenija na sporedu od 14.2.2020 ob torkih (20:00-21:00). White - kuharski mojster italijansko britanskih korenin -, je v težkih razmerah odraščal v Circular Quayu[^m167-2] v Sydneyu ter kljub zgodni mamini smrti in revščini, zrasel v nadarjenega kuharja, ki je še, kot najstnik odšel v London o katerem ni vedel ničesar. Leta 1987. je odprl restavracijo Harvey's, ki je naglo postala kultna, in ki je Whiteu skoraj takoj po odprtju, prinesla svojo prvo michelinko. Takrat je štel 26. let, pri 27. letih je dobil že njegovo drugo. Zaradi njegovih izbruhov jeze v kuhinji, velja za »izvirnega Gordon Ramseyja.« Svet visoke gastronomije utemeljene predvsem na prezentaciji in manj na količini se je v teh 3. desetletjih od 80. let 20-stoletja, korenito spremenil, a glede na to da TV kuharski mojstri danes dejansko veljajo za novo-dobne rock-zvezdnike bo film za gotovo vreden ogleda. Serijo vredno več deset milijonov eurov si je mogoče ogledati tudi na Netflixevi platformi.
+
+[^m167-1]: [anfán teríbəl] – kdor s svojo prostodušno odkritosrčnostjo spravlja okolico v neprijeten, mučen položaj
+
+[^m167-2]: [srkular kí]
 
 #### M168. Pravopisna ureditev besedila
 
 Pravopisno popravite spodnje besedilo.
 
-Peko d.d. skupaj s tradicijo staro 113. let v stečaj
-Na sesti Sainte Marie aux Mines v Tržiču bo potihnila legendarna tovarna - tržaški Peko, d.d. z okoli 250. zaposlenimi, bo kot kaže končal v stečaju. Predvidena dokapitalizacija v višini 4.4 miljonov evrov, ni uspela, družba je in-solventna. Da se tržičskega Pekota neda rešiti so včeraj ugotovili nadzorniki, zato bo Uprava podjetja najverjetneje že danes, na sodišče vložila predlog za uvedbo stečaja. Sodišče bo imelo 15. dni, da odloči o predlogu. Peko - ta ima od konca lanskega leta blokirane račune je tako septembra, tudi zadnič sodeloval na Šuštarski Nedelji. V zlatih časih prireditve, je bila ta vezana predvsem na Peko, zadnja leta pa je sodeloval le, kot eksteren partner. S stečajem, se bo končalo 17 letno obdobje negotovosti (1999-2016). Po številnih predlogih za sanacijo, je tako upanja konec. Spomnimo, da je država leta 2011 s šestimi milijoni evrov že dokapitalizirala tržaško družbo. Stopnja nezaposlenosti v Tržiču, je že največja med vsemi gorenskimi Občinami, t.j. kar 10.7 odstotna. Gorenjska, je sicer regija z najnižo stopnjo brezposelnosti v državi (7,9 odstotkov) a ima prav tržaško okolje izrazito ne ugodne kazavce. Skoraj 50% nezaposlenih, predstavljajo ženske, dolgo trajno brezposelnih je skoraj polovica od 13,680 brezposelnih, 43% pa je starejših od 50. let. Po pričakovanjih, bo na zavodu pristalo okoli šesto Pekotovih delavcov. Tržiški Župan Borut Sajovic pravi, da se je bilo treba damoklejevega meča Peko-a rešiti preden bi bilo prepozno: »občina je pri tem omejena a dokler bomo lahko bomo vedno priskočili na pomoč. Pomagamo lahko na socialnemu področju, gledamo pa tudi naprej«. Dodaja, da dozdajšne »kampansko reševanje«, ni prineslo nič dobrega in da se bo treba zatekati k visoko tehnološkim rešitvam kot to počnejo pri žirovski Alpini odkar se je začela kriza.2. del. Štejejo le odgovori, napisani na črte.
+**Peko d.d. skupaj s tradicijo staro 113. let v stečaj**
+
+Na sesti Sainte Marie aux Mines v Tržiču bo potihnila legendarna tovarna - tržaški Peko, d.d. z okoli 250. zaposlenimi, bo kot kaže končal v stečaju. Predvidena dokapitalizacija v višini 4.4 miljonov evrov, ni uspela, družba je in-solventna. Da se tržičskega Pekota neda rešiti so včeraj ugotovili nadzorniki, zato bo Uprava podjetja najverjetneje že danes, na sodišče vložila predlog za uvedbo stečaja. Sodišče bo imelo 15. dni, da odloči o predlogu. Peko - ta ima od konca lanskega leta blokirane račune je tako septembra, tudi zadnič sodeloval na Šuštarski Nedelji. V zlatih časih prireditve, je bila ta vezana predvsem na Peko, zadnja leta pa je sodeloval le, kot eksteren partner. S stečajem, se bo končalo 17 letno obdobje negotovosti (1999-2016). Po številnih predlogih za sanacijo, je tako upanja konec. Spomnimo, da je država leta 2011 s šestimi milijoni evrov že dokapitalizirala tržaško družbo. Stopnja nezaposlenosti v Tržiču, je že največja med vsemi gorenskimi Občinami, t.j. kar 10.7 odstotna. Gorenjska, je sicer regija z najnižo stopnjo brezposelnosti v državi (7,9 odstotkov) a ima prav tržaško okolje izrazito ne ugodne kazavce. Skoraj 50% nezaposlenih, predstavljajo ženske, dolgo trajno brezposelnih je skoraj polovica od 13,680 brezposelnih, 43% pa je starejših od 50. let. Po pričakovanjih, bo na zavodu pristalo okoli šesto Pekotovih delavcov. Tržiški Župan Borut Sajovic pravi, da se je bilo treba damoklejevega meča Peko-a rešiti preden bi bilo prepozno: »občina je pri tem omejena a dokler bomo lahko bomo vedno priskočili na pomoč. Pomagamo lahko na socialnemu področju, gledamo pa tudi naprej«. Dodaja, da dozdajšne »kampansko reševanje«, ni prineslo nič dobrega in da se bo treba zatekati k visoko tehnološkim rešitvam kot to počnejo pri žirovski Alpini odkar se je začela kriza.
 
 #### M169. Pravopisna ureditev besedila
 
@@ -10247,7 +10056,11 @@ naselje loški potok je središče istoimenske občine, ki leži na meji med dol
 
 Vstavite velike začetnice. Popravite tudi druge pravopisne napake.
 
-na ul. stare pravde v ljubljani je zdravstveni dom, kamor moram priti, pa nimam pojma, kje je to. prosila bi, če mi lahko kdo razloži, kako priti iz šentjakoba do zdravstvenega doma na ulico stare pravde. hvala in lp. ulica stare pravde se nahaja blizu pediatrične klinike. lahko parkirate pri pediatrični kliniki in greste potem naravnost proti mestu, zavijete desno in tam boste videli poljansko gimnazijo, zavijete v ulico in kmalu boste videli ulico stare pravde.
+na ul. stare pravde v ljubljani je zdravstveni dom, kamor moram priti, pa nimam pojma, kje je to.
+
+prosila bi, če mi lahko kdo razloži, kako priti iz šentjakoba do zdravstvenega doma na ulico stare pravde. hvala in lp.
+
+ulica stare pravde se nahaja blizu pediatrične klinike. lahko parkirate pri pediatrični kliniki in greste potem naravnost proti mestu, zavijete desno in tam boste videli poljansko gimnazijo, zavijete v ulico in kmalu boste videli ulico stare pravde.
 
 #### M171. Pravopisna ureditev besedila
 
@@ -10265,7 +10078,9 @@ veliko nedeljo štejemo med urbane naselbine predvsem zaradi njene cerkvenouprav
 
 Vstavite velike začetnice. Popravite tudi druge pravopisne napake.
 
-5. mednarodni maraton preddvor - železna kapla. organizatorji: občina železna kapla, občina preddvor in klub trmastih preddvor. start maratona je na nadm.v. 478m. proga se prvih 26 km počasi vzpenja do jezerskega vrha , ki je na višini 1218 m in se nato v naslednjih 16 km spusti v železno kaplo, ki je na nadm.v. 555m. celotna proga je asfaltna saj poteka po mednarodni cesti. v nedeljo 23. junija smo bili boj z vročino! v senci je bilo kar 33 °C. v hudi pripeki je od 52 prijavljenih prišlo do cilja 39 tekačev, več ali manj dehidriranih. okrepčevalnice smo imeli na 5 km, vendar brez lastnega spremstva skoraj ni bilo možno priteči do cilja, saj je le stalno hlajenje z vodo omogočalo »preživetje«. absolutni zmagovalec je bil anton vencelj iz šentvida pri stični, v ženski konkurenci pa je bila prva na cilju silva vivod iz maribora. moralni zmagovalci so vsi, ki so v takih pogojih pritekli v železno kaplo! bravo! po končanem maratonu je bil na cilju še zabavni program z »jedačo in pijačo«. za pomoč pri izvedbi maratona se zahvaljujemo vsem tekaškim navdušencem, ki so pomagali pri izvedbi prireditve in fundaciji za šport republike slovenije za finančno pomoč.
+5\. mednarodni maraton preddvor - železna kapla. organizatorji: občina železna kapla, občina preddvor in klub trmastih preddvor. start maratona je na nadm.v. 478m. proga se prvih 26 km počasi vzpenja do jezerskega vrha , ki je na višini 1218 m in se nato v naslednjih 16 km spusti v železno kaplo, ki je na nadm.v. 555m. celotna proga je asfaltna saj poteka po mednarodni cesti.
+
+v nedeljo 23. junija smo bili boj z vročino! v senci je bilo kar 33 °C. v hudi pripeki je od 52 prijavljenih prišlo do cilja 39 tekačev, več ali manj dehidriranih. okrepčevalnice smo imeli na 5 km, vendar brez lastnega spremstva skoraj ni bilo možno priteči do cilja, saj je le stalno hlajenje z vodo omogočalo »preživetje«. absolutni zmagovalec je bil anton vencelj iz šentvida pri stični, v ženski konkurenci pa je bila prva na cilju silva vivod iz maribora. moralni zmagovalci so vsi, ki so v takih pogojih pritekli v železno kaplo! bravo! po končanem maratonu je bil na cilju še zabavni program z »jedačo in pijačo«. za pomoč pri izvedbi maratona se zahvaljujemo vsem tekaškim navdušencem, ki so pomagali pri izvedbi prireditve in fundaciji za šport republike slovenije za finančno pomoč.
 
 #### M174. Pravopisna ureditev besedila
 
@@ -10277,67 +10092,19 @@ zmajski most čez ljubljanico je nadomestil starejšega, lesenega, imenovanega m
 
 Pravopisno popravite.
 
-Z predsednikom Grške vlade Kostas-om Simitis-om so včeraj, v Slovenijo pripotovali tudi 
-pretstavniki grških podjetij. » Mislim, da je poglavitni razlog za skromno gospodarsko sodelovanje 
-met Slovenijo in Grčijo, obojestranska slaba obveščenost o razmerah v državah«, je za Delo 
-povedal Ulysses Kyriacop-oulos, predsednik Federacije grških industrij največjega združenja 
-
-
-
-delodajalcev v tej Balkanski državi. Z njim so v Slovenijo na poslovne pogovore s ( potencialnimi ) 
-slovenskimi partnerji pripotovali tudi predstavniki več kakor 20-tih Grških podjetij. Po besedah 
-Kyriacopoulosa, se grška poslovna elita zav-eda, da je Slovenija politično stabilna in daleč 
-najrazvitejša tranzicijska država katere BDP na prebi-valca že presega 10.000 Dolarjev. »nekatere 
-večje gospodarske družbe, so tudi zainteresirane za neposredna vlaganja v slovensko gospodarstvo 
-in sicer zlasti prek sodelovanja v privatizaciji več vaših podjetij, ki so sedaj še v državni lasti, « je 
-povdaril Kyriacopoulos, in dodal, da »bi bilo dobro, če bi grška in slovenska podjetja začela 
-razmišljati o skupnih nastopih na balkanskih in drugih trgih.« Slovenija v Grčijo izvaža predvsem 
-električne pretočne grelnike, avto-plašče, papir in papirne izdelke ter električne akumulatorje, od 
-tam pa uvaža naftne derivate agrume nepredelan tobak, aluminijev oks-id in moška oblačila. Kot 
-ugotavla Marko Jare, samostojni svetovalec pri GZS bi morala slovenska podjetja, ki želijo prodreti 
-na ta 10milijonski trg upoštevati dejstvo, da je »grški kupec v primerjavi z drugimi evropskimi 
-potrošniki, bolj podvržen oglaševanju za določen proizvod. Grška podjetja porabijo povprečno kar 
-okoli 5% svojih prihodkov za komuniciranje z trgom.  Ker približno 40 %  Grkov živi na širšem 
-območju Aten se je treba pri oglaševanju čimbolj posvečati prav glavn- emu mestu in njegovi 
-okolici«. V okviru Evropske Unije sodi Grčija med najmanj razvite članice; po BDP na prebivalca 
-prekaša le Portugalsko. V 90. letih je bila grška gospodarska rast zelo skromna in sicer iz več 
-razlogov : razmeroma visok delež kmetijstva v strukturi BDP (9 % ) prevladujoče državno last-ništvo v podjetjih, dokaj majhna industrijska baza, slabo razvita telekomunikacijska infra-struktura, 
-na tamkajšnje gospodarstvo pa je zlo negativno vplivala,tudi vojna na območju nekdanje 
-jugoslavije.Gr- ška vlada je pred dvema letoma sprejela obsežen program privatizacije, po katerem 
-naj bi v zasebno last prešla velika večina najpomembnejših državnih, industrijskih podjetij, bank in 
-zavarovalnic.
+Z predsednikom Grške vlade Kostas-om Simitis-om so včeraj, v Slovenijo pripotovali tudi pretstavniki grških podjetij. » Mislim, da je poglavitni razlog za skromno gospodarsko sodelovanje met Slovenijo in Grčijo, obojestranska slaba obveščenost o razmerah v državah«, je za Delo povedal Ulysses Kyriacop-oulos, predsednik Federacije grških industrij največjega združenja delodajalcev v tej Balkanski državi. Z njim so v Slovenijo na poslovne pogovore s ( potencialnimi ) slovenskimi partnerji pripotovali tudi predstavniki več kakor 20-tih Grških podjetij. Po besedah Kyriacopoulosa, se grška poslovna elita zav-eda, da je Slovenija politično stabilna in daleč najrazvitejša tranzicijska država katere BDP na prebi-valca že presega 10.000 Dolarjev. »nekatere večje gospodarske družbe, so tudi zainteresirane za neposredna vlaganja v slovensko gospodarstvo in sicer zlasti prek sodelovanja v privatizaciji več vaših podjetij, ki so sedaj še v državni lasti, « je povdaril Kyriacopoulos, in dodal, da »bi bilo dobro, če bi grška in slovenska podjetja začela razmišljati o skupnih nastopih na balkanskih in drugih trgih.« Slovenija v Grčijo izvaža predvsem električne pretočne grelnike, avto-plašče, papir in papirne izdelke ter električne akumulatorje, od tam pa uvaža naftne derivate agrume nepredelan tobak, aluminijev oks-id in moška oblačila. Kot ugotavla Marko Jare, samostojni svetovalec pri GZS bi morala slovenska podjetja, ki želijo prodreti na ta 10milijonski trg upoštevati dejstvo, da je »grški kupec v primerjavi z drugimi evropskimi potrošniki, bolj podvržen oglaševanju za določen proizvod. Grška podjetja porabijo povprečno kar okoli 5% svojih prihodkov za komuniciranje z trgom.  Ker približno 40 %  Grkov živi na širšem območju Aten se je treba pri oglaševanju čimbolj posvečati prav glavn- emu mestu in njegovi okolici«. V okviru Evropske Unije sodi Grčija med najmanj razvite članice; po BDP na prebivalca prekaša le Portugalsko. V 90. letih je bila grška gospodarska rast zelo skromna in sicer iz več razlogov : razmeroma visok delež kmetijstva v strukturi BDP (9 % ) prevladujoče državno last-ništvo v podjetjih, dokaj majhna industrijska baza, slabo razvita telekomunikacijska infra-struktura, na tamkajšnje gospodarstvo pa je zlo negativno vplivala,tudi vojna na območju nekdanje jugoslavije.Gr- ška vlada je pred dvema letoma sprejela obsežen program privatizacije, po katerem naj bi v zasebno last prešla velika večina najpomembnejših državnih, industrijskih podjetij, bank in zavarovalnic.
 
 #### M176. Pravopisna ureditev besedila
 
 Pravopisno popravite.
 
-Pomurci pijejo najbolj oporečno in zdravju škodljivo vodo v državi. Zaradi melioracij in zložb 
-zemljišč v preteklosti ter dolgih sušnih obdobij v zadnjih nekaj letih, jim pitne vode zaradi kritično 
-znižane gladine podtalnice vedno bolj tudi primankuje, še posebej na Goričkem. Zato je na sobotni 
-večerni pogovor o vodi, kot viru življenja in smrti, ki sta ga pripravila pomur-   sko društvo bio-energetikov, ter pomurski ekološki center, prišlo več kot dve sto poslušalcev. Med njimi, z izjemo 
-molčečih predstavnikov soboške Komunale,ki upravlja s Soboškimi vodovodi ni bilo niti enega 
-Pomurskega žup-ana, oziroma predstavnika regijskega zavoda za zdravstveno varstvo, ki uradno 
-spremlja kaj se dogaja z pitno vodo v pomurski regiji. Na pogovoru so manjkali tudi predstavniki 
-
-
-
-kmetijske pospeševalne slu-žbe od katere nasvetov je odvisno katere pesticide uporabljajo kmetje 
-za gnojenje polj, travnikov in sadovnjakov, in koliko le - teh porabijo.
+Pomurci pijejo najbolj oporečno in zdravju škodljivo vodo v državi. Zaradi melioracij in zložb zemljišč v preteklosti ter dolgih sušnih obdobij v zadnjih nekaj letih, jim pitne vode zaradi kritično znižane gladine podtalnice vedno bolj tudi primankuje, še posebej na Goričkem. Zato je na sobotni večerni pogovor o vodi, kot viru življenja in smrti, ki sta ga pripravila pomur-   sko društvo bio-energetikov, ter pomurski ekološki center, prišlo več kot dve sto poslušalcev. Med njimi, z izjemo molčečih predstavnikov soboške Komunale,ki upravlja s Soboškimi vodovodi ni bilo niti enega Pomurskega žup-ana, oziroma predstavnika regijskega zavoda za zdravstveno varstvo, ki uradno spremlja kaj se dogaja z pitno vodo v pomurski regiji. Na pogovoru so manjkali tudi predstavniki kmetijske pospeševalne slu-žbe od katere nasvetov je odvisno katere pesticide uporabljajo kmetje za gnojenje polj, travnikov in sadovnjakov, in koliko le - teh porabijo.
 
 #### M177. Pravopisna ureditev besedila
 
 Pravopisno popravite.
 
-Mnoga podjetja imajo bodisi svojo blagovno znamko, bodisi upravljajo znamko drugega podjetja. 
-Pogosto jo obravnavajo preprosto kot logotip ali osnovni izdelek. Vprašanja povezana z znamko so 
-praviloma v pristojnosti prodajne ali nabavne službe, načrtovanje znamke pa pogosto nima svojega 
-mesta v podjetju. Vendar je znamka več kot to. Pomeni komunikacijski simbol, preprečuje tveganje 
-za kupca, predstavlja dodano vrednost in -to je najpomembneje – zagotavlja prihodnje donose. Da 
-bi resnično izkoristili zmožnosti znamke moramo opredeliti njeno vsebino in odnos do nje. Glede 
-na nalogo, ki jo opravlja lahko znamko uvrstimo v eno od 8. kategorij… Znamka je tudi orodje 
-razliko-vanja saj omogoča razlikovanje med zelo podobnimi izdelki. Znamka kot funkcijski 
-element, je pom-embna predvsem za sporočanje funkcijonalnih sposobnosti izdelka in kot jamstvo 
-za njegovo kakovost.
+Mnoga podjetja imajo bodisi svojo blagovno znamko, bodisi upravljajo znamko drugega podjetja. Pogosto jo obravnavajo preprosto kot logotip ali osnovni izdelek. Vprašanja povezana z znamko so praviloma v pristojnosti prodajne ali nabavne službe, načrtovanje znamke pa pogosto nima svojega mesta v podjetju. Vendar je znamka več kot to. Pomeni komunikacijski simbol, preprečuje tveganje za kupca, predstavlja dodano vrednost in -to je najpomembneje – zagotavlja prihodnje donose. Da bi resnično izkoristili zmožnosti znamke moramo opredeliti njeno vsebino in odnos do nje. Glede na nalogo, ki jo opravlja lahko znamko uvrstimo v eno od 8. kategorij… Znamka je tudi orodje razliko-vanja saj omogoča razlikovanje med zelo podobnimi izdelki. Znamka kot funkcijski element, je pom-embna predvsem za sporočanje funkcijonalnih sposobnosti izdelka in kot jamstvo za njegovo kakovost.
 
 #### M178. Pravopisna ureditev povedi
 
@@ -10357,7 +10124,17 @@ Pravopisno popravite, kjer je to potrebno:
 
 Pravopisno popravite povedi, kjer je to potrebno:
 
-Tenerife je otok v Atlantskem oceanu. Starši so oče in mama. Gorenji podporšt pri veliki Loki je gručasta vasica v Dolenjskemu podolju, severo-zahodno od velike Loke leži na položnem prisojnem pobočju med vasico Trebanjski vrh na severu in Igelnikom na jugu. Hočem delat. -- Pa pojdi delat. Prednost naših avtomobilov so 1, 2 in 1, 4 literski bencinski in dizeljski motorji. Pletiljka je lepi poklic.
+Tenerife je otok v Atlantskem oceanu.
+
+Starši so oče in mama.
+
+Gorenji podporšt pri veliki Loki je gručasta vasica v Dolenjskemu podolju, severo-zahodno od velike Loke leži na položnem prisojnem pobočju med vasico Trebanjski vrh na severu in Igelnikom na jugu.
+
+Hočem delat. -- Pa pojdi delat.
+
+Prednost naših avtomobilov so 1, 2 in 1, 4 literski bencinski in dizeljski motorji.
+
+Pletiljka je lepi poklic.
 
 #### M180. Pravopisna ureditev povedi
 
@@ -10376,7 +10153,9 @@ Pravopisno popravite besedilo.
 Pravopisno popravite besedilo.
 
 Ameriškemu predsedniku ________ (Barack Obama) bodo v prihodnjih mesecih vrnili njegov priljubljeni blackberry, ki ga bodo opremili s posebnim varnostnim mehanizmom. Ta bo morebitnim nepridipravom preprečeval vdor v _________ (Obama, svoj. prid.) prenosni telefon in prisluškovanje.
+
 Obama je v zameno za svoj blackberry dobil posebno obdelani prenosni telefon, ki ga je oblikovala ameriška agencija za nacionalno varnost (NSA) in ga je praktično nemogoče izslediti. Čez nekaj mesecev pa bo ameriški predsednik lahko ponovno uporabljal svoj blackberry, v katerega bodo vgradili poseben varnostni mehanizem.
+
 Varnostni mehanizem z imenom SecureVoice je v sodelovanju z NSA razvilo podjetje Genesis Key, _________ (Obama, svoj. prid.) prenosni telefon pa bo z njim povsem varen pred napadi hackerjev/hekerjev. Poseben varnostni sistem bo _________ (Obama) omogočal pregledovanje strogo zaupnih dokumentov tudi izven prostorov bele hiše, varno pa se bo lahko pogovarjal tudi s svojo ženo in ostalimi družinskimi člani, ki bodo opremljeni z zavarovanimi telefoni.
 
 #### M182. Pravopisna ureditev besedila
@@ -10396,7 +10175,9 @@ Zunanji minister Samuel Žbogar se bo drugi dan delovnega obiska v rusiji sestal
 Pravopisno popravite besedilo.
 
 Hrvaški premier Ivo Sanader se je v torek sestal na sedežu združenih narodov v new yorku z generalnim sekretarjem ZN _______________ (Ban Ki Mun), s katerim sta med drugim govorila tudi o slovenski blokadi hrvaških pristopnih pogajanj z EU. Sanader je ________ (Ban Ki Mun) seznanil z razlogi blokade.
+
 "Rekel sem, kar govorim na hrvaškem in v evropi, pa naj se ve tudi v združenih narodih – slovenija je leta 2004 vstopila v ____ (EU) in ____ (Nato) z enakim odprtim vprašanjem (meje) in ne obstaja niti en razlog, da Hrvaška ne vstopi po isti poti, kar smo dokazali tudi v primeru _____ (Nato)," je po enournem pogovoru z ________ (Ban) dejal Sanader.
+
 Kot je ocenil Sanader, bo glede reševanj tega vprašanja junij zelo pomemben, lahko bi celo prišlo do deblokade pogajanj, "če evropska komisija, EU in Slovenija dojamejo, da je sedaj prelomen trenutek". Če pa junija deblokade ne bo, bo Slovenija izgubila na verodostojnosti in ugledu, je še dejal Sanader, ki se je v okviru obiska v New Yorku v ponedeljek o tej temi pogovarjal tudi z evropskim komisarjem za širitev __________________ (Olli Rehn).
 
 #### M185. Pravopisna ureditev besedila
@@ -10409,72 +10190,112 @@ Lipan (thymallus thymallus) je poleg soške postrvi edina avtohtona salmonidna v
 
 Pravopisno popravite besedilo.
 
-Osem desetletij slovenskega filma zbranih na enem mestu
+**Osem desetletij slovenskega filma zbranih na enem mestu**
+
 Filmografija slovenskih celo večernih filmov
-24. maj 2011 ob 21:46
+
+24\. maj 2011 ob 21:46
+
 Ljubljana - MMC RTV SLO/STA
+
 Letos mineva 80. let, od kar je bil predvajan prvi Slovenski celo večerec V kraljestvu Zlatoroga, kar je Slovenska kinoteka v sodelovanju s založbo UMco počastila z izdajo Filmografije slovenskih celovečernih filmov.
+
 Integralna in dvojezična filmografija je nadaljevanje filmografij, ki sta pokrili obdobje v letih 1931-1993 in 1994-2000. Obsega 205 filmov od prvega predvajanega slovenskega filma V kraljestvu Zlatoroga režiserja Janka Ravnika - predvajan je bil 28.8.1931 v Ljubljanskem hotelu Union - pa vse do Oče režiserja Vladota Škafar ki je na filmska platna prišel lani. Poleg tega, publikacija z kratkimi portreti pretstavlja 80. režiserjev: pregledni avtorski zapis Zdenka Vrdlovca naslovljen Zgodba o slovenskem filmu in oris filmske produkcije na slovenskem ispod peresa Lilijane Nedič. Priložena je tudi izbrana bibliografija s podatki o monografijah, zbornikih in katalogih o slovenskemu filmu ter kinematografiji.
-Tema, ki se je niso lotevali
+
+**Tema, ki se je niso lotevali**
+
 Na vprašanje o splošnih tematskih zanimanjih slovenskega filma v primerjavi s filmi držav nekdanje Jugoslavije, je direktor in urednik založbe UMco Samo Rugelj odgovoril, da se slovenski filmi razlikujejo potem, da z izjemo filma Felix ( 1996 ) režiserja Božota Šprajca niso odpirali tematik osamosvojitvenega obdobja in tranzicije, ki mu je sledila. Socijalne drame Damjana Kozoleta so temu žanru še najbližje, drugače pa so se slovenski filmi v tem obdobju ukvarjali večinoma s posamezniki in njihovimi individualnimi usodami meni Rugelj.
-Pomlad slovenskega filma
+
+**Pomlad slovenskega filma**
+
 Te usode po njegovem mnenju niso bile vpete v širši družbenozgodovinski kontekst, ki bi omogočal "velike filme" posvečene osebnim zgodbam na križišču zgodovine. Kot izjeme tega pravila Rugelj našteva filme Osebna prtljaga (2009) Janeza Lapajne, Pokrajina št. 2 (2008) ________________ (Vinko Möderndorfer), Piran-Pirano (2010) __________________ - (Goran Vojnović) in Ljubljana je ljubljena (2005) __________________ (Matjaž Klopčič). Po njegovem mnenju se v Sloveniji večinoma snemajo filmi, ki se dogajajo "tukaj in zdaj", ter nimajo ambicije komunicirati s širšim občinstvom.
-"Zadnjih 20. let slovenskega filma so spremljale tudi spremembe produkcijskih pogojev. 
+
+"Zadnjih 20. let slovenskega filma so spremljale tudi spremembe produkcijskih pogojev.
+
 ' Pomlad ' slovenskega filma je trajala po mojem mnenju v obdobju med leti 1998 in 2003. Takrat se je zvrstilo veliko prvencev, med drugim ____________ (Miha Hočevar), _____________ (Vojko Anzeljc), ______________ (Branko Đurić), ti filmi pa so hkrati želeli zajeti širše občinstvo" je še povedal Rugelj.
 
-Dodatek: biografija ___________________ (Akira Kurosawa)
+**Dodatek: biografija ___________________ (Akira Kurosawa)**
+
 UMco je v sodelovanju z Slovensko kinoteko izdal tudi biografske notice japonskega cineasta __________________ (Akira Kurosawa) (1910-1998) z naslovom Nekakšna biografija. Kot piše Kurosawa sta odločitev za knjigo spodbudili njegovo srečanje s francoskim cineastom __________________ (Jean Renoir) in občudovanje Ameriškega režiserja _______________ (John Ford). Na stara leta bi se rad postaral, kot ta dva sijajna mojstra, je zapisal Kurosawa.
+
 Biografski zapiski Kurosawe prinašajo v prvem delu njegova razmišljanja o odraščanju in odnosu s karizmatičnim bratom, drugi del knjige pa se posveča filmu. Po ______________ (Rugelj) besedah je knjiga polna anekdot, ki pa niso vedno prisrčne. Kurosawa se skozi pisanje razkriva kot uporen in tenkočuten ustvarjalec, ter zagrizen delavec, ki bi lahko marsikomu v Evropi bil za zgled je prepričan Rugelj.
 
 #### M187. Pravopisna ureditev besedila
 
 Popravite pravopisne, slovnične in stilno-zvrstne napake in pomanklivosti.
 
-Antarktika postaja turistični raj
+**Antarktika postaja turistični raj**
+
 36 miljonov km2, 1.000 prebivalcov. Temperature: od -90 do - 5 stopinj. Glavna atrakcija : led. Zakaj so torej turisti pripravljeni odšteti 10.000 dolarjov za 10 dni antarktike?
+
 Število turistov namreč na tem najbolj odročnem, samotnem, ekzotičnem kontinentu na južnem polu vztrajno raste in klubuje vsem zakonom recesije (leta 2008 jih je bilo med 30.000 in 40.000, do leta 2010 pa naj bi ta številka narasla že na 80.000).
+
 Če sklepamo po opisu in fotografijah iz Antarktike so ti turisti veliki posebneži, ali pa taki, ki so prepotovali že vse, in zdaj iščejo ultimativno destinacijo dobesedno na koncu sveta. Če sklepamo po vrtoglavih cenah paketov so to bogataši.
 
 #### M188. Pravopisna ureditev besedila
 
 Popravite pravopisne, slovnične in stilno-zvrstne napake in pomanklivosti.
 
-Živalski raj na zemlji ogroža - človek
+**Živalski raj na zemlji ogroža - človek**
+
 Galapagos med varstvom okolja in turizmom
+
 Kupi zaudarjajočih smeti na obronkih Puerto Ayore naselbine na Galapagosu krhkega in biološko bogatega otočja, ki je navdihnilo Darwina so zgovoren dokaz, da tu »cveti« nova vrsta: človeška.
+
 Pred 150. leti je bilo to otočje, 960km odaljeno od obale Ekvadorja neokrnjen paradiž, ki je bil primarni vir za evolucijsko teorijo Charles Darwina.
+
 Danes majhni sivi ščinkavci, potomci ptic, ki so bile ključne za njegovo tezo, krožijo okoli smetišča - stranske škode rastočega mesta kamor se pospešeno selijo Ekvadorci, ki upajo na del velike turistične pogače otokov. Človeška populacija se je na nekdaj izključno živalskem področju v zadnjem desetletju podvojila na 30.000 - in okoljevarstveniki postajajo čedalje bolj živčni piše New York Times.
-Turist je kralj, domačin pa...
+
+**Turist je kralj, domačin pa...**
+
 Rast prebivalstva že škodi ekosistemu, ki je vrsto let dopuščal slavnejšim prebivalcem Galapagosa - med njimi velikanskim želvam in belim morskim vranom -, da se razvijejo v osami, preden so pred več kot stoletjem začeli ljudje s kontinenta otoke kolonizirati. Rast se je očitno sprevrgla v dovolj veliko grožnjo za okolje, da je celo Vlada, ki še vedno pozdravlja rast turistične industrije v zadnjem letu izgnala večkot tisoč revnih Ekvadorcev iz province, za katero menijo, da pripada njem.
+
 Z omejevanjem priseljevanja oblasti upajo, da bodo ohranile naravna čudesa, ki »hranijo« enega najpomembnejših sektorjev Ekvadorja - turizem. A ukrepom se vse glasnejše upirajo priseljenci, ki trdijo, da jih država kaznuje med tem, ko sama uživa ob miljonih dolarjev denarja turistov. »Pravijo nam, da je več vredno fotografiranje želve bogatega tujca, kot pa Ekvadorski državlan« toži Mariana de Reina Bustos priseljenka z osrednjega Ekvadorja. Svojo 22-letno hčero je policija predkratkim prijela v slumu in jo posadila na avion za kontinent.
 
 #### M189. Pravopisna ureditev besedila
 
 Popravite pravopisne, slovnične in stilno-zvrstne napake in pomanklivosti.
 
-Čista lopata: padec klučnega dokaza?
+**Čista lopata: padec klučnega dokaza?**
+
 Kaj je bil povod za prisluškovanje Zidarju?
+
 Klučni dokaz v aferi Čista lopata naj bi bil pod vprašajem, saj obramba Ivana Zidarja trdi, da so prisluhi Zidarju pridobljeni ne zakonito temeljili pa naj bi na konstruktu policije.
-Gre za prisluhe, iz decembra 2007, na podlagi katerih so nato začeli prisluškovati tudi Hildi Tovšak in Dušanu Črnigoju. Po mnenju zagovornika od Zidarja Boštjana Penkota naj bi bil sporen pred vsem način, na katerega je slovenska Policija dobila podlago za prisluškovanje Ivanu Zidarju. 
-Od kod je prišel dokaz?
-Po pisanju časnika Dnevnik je dokaz, na podlagi katerega so začeli Zidarju prvemu možu SCTja sploh prisluškovati prišel iz Nemčije. Nemški policist Schaffner iz Bavarske policije, naj bi slovenskem kriminalistu Robertu Slodeju po telefaxu poslal obvestilo, da se je srečal z informatorjem, ki trdi, da »Ivan Zidar izvršuje kazniva dejanja iz področja gospodarstva«, in mu razkril tudi telefonsko številko, ki bi naj jo Zidar uporabljal. 
+
+Gre za prisluhe, iz decembra 2007, na podlagi katerih so nato začeli prisluškovati tudi Hildi Tovšak in Dušanu Črnigoju. Po mnenju zagovornika od Zidarja Boštjana Penkota naj bi bil sporen pred vsem način, na katerega je slovenska Policija dobila podlago za prisluškovanje Ivanu Zidarju.
+
+**Od kod je prišel dokaz?**
+
+Po pisanju časnika Dnevnik je dokaz, na podlagi katerega so začeli Zidarju prvemu možu SCTja sploh prisluškovati prišel iz Nemčije. Nemški policist Schaffner iz Bavarske policije, naj bi slovenskem kriminalistu Robertu Slodeju po telefaxu poslal obvestilo, da se je srečal z informatorjem, ki trdi, da »Ivan Zidar izvršuje kazniva dejanja iz področja gospodarstva«, in mu razkril tudi telefonsko številko, ki bi naj jo Zidar uporabljal.
+
 Ljubljanska preiskovalna sodnica je na podlagi teh informacij nasledni dan (27.novembra) izdala odredbo za pridobitev podatkov o klicih povezanih z to telefonsko številko in 5. decembra še odredbo za prisluškovanje Ivanu Zidarju piše Dnevnik.
-Neobičajen način pridobivanja informacij
-Po mnenju Boštjana Penka je takšno ravnanje Državnih organov kršitev človekovih pravic. Dnevnik piše, da je način, na katerega je slovenska policija pridobila podlago za prisluškovanje, neobičajen tudi po mnenju tega državnega organa. 
+
+**Neobičajen način pridobivanja informacij**
+
+Po mnenju Boštjana Penka je takšno ravnanje Državnih organov kršitev človekovih pravic. Dnevnik piše, da je način, na katerega je slovenska policija pridobila podlago za prisluškovanje, neobičajen tudi po mnenju tega državnega organa.
+
 Z njihovega odgovora na vprašanje kako si izmenjujejo podatke z tujimi policijami bi naj bilo namreč jasno, da se to dogaja le v formalnem okviru prek Interpola, SECIja, delovnih skupin, ipd.. V odgovoru, policija ni navedla primera, ko si operativne informacije prek telefaxa izmenjujeta dva kriminalista kot naj bi se zgodilo v primeru Ivana Zidarja.
-Kaj vse se lahko zgodi, če...
-Kakšne bodo torej nasljednje poteze Zidarja in njegovega zagovornika Boštjana Penkota? Glede na to, da je Penko že vložil kazenski ovadbi zaradi zlorabe uradnega položaja zoper nemškem kriminalistu in njegovem slovenskem kolegu, ki sta si informacije izmenjevala po telefaxu bo najverjetneje poskušal prisluhe izločiti, kot nezakonito pridobljen dokaz. 
+
+**Kaj vse se lahko zgodi, če...**
+
+Kakšne bodo torej nasljednje poteze Zidarja in njegovega zagovornika Boštjana Penkota? Glede na to, da je Penko že vložil kazenski ovadbi zaradi zlorabe uradnega položaja zoper nemškem kriminalistu in njegovem slovenskem kolegu, ki sta si informacije izmenjevala po telefaxu bo najverjetneje poskušal prisluhe izločiti, kot nezakonito pridobljen dokaz.
+
 Po pisanju Dnevnika, naj bi Penko poskušal ugotoviti, kako je nemški kriminalist dobil informacijo, kdo je njegov informator in, ali je slovenska policija skonstruirala zgodbo, da bi lahko začela prisluškovati Zidarju. Če bi se namreč izkazalo, da je nemški kriminalist informacijo zoper Zidarja dobil iz Slovenije ter jo nato poslal nazaj v našo državo, ter da je šlo za konstrukt bodo prisluhi Zidarju, najverjetneje izločeni iz postopka hkrati z njimi pa »padejo« tudi prisluhi Tovšakovi in Črnigoju. To bi lahko pomenilo konec Čiste lopate, ne glede na to koliko pravih dokazov so preiskovalci zbrali, na podlagi domnevno nezakonitega prisluškovanja, še ugotavlja Dnevnik.
 
 #### M190. Pravopisna ureditev besedila
 
 Popravite pravopisne, slovnične in stilno-zvrstne napake in pomanklivosti.
 
-Na vrhu trije avstrijci, Valenčič komaj da ujel finale
+**Na vrhu trije avstrijci, Valenčič komaj da ujel finale**
+
 Druga vožnja bo ob 13.00 uri
-Po prvi vožnji moškega slaloma v ____________ (Alta Badia) kaže na avstrijsko zmago slavje. Slovenija bo imela v finalu Mitja Valenčiča, ki je 27.. 
-Vodi Manfred Pranger pred zmagovalcem prvega slaloma sezone _____________ (Reinfried Herbst) (+0, 22) in _______________ (Benjamin Raich) (+0.27). Valenčič zaostaja za 2,34 sekund. 
-Bernard Vajdič v svoji prvi tekmi sezone, ni prišel med 30. najbolših, prepočasna pa sta bila tudi Mitja Dragšič in Matic Skube. 
+
+Po prvi vožnji moškega slaloma v ____________ (Alta Badia) kaže na avstrijsko zmago slavje. Slovenija bo imela v finalu Mitja Valenčiča, ki je 27..
+
+Vodi Manfred Pranger pred zmagovalcem prvega slaloma sezone _____________ (Reinfried Herbst) (+0, 22) in _______________ (Benjamin Raich) (+0.27). Valenčič zaostaja za 2,34 sekund.
+
+Bernard Vajdič v svoji prvi tekmi sezone, ni prišel med 30. najbolših, prepočasna pa sta bila tudi Mitja Dragšič in Matic Skube.
+
 Druga vožnja bo ob 13.00h. To je četrta tekma smučarjov v 4 dneh. V petek je bila na sporedu super kombinacija, v soboto smuk, v nedeljo pa še vele slalom.
 
 #### M191. Pravopisna ureditev besedila
@@ -10482,39 +10303,65 @@ Druga vožnja bo ob 13.00h. To je četrta tekma smučarjov v 4 dneh. V petek je 
 Popravite pravopisne, slovnične in stilno-zvrstne napake in pomanklivosti.
 
 Po eni uri letenja v smeri severo zahoda nad južnokitajskim morjem sem zagledal naš cilj - majhen koralen otoček Layang Layang del isto imenskega atola. Iz zraka je bil videti, kot velika letalo nosilka, kajti bil je skoraj pravokotne oblike, pista aerodroma pa se je vlekla vzdolž celega otoka, in pokrivala skoraj polovico njegove površine.
-Na preostalemu delu otočka sta bila vojaška baza, kajti otoček je bil v lasti Malezijske mornarice in potapljaški center, ki si je s posebnimi dovolenji izboril svoj obstoj na Otoku. Bila je še trda tema ko so nas na Letališču v Koti Kinabalu na Borneu z kombijom pripeljali na zakotni in odaljeni terminal 2 kjer nikoli ne pristajajo večji avioni in nas postavili pred tehnico. Napočili so teški trenutki, kajti letališki personal bo natančno ugotovil koliko ima kdo prtlage- podvodni fotografi namreč z svojo opremo vedno vsaj za dva krat presežemo dovoljeno težo. Tokrat sma bila z Ireno sama, brez prijateljov, ki bi jim vsilila kakšne manjše rukzake, da bi se teža enakomerneje porazdelila. Tehtali so vse:veliko prtljago, ročno prtlago in nas z vsem kar smo imeli na nas. Spraševala sva se koliko bova morala doplačati, saj sva bila vsaj za 60kg pretežka; toda osebje je le molče zapisovalo teže in jih seštevalo. Nihče ni nič rekel, midva pa jih nisva hotela dražiti z vprašanji.
-Daniti se je začelo zelo hitro, kajti blizu Ekvatorja vzhaja Sonce skoraj navpično. Iz čakalnice sva videla letalo, ki se je ravnokar pripeljalo po pisti – majcen propelrski dvomotornik. Nato so nas poklicali – samo naju in štiri druge potnike, preostali bodo morali počakati na naslednjo letalo, kajti našo je bilo premajhno za vse. K sreči je pilot brkati malezijec že sedel v svoji kabini, kopilot, ki je bil hkrati tudi »stevardesa« pa se je moral splaziti v pilotsko kabino dobesedno čez nas…
- http://www.rtvslo.si/zabava/zanimivosti/pravljicar-franci-rogac-bo-bral-in-podeljeval-pravljice/218825
 
-Pravljičar Franci Rogač bo bral in podeljeval pravljice
-Predbožični pravljični popoldan za otroke v pasaži Maximarketa
-21. december 2009 ob 12:07
-Ljubljana - MMC RTV SLO
-Pravljice imajo v življenju otrok in tudi odraslih veliko vlogo. Ob iztekajočem letu 2009 smo za nekaj "pravljičnih" vprašanj poiskali odgovore pri pravljičarju Franciju Rogaču.
-Obdobje okrog božiča in novega leta, pa tudi ostali meseci v zimskem letnem času so še posebej povezani z branjem pravljic in ostalih knjig. Vzrok temu je najverjetneje obdarovanje ob iztekajočem koledarskem letu in mrzle zunanje temperature, ki nas z lahkoto privabijo k branju.
+Na preostalemu delu otočka sta bila vojaška baza, kajti otoček je bil v lasti Malezijske mornarice in potapljaški center, ki si je s posebnimi dovolenji izboril svoj obstoj na Otoku. Bila je še trda tema ko so nas na Letališču v Koti Kinabalu na Borneu z kombijom pripeljali na zakotni in odaljeni terminal 2 kjer nikoli ne pristajajo večji avioni in nas postavili pred tehnico. Napočili so teški trenutki, kajti letališki personal bo natančno ugotovil koliko ima kdo prtlage- podvodni fotografi namreč z svojo opremo vedno vsaj za dva krat presežemo dovoljeno težo. Tokrat sma bila z Ireno sama, brez prijateljov, ki bi jim vsilila kakšne manjše rukzake, da bi se teža enakomerneje porazdelila. Tehtali so vse:veliko prtljago, ročno prtlago in nas z vsem kar smo imeli na nas. Spraševala sva se koliko bova morala doplačati, saj sva bila vsaj za 60kg pretežka; toda osebje je le molče zapisovalo teže in jih seštevalo. Nihče ni nič rekel, midva pa jih nisva hotela dražiti z vprašanji.
+
+Daniti se je začelo zelo hitro, kajti blizu Ekvatorja vzhaja Sonce skoraj navpično. Iz čakalnice sva videla letalo, ki se je ravnokar pripeljalo po pisti – majcen propelrski dvomotornik. Nato so nas poklicali – samo naju in štiri druge potnike, preostali bodo morali počakati na naslednjo letalo, kajti našo je bilo premajhno za vse. K sreči je pilot brkati malezijec že sedel v svoji kabini, kopilot, ki je bil hkrati tudi »stevardesa« pa se je moral splaziti v pilotsko kabino dobesedno čez nas…
 
 #### M192. Pravopisna ureditev besedila
 
 Popravite pravopisne, slovnične in stilno-zvrstne napake in pomanklivosti.
 
+http://www.rtvslo.si/zabava/zanimivosti/pravljicar-franci-rogac-bo-bral-in-podeljeval-pravljice/218825
+
+**Pravljičar Franci Rogač bo bral in podeljeval pravljice**
+
+Predbožični pravljični popoldan za otroke v pasaži Maximarketa
+
+21\. december 2009 ob 12:07
+
+Ljubljana - MMC RTV SLO
+
+Pravljice imajo v življenju otrok in tudi odraslih veliko vlogo. Ob iztekajočem letu 2009 smo za nekaj "pravljičnih" vprašanj poiskali odgovore pri pravljičarju Franciju Rogaču.
+
+Obdobje okrog božiča in novega leta, pa tudi ostali meseci v zimskem letnem času so še posebej povezani z branjem pravljic in ostalih knjig. Vzrok temu je najverjetneje obdarovanje ob iztekajočem koledarskem letu in mrzle zunanje temperature, ki nas z lahkoto privabijo k branju.
+
 O "pravljičnem" letu 2009 smo se pogovarjali s pravljičarjem Francijem Rogačem.
+
 Katere pravljice po vaših izkušnjah imajo otroci najraje in zakaj?
+
 Otroci so najbolj iskreni kritiki in vedno povedo po resnici. Po mojih izkušnjah imajo radi pravljice, kjer so prisotne življenjske dogodivščine, kjer se junaki borijo za boljši jutri in morajo premagati težave. Torej pravljice, ki imajo sporočilo ali nauk.
+
 Kot pravljičar morda predlagate oziroma ponujate staršem in vsem ostalim, ki berejo otrokom pravljice kakšen poseben nasvet, ki ga naj opuštevajo pri branju?
+
 Da. To je, da naj vedno pravljico preberejo do konca. Da naj vedno vprašajo otroke, če česa niso razumeli in jim to tudi poskušajo razložiti. Pravljice pomagajo otrokom pri lažjem prehodu v mladost. Predvsem pa priporočam staršem, da si čim več pravljic izmislijo, ker le-te so toliko bolj preproste in duhovite, kot tiste, ki so že napisane. Sicer je pa res, da ima vsak starš svoje vzgojne metode in način, kako otroke navaditi na poslušanje pravljic.
-Otroke je potrebno redno spodbujati k branju pravljic in petju pesmic. Čim manj pa naj igrajo igrice na računalniku. 
+
+Otroke je potrebno redno spodbujati k branju pravljic in petju pesmic. Čim manj pa naj igrajo igrice na računalniku.
+
 Kam kot pravljičar umeščate domišljijo otrok in domišljijo staršev? Se vam zdi, da je nujno potrebna in zakaj?
+
 Domišljija otrok je nekaj najbolj naravnega, s poudarkom na igri, na novih doživetjih. Pri starših je domišljija pomembna, ker si lahko izmišljujejo pravljice. Pomembno je pa prevsem to, da znajo pravljico tudi smiselno zaključiti. Vedno je potrebno pri otroku spodbujati domišljijo in ustvarjanje, risanje, pisanje čačkanje in branje knjig, saj bodo le na ta način dodatno razmišljali in duhovno rasti.
+
 Domišljija je pomembna, a je odvisna predvsem od volje staršev, ki bi si morali vzeti več časa in ga posvetiti vzgoji otrok. Včasih lahko s pomočjo domišljije rešimo kakšno življenjsko nalogo na povsem drug način, kot bi jo brez nje. Npr., če je otrok bolan, mu lahko s pomočjo domišljije na zanimiv način razložimo, zakaj je zbolel. Seveda pa ne smemo pretiravati ali si izmišljevati nekaj, kar ni res. Zelo pomembno je, da ločimo pravljični svet oz. domišljijski svet od realnega sveta. Tukaj ni izjem.
-Pravljičar Franci je pred približno dvemi leti obiskal tudi MMC spletno klepetalnico. 
+
+**Pravljičar Franci je pred približno dvemi leti obiskal tudi MMC spletno klepetalnico.**
+
 Vaši načrti za leto 2010 na področju pisanja in izdajanja pravljic?
+
 Za leto 2010 imam načrt obiskati tri najbolj znane knjižne sejme v Evropi. To so Bologna (Bolonjski), London (Londonski) in Frankfurt (Frankfurtski knjižni sejem). Prav tako pa nameravam iti v Ameriko, na srečanje z znanim pisateljem Jack Canfieldom, na seminar, ki poteka vsako leto.
-Pravljice pišem po navdihu. Včasih jih napišem nekaj več in do izdaje mirujejo v računalniškem predalu. Šele čez nekaj mesecev se vrnem v obdelavo shranjene pravljice. Trenutno so v obdelavi Deževna kraljična in Hrči smrči. 
+
+Pravljice pišem po navdihu. Včasih jih napišem nekaj več in do izdaje mirujejo v računalniškem predalu. Šele čez nekaj mesecev se vrnem v obdelavo shranjene pravljice. Trenutno so v obdelavi Deževna kraljična in Hrči smrči.
+
 Ob koncu intervjuja nas je pravljičar povabil še na velik prebdožični pravljični dogodek, ki se bo odvijal 23.12.2009 v pasaži Maximarketa v Ljubljani. Potekal bo vse od 17. do 19. ure. Tam bo pravljičar predstavljal svojo novo pravljico Kresniček Bal, ki je izšla tudi v zvočni podobi.
+
 Pravljicam bo 23. 12. prisluhnil tudi MMC-jev slon Bansi in bo o tem poročal na svoji spletni strani. In še nekaj: Bansi bo tudi po novem letu nadaljeval s svojimi slontastičnimi nagradnimi igrami, med katerimi bodo seveda tudi knjige. Torej, imate še en razlog več, da redno spremljate njegovo spletno stran.
-December - mesec daril in pravljic
-December je čas obdarovanja, ki ga pravljičar Franci najraje izkoristi za obisk osnovnih šol in bolnišnic, kjer otrokom bere in podarja brezplačne izvode svojih pravljic. 
+
+**December - mesec daril in pravljic**
+
+December je čas obdarovanja, ki ga pravljičar Franci najraje izkoristi za obisk osnovnih šol in bolnišnic, kjer otrokom bere in podarja brezplačne izvode svojih pravljic.
+
 Naj torej živijo pravljice tudi v pravljičnem 2010. Srečno!
+
 Tanja Mojzer
 
 ## Rešitve

@@ -1,6 +1,6 @@
 # Slovenski jezikovni standard
 
-**Učno gradivo · različica 1.0**
+**Učno gradivo · različica 1.1**
 
 Gradivo za predmet **Slovenski jezikovni standard (SSJ)** v 1. letniku dodiplomskega študija.
 

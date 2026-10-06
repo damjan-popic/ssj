@@ -1,5 +1,12 @@
 # Spremembe
 
+## 1.1
+
+- Urejeni so odstavki, naslovi in zaporedje daljših besedil. Začetek besedila, ki je bil pomotoma priključen prejšnji vaji, je ponovno povezan s svojim nadaljevanjem.
+- Razdruženi so zlepljeni seznami imen in možnosti za izbiro; imena so ponovno povezana s pripadajočimi črtami za odgovore. Odstranjeni so podvojeni odlomki, nastali pri prenosu besedila.
+- Obnovljene so opombe, ležeči poudarki, nadpisane številke in izpuščeni vezaji; odpravljeni so prelomi in glave, ki so se pomotoma znašli v besedilu vaj.
+- Oznake vaj, razlagalni del in rešitve so ohranjeni. Namerno napačni zapisi v nalogah ostajajo del vaj.
+
 ## 1.0
 
 - Ime gradiva je **Učno gradivo**; osrednja datoteka je `SSJ_ucno_gradivo.md`.
