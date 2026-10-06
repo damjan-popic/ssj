@@ -8,7 +8,8 @@ Avtor: **Damjan Popič**, Oddelek za prevajalstvo, Filozofska fakulteta Univerze
 
 ## Gradivo
 
-- [Učno gradivo — branje v brskalniku](SSJ_ucno_gradivo.md)
+- [Učno gradivo (Markdown)](SSJ_ucno_gradivo.md)
+- [Prenesi celotno gradivo](https://raw.githubusercontent.com/damjan-popic/ssj/main/SSJ_ucno_gradivo.md)
 - [Poučevanje na osebni spletni strani](https://damjan-popic.github.io/sl/poucevanje/)
 
 Vse gradivo je v eni datoteki. Prvi del je namenjen branju in študiju: vsebuje razlage pravil in obdelane zglede. V zadnjem delu so zbrane vaje za delo pri pouku in samostojno utrjevanje, razporejene po vsebinskih področjih.
